@@ -1,7 +1,5 @@
 # Brain Sprints Analytics
 
-A dbt analytics engineering project modelling three raw CSV extracts; customer organisations, subscription lifecycle/payment events, and product usage events into a tested warehouse layer and a set of business-facing marts.
-
 The project supports analysis across the customer lifecycle:
 
 **Acquire - Activate - Retain - Expand - Protect & Optimise Revenue**
