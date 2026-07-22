@@ -15,14 +15,6 @@ The final marts focus on trial activation, voluntary churn signals, behavioural 
 - **MotherDuck**
 - **Hex**
 
-```bash
-pip install dbt-duckdb
-
-DBT_PROFILES_DIR=. dbt build
-
-DBT_PROFILES_DIR=. dbt docs generate
-```
-
 ---
 
 ## Project Structure
