@@ -4,7 +4,7 @@ A dbt analytics engineering project modelling three raw CSV extracts; customer o
 
 The project supports analysis across the customer lifecycle:
 
-**Acquire → Activate → Retain → Expand → Protect & Optimise Revenue**
+**Acquire - Activate - Retain - Expand - Protect & Optimise Revenue**
 
 The final marts focus on trial activation, voluntary churn signals, behavioural expansion opportunities, customer health, recurring revenue, and payment risk.
 
