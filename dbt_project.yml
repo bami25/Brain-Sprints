@@ -1,0 +1,29 @@
+name: brain_sprints_analytics
+version: "1.0.0"
+profile: brain_sprints
+
+model-paths: ["models"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: target
+clean-targets: [target, dbt_packages]
+
+models:
+  brain_sprints_analytics:
+    staging:
+      +materialized: view
+      +tags: [staging]
+    intermediate:
+      +materialized: view
+      +tags: [intermediate]
+    marts:
+      +materialized: table
+      +tags: [marts]
+
+vars:
+  as_of_date: "2026-06-30"
+  # Static placeholder EUR->GBP rate used to normalise cross-currency revenue
+  # before rollups; swap for a date-indexed FX table if precision matters in
+  # production (see stg_subscription_events).
+  eur_gbp_rate: 0.86

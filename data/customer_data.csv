@@ -1,0 +1,1001 @@
+company_id,company_name,industry,region,trial_start_date,subscription_status,current_plan_name,current_seat_count,organisation_size_band,sales_channel,customer_success_owner,created_at,updated_at
+co_0001,Lancaster Community Library,Library,London,2024-06-09,trial,Medium,264,101-500,self_serve,Jacob Turner,2024-06-09T17:16:00,2026-02-04T12:41:00
+co_0002,Westfield Training,Private Education,South West,2024-09-04,active,Small,29,1-50,partner,Imogen Davies,2024-08-27T11:43:00,2026-03-02T08:27:00
+co_0003,York University,University,West Midlands,2024-12-16,trial,Large,585,501-1000,self_serve,Ben Whitmore,2024-12-08T16:21:00,2026-05-22T10:32:00
+co_0004,Summit Training,Training Provider,East Midlands,2025-04-05,active,Small,97,51-100,direct_sales,Daniel Hughes,2025-03-28T10:14:00,2026-04-30T16:45:00
+co_0005,Fairfield Grammar School,School,Northern Ireland,2026-04-06,active,Small,61,51-100,partner,George Bennett,2026-03-31T13:23:00,2026-05-10T09:05:00
+co_0006,Northbridge Learning Group,Private Education,London,2025-07-17,active,Small,74,51-100,partner,Ella Thompson,2025-07-14T14:37:00,2025-07-31T15:34:00
+co_0007,Oxford Libraries,Library,South West,2025-09-06,trial,Small,55,51-100,public_sector_framework,Farah Malik,2025-09-02T17:36:00,2026-04-04T09:06:00
+co_0008,Rowan College,School,Yorkshire and the Humber,2026-03-06,trial,Medium,175,101-500,self_serve,,2026-03-01T12:59:00,2026-05-25T09:34:00
+co_0009,Belfast Library Service,Library,London,2025-01-09,active,Medium,135,101-500,self_serve,Jacob Turner,2025-01-11T15:48:00,2026-02-22T14:16:00
+co_0010,Cambridge Knowledge Hub,Library,Northern Ireland,2025-01-21,active,Medium,207,101-500,direct_sales,Ben Whitmore,2025-01-21T17:17:00,2025-08-05T17:25:00
+co_0011,Cotswold Training,Private Education,Yorkshire and the Humber,2026-05-13,active,Small,18,1-50,public_sector_framework,Amelia Clarke,2026-05-11T18:34:00,2026-06-29T12:13:00
+co_0012,Bridgewater Education Partnership,Other,East of England,2025-06-24,active,Small,50,1-50,inbound,Hannah Roberts,2025-06-19T09:55:00,2026-03-10T15:29:00
+co_0013,York University North,University,South West,2024-07-02,trial,Large,911,501-1000,direct_sales,Daniel Hughes,2024-06-30T12:41:00,2025-07-28T14:56:00
+co_0014,Bridgewater Learning Group,Training Provider,Scotland,2024-05-22,active,Medium,148,101-500,direct_sales,George Bennett,2024-05-24T17:43:00,2025-10-21T10:06:00
+co_0015,Kingfisher Training,Private Education,London,2024-08-08,active,Medium,107,101-500,self_serve,,2024-08-08T15:45:00,2025-12-22T11:05:00
+co_0016,Northbridge Academy,School,North East,2025-09-23,active,Medium,245,101-500,direct_sales,Daniel Hughes,2025-09-23T13:49:00,2026-04-08T16:16:00
+co_0017,Reading Higher Education Centre,University,South West,2023-11-17,trial,Medium,181,101-500,self_serve,Jacob Turner,2023-11-13T12:05:00,2026-03-18T08:18:00
+co_0018,Abbey Academy,School,South East,2024-03-21,active,Medium,272,101-500,public_sector_framework,Farah Malik,2024-03-21T15:42:00,2025-09-15T08:02:00
+co_0019,Summit Grammar School,School,North East,2025-01-17,trial,Medium,224,101-500,direct_sales,Ella Thompson,2025-01-15T13:37:00,2025-11-15T08:54:00
+co_0020,Oxford Higher Education Centre,University,South East,2023-09-20,trial,Medium,232,101-500,partner,Farah Malik,2023-09-11T18:34:00,2025-07-30T10:22:00
+co_0021,Cardiff Further Education College,Further Education,North West,2025-07-11,voluntary_churn,Medium,269,101-500,direct_sales,Farah Malik,2025-07-07T16:45:00,2025-10-14T10:36:00
+co_0022,Oaklands Education Partnership,Other,East of England,2024-10-25,active,Small,69,51-100,partner,Amelia Clarke,2024-10-27T18:14:00,2026-06-04T13:45:00
+co_0023,Tudor School,School,Wales,2025-12-01,paused,Medium,243,101-500,direct_sales,Farah Malik,2025-11-21T15:55:00,2025-12-15T12:36:00
+co_0024,Harbour Learning Group,Private Education,Ireland,2024-05-08,trial,Medium,155,101-500,partner,Amelia Clarke,2024-05-07T09:15:00,2025-08-03T13:02:00
+co_0025,Leeds Further Education College,Further Education,Wales,2025-08-19,trial,Medium,232,101-500,direct_sales,Ella Thompson,2025-08-12T08:49:00,2026-05-29T13:17:00
+co_0026,Beechwood College,School,East of England,2025-11-05,active,Small,48,1-50,direct_sales,George Bennett,2025-10-29T18:56:00,2025-11-10T09:57:00
+co_0027,Cardiff Further Education College South,Further Education,London,2025-03-02,active,Medium ,207,101-500,direct_sales,Imogen Davies,2025-03-01T12:43:00,2025-08-08T17:19:00
+co_0028,Stamford Training,Training Provider,East Midlands,2025-05-15,trial,Medium,150,101-500,public_sector_framework,,2025-05-07T08:12:00,2026-05-12T09:52:00
+co_0029,Lakeside Learning Group,Private Education,Wales,2026-04-15,active,Small,84,51-100,inbound,Daniel Hughes,2026-04-08T15:21:00,2026-05-18T09:59:00
+co_0030,Edinburgh Further Education College,Further Education,West Midlands,2024-12-28,active,Large,526,501-1000,self_serve,Amelia Clarke,2024-12-30T09:13:00,2026-05-14T16:54:00
+co_0031,Fairfield Skills Centre,Training Provider,South West,2023-11-29,trial,MEDIUM,178,101-500,self_serve,Farah Malik,2023-12-01T13:15:00,2025-11-12T12:00:00
+co_0032,Cambridge Further Education College,Further Education,Ireland,2024-01-18,trial,Medium,205,101-500,self_serve,Amelia Clarke,2024-01-14T10:59:00,2025-08-01T08:58:00
+co_0033,Maple Education Services,Training Provider,South East,2026-03-14,active,Small,85,51-100,partner,Amelia Clarke,2026-03-09T17:43:00,2026-06-20T11:50:00
+co_0034,Tudor Learning Group,Training Provider,London,2024-06-25,active,Small,45,1-50,direct_sales,Jacob Turner,2024-06-24T16:14:00,2025-11-20T14:33:00
+co_0035,Birmingham Further Education College,Further Education,Scotland,2025-10-08,active,Bespoke,1078,1001+,direct_sales,Ben Whitmore,2025-10-03T15:45:00,2026-06-10T17:00:00
+co_0036,Parkside Learning Trust,School,South East,2024-04-13,active,Medium,167,101-500,self_serve,George Bennett,2024-04-13T11:23:00,2025-10-27T15:45:00
+co_0037,Tudor Learning Trust,School,Yorkshire and the Humber,2024-08-06,trial,Small,23,1-50,public_sector_framework,Charlotte Evans,2024-07-29T18:00:00,2025-07-05T17:29:00
+co_0038,Riverside Academy,School,North West,2023-10-27,active,Medium,142,101-500,inbound,George Bennett,2023-10-20T11:15:00,2026-04-04T17:03:00
+co_0039,Maple Training,Training Provider,South West,2024-04-16,active,Small,34,1-50,direct_sales,Charlotte Evans,2024-04-10T08:53:00,2026-03-25T17:29:00
+co_0040,Greenwich Education Partnership,Other,London,2024-04-25,active,SMALL,43,1-50,direct_sales,George Bennett,2024-04-24T14:28:00,2026-05-21T09:50:00
+co_0041,Hillcrest Learning Trust,School,London,2025-12-02,active,Medium,248,101-500,direct_sales,Imogen Davies,2025-12-04T14:56:00,2026-04-19T10:24:00
+co_0042,Exeter Libraries,Library,East of England,2024-01-12,active,Medium,202,101-500,direct_sales,Ella Thompson,2024-01-11T13:04:00,2025-09-23T13:23:00
+co_0043,Bristol Training,Private Education,Yorkshire and the Humber,2025-09-20,paused,Medium,162,101-500,self_serve,,2025-09-22T09:13:00,2025-10-17T12:29:00
+co_0044,Harbour Learning Trust,School,South West,2023-10-27,delinquent_churn,Medium,121,101-500,direct_sales,Hannah Roberts,2023-10-27T17:08:00,2025-08-05T10:29:00
+co_0045,Lakeside Education Partnership,Other,Northern Ireland,2025-03-01,voluntary_churn,Small,82,51-100,public_sector_framework,Daniel Hughes,2025-02-23T18:49:00,2026-03-17T08:37:00
+co_0046,Cedar Skills Centre,Private Education,East of England,2023-10-17,paused,Small,35,1-50,direct_sales,Jacob Turner,2023-10-17T14:57:00,2025-06-20T14:53:00
+co_0047,Bridgewater Training,Training Provider,Wales,2025-10-25,trial,Medium,300,101-500,self_serve,Amelia Clarke,2025-10-24T08:07:00,2025-12-30T15:45:00
+co_0048,Parkside College,School,North West,2025-05-27,trial,Medium,325,101-500,inbound,Amelia Clarke,2025-05-18T12:24:00,2026-02-17T09:55:00
+co_0049,Leeds Institute,University,South East,2025-11-07,active,Large,584,501-1000,self_serve,Charlotte Evans,2025-11-01T11:54:00,2026-03-21T14:48:00
+co_0050,Willow Academy,School,South West,2026-03-19,active,Medium,124,101-500,inbound,,2026-03-15T10:36:00,2026-05-26T17:13:00
+co_0051,Harbour College,School,West Midlands,2024-01-31,active,Medium,102,101-500,inbound,,2024-01-27T14:26:00,2025-09-04T08:23:00
+co_0052,Ashford Grammar School,School,North East,2026-05-30,active,Small,74,51-100,inbound,Imogen Davies,2026-05-30T11:00:00,2026-06-17T16:40:00
+co_0053,Reading Further Education College,Further Education,Scotland,2024-08-01,trial,Medium,379,101-500,direct_sales,Hannah Roberts,2024-08-03T08:24:00,2025-06-16T16:45:00
+co_0054,Tudor Learning Group Trust,Private Education,South East,2023-12-19,active,Medium,308,101-500,partner,Imogen Davies,2023-12-11T15:47:00,2025-09-07T11:06:00
+co_0055,Queensway Grammar School,School,London,2025-02-04,active,Medium,189,101-500,direct_sales,Imogen Davies,2025-02-03T18:52:00,2025-09-12T17:18:00
+co_0056,Cotswold Training North,Private Education,South East,2023-08-28,trial,Small,31,1-50,direct_sales,Imogen Davies,2023-08-23T12:04:00,2026-01-25T15:24:00
+co_0057,Oaklands Skills Centre,Private Education,East of England,2024-12-28,trial,Small,29,1-50,self_serve,Charlotte Evans,2024-12-18T16:49:00,2025-07-16T09:02:00
+co_0058,Riverside Grammar School,School,London,2025-08-31,trial,Medium,286,101-500,self_serve,Daniel Hughes,2025-09-02T15:25:00,2025-09-29T13:26:00
+co_0059,Greenwich College,School,East of England,2023-10-21,active,Medium,107,101-500,inbound,Daniel Hughes,2023-10-18T08:14:00,2025-06-11T12:06:00
+co_0060,Tudor Education Services,Training Provider,East Midlands,2023-11-29,active,Medium,344,101-500,self_serve,,2023-11-27T17:38:00,2026-04-26T11:53:00
+co_0061,Rowan Education Services,Private Education,West Midlands,2024-03-16,active,Small,89,51-100,direct_sales,Hannah Roberts,2024-03-16T09:51:00,2025-06-01T15:17:00
+co_0062,Oaklands Learning Group,Training Provider,Yorkshire and the Humber,2024-09-13,active,Small,60,51-100,direct_sales,Ben Whitmore,2024-09-03T13:47:00,2025-11-11T16:26:00
+co_0063,Swansea Libraries,Library,Yorkshire and the Humber,2023-08-31,active,Bespoke,1228,1001+,self_serve,George Bennett,2023-08-28T16:56:00,2025-09-22T18:37:00
+co_0064,Fairfield Academy,School,Scotland,2024-02-12,active,Medium,113,101-500,partner,Ella Thompson,2024-02-05T11:59:00,2026-02-26T10:22:00
+co_0065,Bristol Learning Group,Private Education,South East,2024-04-15,active,Small,58,51-100,partner,Amelia Clarke,2024-04-17T15:51:00,2026-06-28T11:55:00
+co_0066,Eastgate Learning Group,Private Education,West Midlands,2025-04-06,trial,Medium,108,101-500,direct_sales,Farah Malik,2025-04-05T13:17:00,2026-04-22T14:42:00
+co_0067,Cedar Skills Centre South,Private Education,South East,2023-08-08,trial,SMALL,56,51-100,partner,Ben Whitmore,2023-07-30T12:04:00,2025-05-25T08:21:00
+co_0068,Parkside Education Partnership,Other,London,2024-11-16,active,Medium,156,101-500,direct_sales,Ben Whitmore,2024-11-15T18:01:00,2026-02-17T08:00:00
+co_0069,Bristol Learning Trust,School,South West,2026-04-07,active,Medium,181,101-500,direct_sales,Ella Thompson,2026-03-28T14:53:00,2026-05-22T08:19:00
+co_0070,Camden Academy,School,Yorkshire and the Humber,2024-12-29,trial,Small,84,51-100,inbound,Jacob Turner,2024-12-25T15:52:00,2025-10-25T12:23:00
+co_0071,Norwich Higher Education Centre,University,London,2024-04-12,trial,Medium,432,101-500,partner,Daniel Hughes,2024-04-11T10:51:00,2025-08-29T14:17:00
+co_0072,Ashford Learning Group,Private Education,South West,2024-05-25,trial,Small,21,1-50,self_serve,Daniel Hughes,2024-05-25T17:21:00,2026-02-13T10:40:00
+co_0073,Leeds Libraries,Library,North West,2026-03-23,active,Medium,115,101-500,partner,Jacob Turner,2026-03-15T18:36:00,2026-06-29T08:51:00
+co_0074,Bristol Skills Centre,Private Education,South West,2024-10-02,active,Small,21,1-50,direct_sales,Charlotte Evans,2024-10-03T17:12:00,2025-12-02T09:30:00
+co_0075,Maple School,School,West Midlands,2025-12-26,active,Medium,120,101-500,partner,Ben Whitmore,2025-12-19T13:22:00,2026-02-26T09:37:00
+co_0076,Hadley School,School,North West,2024-02-27,trial,Small,61,51-100,inbound,Ben Whitmore,2024-02-26T18:26:00,2025-09-26T09:26:00
+co_0077,Bristol Training South,Private Education,North East,2024-05-16,trial,Medium,138,101-500,inbound,Ben Whitmore,2024-05-11T08:59:00,2025-07-19T11:11:00
+co_0078,Hillcrest Education Services,Training Provider,East of England,2025-01-19,active,Medium,183,101-500,direct_sales,Daniel Hughes,2025-01-18T16:40:00,2025-07-05T09:53:00
+co_0079,Cambridge Further Education College Trust,Further Education,Yorkshire and the Humber,2026-04-05,active,Small,100,51-100,direct_sales,Ella Thompson,2026-04-04T13:02:00,2026-04-24T08:27:00
+co_0080,Belfast Further Education College,Further Education,West Midlands,2026-02-02,trial,Medium,274,101-500,partner,Ella Thompson,2026-01-31T15:08:00,2026-03-05T17:36:00
+co_0081,Reading Library Service,Library,South East,2025-02-11,active,Medium,301,101-500,partner,Amelia Clarke,2025-02-10T13:14:00,2025-10-15T12:42:00
+co_0082,Victoria Skills Centre,Private Education,South East,2024-04-17,active,Small,92,51-100,public_sector_framework,George Bennett,2024-04-10T14:11:00,2025-07-25T09:43:00
+co_0083,Kingfisher Skills Centre,Private Education,West Midlands,2026-01-07,trial,Small,42,1-50,public_sector_framework,Ella Thompson,2026-01-02T09:31:00,2026-03-19T11:17:00
+co_0084,Eastgate School,School,Yorkshire and the Humber,2023-08-01,active,Small,59,51-100,direct_sales,Hannah Roberts,2023-07-29T12:33:00,2026-05-17T10:53:00
+co_0085,Elmfield College,School,South West,2026-05-27,active,Small,73,51-100,direct_sales,Daniel Hughes,2026-05-29T14:29:00,2026-06-26T09:06:00
+co_0086,Hillcrest Learning Trust Trust,School,Wales,2025-07-02,active,Small,99,51-100,direct_sales,Charlotte Evans,2025-06-29T10:08:00,2025-10-04T16:55:00
+co_0087,Oaklands Academy,School,East Midlands,2025-06-08,active,Medium,162,101-500,direct_sales,George Bennett,2025-05-29T18:49:00,2026-05-10T13:52:00
+co_0088,Bridgewater Academy,School,South East,2025-10-05,active,Medium,271,101-500,direct_sales,George Bennett,2025-09-29T10:53:00,2026-05-16T10:10:00
+co_0089,Camden Training,Private Education,Wales,2025-01-19,trial,Small,18,1-50,self_serve,Daniel Hughes,2025-01-13T14:01:00,2026-06-20T12:54:00
+co_0090,Maple Learning Trust,School,East of England,2024-09-22,trial,Small,31,1-50,direct_sales,Amelia Clarke,2024-09-12T09:12:00,2026-06-12T17:28:00
+co_0091,Hadley Training,Training Provider,Wales,2024-03-03,active,MEDIUM,363,101-500,public_sector_framework,Jacob Turner,2024-02-24T10:52:00,2025-12-17T18:40:00
+co_0092,Ashford Learning Group South,Private Education,London,2026-05-05,trial,Small,58,51-100,self_serve,Hannah Roberts,2026-04-29T17:31:00,2026-05-20T14:33:00
+co_0093,Bridgewater Education Services,Private Education,North East,2026-02-14,active,Small,84,51-100,self_serve,Hannah Roberts,2026-02-16T09:16:00,2026-04-09T17:38:00
+co_0094,Belfast Library Service South,Library,North East,2025-12-02,trial,Small,18,1-50,partner,Daniel Hughes,2025-11-27T12:54:00,2026-05-19T18:21:00
+co_0095,Riverside Learning Group,Training Provider,North West,2025-03-21,trial,SMALL,33,1-50,partner,Imogen Davies,2025-03-18T12:08:00,2025-10-29T09:23:00
+co_0096,Rowan School,School,South West,2024-03-10,active,Medium,136,101-500,public_sector_framework,Hannah Roberts,2024-03-02T13:39:00,2025-08-29T09:29:00
+co_0097,Northbridge School,School,South East,2024-06-05,trial,Small,64,51-100,self_serve,Charlotte Evans,2024-05-30T16:05:00,2025-06-21T15:32:00
+co_0098,Stamford Training Trust,Private Education,South West,2025-05-23,active,Small,89,51-100,direct_sales,Farah Malik,2025-05-17T17:05:00,2025-08-19T09:18:00
+co_0099,Manchester Further Education College,Further Education,South East,2023-07-16,active,Medium,425,101-500,self_serve,Jacob Turner,2023-07-08T18:52:00,2026-01-03T18:29:00
+co_0100,Victoria Learning Group,Training Provider,East of England,2025-01-15,active,Medium,430,101-500,inbound,Daniel Hughes,2025-01-07T14:27:00,2025-09-17T17:23:00
+co_0101,Northbridge School Trust,School,Northern Ireland,2026-02-23,active,Medium,162,101-500,partner,George Bennett,2026-02-15T09:16:00,2026-06-17T10:12:00
+co_0102,Lakeside Skills Centre,Private Education,South East,2023-11-21,active,Medium,167,101-500,partner,Daniel Hughes,2023-11-21T13:06:00,2025-08-15T17:40:00
+co_0103,Meadowbrook School,School,South West,2024-09-27,active,Medium,166,101-500,self_serve,George Bennett,2024-09-29T12:43:00,2025-09-26T18:01:00
+co_0104,Meadowbrook Grammar School,School,South East,2025-03-05,trial,Small,67,51-100,public_sector_framework,Charlotte Evans,2025-02-27T18:22:00,2025-09-27T13:43:00
+co_0105,Hillcrest School,School,West Midlands,2026-05-18,active,Small,91,51-100,direct_sales,Jacob Turner,2026-05-09T13:53:00,2026-06-02T17:01:00
+co_0106,Queensway Education Partnership,Other,West Midlands,2023-11-04,active,Medium,321,101-500,direct_sales,George Bennett,2023-10-31T13:00:00,2025-07-05T14:04:00
+co_0107,Exeter Higher Education Centre,University,Wales,2024-05-23,trial,Medium,145,101-500,self_serve,Hannah Roberts,2024-05-22T16:49:00,2026-04-16T09:32:00
+co_0108,Belfast Further Education College South,Further Education,East of England,2026-01-20,active,Medium,142,101-500,direct_sales,Hannah Roberts,2026-01-13T16:17:00,2026-05-03T15:47:00
+co_0109,Stamford Academy,School,Wales,2024-06-01,trial,Small,69,51-100,direct_sales,George Bennett,2024-06-02T08:30:00,2025-06-16T18:13:00
+co_0110,Norwich Further Education College,Further Education,East of England,2025-02-06,trial,Medium,137,101-500,self_serve,Farah Malik,2025-02-02T12:33:00,2026-04-18T10:01:00
+co_0111,Meadowbrook Grammar School Trust,School,South East,2023-11-17,active,Small,25,1-50,direct_sales,George Bennett,2023-11-17T13:46:00,2025-10-11T12:36:00
+co_0112,Manchester Institute,University,London,2025-07-20,active,Medium,219,101-500,direct_sales,Jacob Turner,2025-07-17T08:06:00,2025-09-22T14:02:00
+co_0113,Camden School,School,West Midlands,2025-01-10,active,Small,77,51-100,inbound,Hannah Roberts,2025-01-12T09:32:00,2026-06-29T18:27:00
+co_0114,Dundee Knowledge Hub,Library,West Midlands,2024-04-14,active,Medium,129,101-500,direct_sales,Ella Thompson,2024-04-13T14:47:00,2025-08-17T16:38:00
+co_0115,Cambridge Institute,University,South East,2025-03-31,active,Medium,142,101-500,public_sector_framework,Jacob Turner,2025-03-30T15:51:00,2025-10-20T11:16:00
+co_0116,Summit Grammar School Central,School,London,2025-02-12,trial,Medium,185,101-500,inbound,Imogen Davies,2025-02-02T15:20:00,2025-10-05T14:37:00
+co_0117,Rowan Education Services Central,Training Provider,East Midlands,2025-05-26,past_due,Medium,111,101-500,inbound,Amelia Clarke,2025-05-27T09:25:00,2026-04-08T11:26:00
+co_0118,Fairfield Learning Group,Private Education,South East,2024-01-04,active,Small,19,1-50,inbound,Hannah Roberts,2024-01-04T10:42:00,2025-09-15T15:06:00
+co_0119,Dales Academy,School,Scotland,2025-05-01,trial,Medium,445,101-500,self_serve,Farah Malik,2025-04-22T18:11:00,2025-10-02T14:26:00
+co_0120,Beechwood Training,Private Education,South West,2024-01-17,trial,Small,63,51-100,partner,Amelia Clarke,2024-01-09T13:28:00,2025-12-16T10:00:00
+co_0121,Reading University,University,North West,2024-10-08,active,Bespoke,1081,1001+,public_sector_framework,Ben Whitmore,2024-10-09T18:26:00,2026-04-12T15:56:00
+co_0122,Reading Libraries,Library,Northern Ireland,2024-12-10,active,Small,18,1-50,direct_sales,Farah Malik,2024-12-03T11:10:00,2026-03-04T16:03:00
+co_0123,Eastgate Education Services,Private Education,London,2024-12-24,active,Medium,179,101-500,direct_sales,Amelia Clarke,2024-12-20T15:32:00,2025-12-29T10:24:00
+co_0124,Dales Academy Trust,School,Scotland,2024-09-02,active,Medium,103,101-500,direct_sales,Hannah Roberts,2024-08-25T16:38:00,2026-04-05T10:44:00
+co_0125,Cardiff Knowledge Hub,Library,Scotland,2024-10-19,voluntary_churn,Medium,128,101-500,inbound,Farah Malik,2024-10-15T08:56:00,2026-01-06T14:00:00
+co_0126,Belfast Library Service South Trust,Library,East Midlands,2024-08-29,trial,Small,33,1-50,partner,Jacob Turner,2024-08-25T17:34:00,2026-01-13T09:23:00
+co_0127,Hastings Libraries,Library,North West,2023-07-30,past_due,Medium,141,101-500,direct_sales,Hannah Roberts,2023-07-26T14:00:00,2025-08-07T10:36:00
+co_0128,Lancaster Community Library South,Library,London,2024-04-10,active,Medium,161,101-500,direct_sales,Amelia Clarke,2024-04-09T11:45:00,2026-02-15T18:33:00
+co_0129,Westfield Education Services,Private Education,West Midlands,2024-06-02,trial,Medium,151,101-500,direct_sales,Hannah Roberts,2024-05-30T09:57:00,2025-09-25T15:52:00
+co_0130,Lakeside Academy,School,London,2024-09-11,active,Small,99,51-100,direct_sales,Daniel Hughes,2024-09-05T15:09:00,2026-05-20T12:06:00
+co_0131,Hastings Further Education College,Further education,East Midlands,2024-08-08,active,Medium,109,101-500,direct_sales,Charlotte Evans,2024-08-01T12:52:00,2025-08-14T12:50:00
+co_0132,Camden Learning Group,Private Education,East Midlands,2025-02-05,active,Small,52,51-100,direct_sales,Daniel Hughes,2025-01-26T14:30:00,2025-08-22T14:45:00
+co_0133,Birmingham Libraries,Library,South West,2023-08-10,active,Large,504,501-1000,self_serve,Farah Malik,2023-07-31T10:42:00,2025-11-30T13:35:00
+co_0134,Cotswold Skills Centre,Training Provider,Northern Ireland,2023-11-15,trial,Small,19,1-50,partner,Jacob Turner,2023-11-10T18:12:00,2026-05-27T14:23:00
+co_0135,Belfast Knowledge Hub,Library,Yorkshire and the Humber,2023-07-15,active,Medium,467,101-500,inbound,Ella Thompson,2023-07-06T10:56:00,2025-12-20T16:14:00
+co_0136,Riverside Learning Group Trust,Training Provider,South West,2026-01-30,trial,Medium,172,101-500,direct_sales,Daniel Hughes,2026-01-23T16:28:00,2026-03-17T12:21:00
+co_0137,Cedar Learning Group,Training Provider,Northern Ireland,2026-03-30,trial,Medium,114,101-500,direct_sales,Ben Whitmore,2026-03-22T18:42:00,2026-06-26T16:41:00
+co_0138,Eastgate Education Services North,Private Education,East of England,2025-04-16,trial,Small,39,1-50,self_serve,Hannah Roberts,2025-04-10T08:18:00,2025-12-28T09:50:00
+co_0139,Harbour School,School,South East,2024-10-26,active,Small,72,51-100,direct_sales,Amelia Clarke,2024-10-20T13:56:00,2026-01-09T10:50:00
+co_0140,Victoria Grammar School,School,Ireland,2025-03-30,active,Medium,219,101-500,self_serve,,2025-03-25T12:08:00,2025-10-31T16:07:00
+co_0141,Hillcrest School North,School,East of England,2025-12-21,trial,Small,63,51-100,inbound,Charlotte Evans,2025-12-11T14:11:00,2026-06-12T09:57:00
+co_0142,Birmingham Library Service,Library,Yorkshire and the Humber,2023-12-31,active,Medium,117,101-500,inbound,Ella Thompson,2023-12-29T12:27:00,2025-10-01T12:48:00
+co_0143,Dales Learning Trust,School,London,2024-10-15,active,Medium,166,101-500,direct_sales,Jacob Turner,2024-10-12T15:12:00,2025-08-30T08:31:00
+co_0144,Cedar Education Services,Private Education,Scotland,2023-07-21,active,Small,31,1-50,direct_sales,,2023-07-11T18:28:00,2025-11-29T13:10:00
+co_0145,Reading Further Education College Trust,Further Education,West Midlands,2024-01-26,trial,Medium,114,101-500,direct_sales,Ella Thompson,2024-01-16T16:50:00,2025-07-02T11:30:00
+co_0146,Oxford Library Service,Library,Yorkshire and the Humber,2025-11-03,active,Medium,131,101-500,direct_sales,Ella Thompson,2025-10-24T09:08:00,2026-02-15T15:22:00
+co_0147,Manchester Further Education College North,Further Education,South West,2026-03-04,active,Medium,137,101-500,self_serve,Ella Thompson,2026-02-23T13:31:00,2026-03-06T18:11:00
+co_0148,Riverside College,School,Ireland,2024-05-07,trial,Medium,114,101-500,self_serve,Ella Thompson,2024-05-04T09:50:00,2026-02-21T12:48:00
+co_0149,Hastings Institute,University,South West,2025-05-05,trial,Small,86,51-100,partner,Ben Whitmore,2025-05-07T08:24:00,2025-05-25T11:50:00
+co_0150,Cedar Grammar School,School,Scotland,2025-12-27,active,Medium,407,101-500,direct_sales,Ella Thompson,2025-12-17T16:32:00,2026-03-30T15:40:00
+co_0151,Dundee University,University,North West,2026-01-29,trial,Medium,118,101-500,partner,George Bennett,2026-01-26T14:44:00,2026-02-20T12:57:00
+co_0152,Reading Further Education College South,Further Education,East of England,2025-07-23,active,Medium,136,101-500,inbound,,2025-07-18T15:20:00,2026-01-27T17:10:00
+co_0153,Norwich Further Education College Trust,Further Education,London,2025-06-28,trial,Medium,485,101-500,self_serve,Jacob Turner,2025-06-29T10:51:00,2025-12-27T12:58:00
+co_0154,Dales Learning Group,Private Education,East of England,2025-10-02,active,Small,22,1-50,self_serve,Imogen Davies,2025-10-03T09:43:00,2026-01-06T17:20:00
+co_0155,Swansea Further Education College,Further Education,East Midlands,2026-03-11,trial,Medium,188,101-500,public_sector_framework,Amelia Clarke,2026-03-09T18:16:00,2026-06-07T09:51:00
+co_0156,Hadley Education Services,Training Provider,East of England,2023-07-21,trial,Large,739,501-1000,inbound,Jacob Turner,2023-07-19T08:04:00,2026-06-27T15:32:00
+co_0157,Cotswold Learning Group,Private Education,North West,2024-08-30,trial,Small,64,51-100,inbound,George Bennett,2024-08-25T17:31:00,2026-04-21T17:41:00
+co_0158,Westfield School,SCHOOL,North West,2025-01-25,trial,Medium,114,101-500,self_serve,,2025-01-26T16:50:00,2025-12-27T16:07:00
+co_0159,Norwich Institute,University,London,2024-12-28,paused,Medium,482,101-500,inbound,Ella Thompson,2024-12-28T13:31:00,2025-12-13T18:58:00
+co_0160,Swansea Library Service,Library,North East,2024-05-02,trial,Medium,164,101-500,inbound,,2024-04-30T17:58:00,2025-08-26T17:25:00
+co_0161,Belfast University,University,London,2024-03-16,voluntary_churn,Large,574,501-1000,inbound,Hannah Roberts,2024-03-12T17:26:00,2025-07-31T13:52:00
+co_0162,Riverside Grammar School North,School,South West,2025-07-18,active,Medium,211,101-500,partner,Farah Malik,2025-07-09T16:39:00,2026-01-30T14:09:00
+co_0163,Fairfield Learning Trust,School,Northern Ireland,2025-04-12,trial,Medium,101,101-500,inbound,Amelia Clarke,2025-04-04T18:02:00,2025-09-11T10:11:00
+co_0164,Stamford Grammar School,School,East of England,2025-03-29,active,Small,96,51-100,self_serve,Ella Thompson,2025-03-28T10:56:00,2026-01-26T11:00:00
+co_0165,Meadowbrook Skills Centre,Private Education,North West,2023-10-14,trial,Large,558,501-1000,self_serve,Ben Whitmore,2023-10-08T09:28:00,2026-06-05T15:19:00
+co_0166,Victoria Education Partnership,Other,South East,2026-03-08,active,Small,29,1-50,partner,Amelia Clarke,2026-03-06T15:31:00,2026-06-17T14:17:00
+co_0167,Hastings University,University,Yorkshire and the Humber,2025-08-06,trial,Medium,325,101-500,self_serve,,2025-08-08T12:17:00,2025-12-23T08:03:00
+co_0168,Lakeside Academy Trust,School,North West,2023-09-11,active,Small,66,51-100,partner,Amelia Clarke,2023-09-03T14:46:00,2026-01-18T11:45:00
+co_0169,Victoria Learning Group North,Private Education,East of England,2024-09-25,active,Medium,123,101-500,self_serve,Ben Whitmore,2024-09-24T16:37:00,2025-08-06T17:17:00
+co_0170,Maple Education Partnership,Other,East of England,2024-04-06,active,Small,28,1-50,inbound,Imogen Davies,2024-03-31T09:28:00,2025-08-30T14:42:00
+co_0171,Lakeside Learning Trust,School,East of England,2024-01-28,trial,Small,49,1-50,self_serve,Farah Malik,2024-01-29T18:55:00,2026-01-21T16:28:00
+co_0172,Rowan Academy,School,West Midlands,2024-10-05,trial,Medium,257,101-500,direct_sales,Hannah Roberts,2024-09-30T08:20:00,2026-05-03T14:48:00
+co_0173,Cardiff Libraries,Library,East of England,2024-07-19,active,Medium,144,101-500,inbound,George Bennett,2024-07-19T10:05:00,2025-10-23T13:42:00
+co_0174,Fairfield Training,Private Education,Scotland,2024-07-06,active,Medium,256,101-500,direct_sales,Hannah Roberts,2024-06-30T08:38:00,2025-05-27T11:28:00
+co_0175,Summit Education Services,Training Provider,North West,2025-09-23,paused,Medium,149,101-500,inbound,Charlotte Evans,2025-09-13T18:11:00,2026-01-07T10:17:00
+co_0176,Leeds University,University,South West,2024-07-15,trial,Large,781,501-1000,partner,Farah Malik,2024-07-05T12:21:00,2026-01-29T16:18:00
+co_0177,Tudor Training,Private Education,South East,2023-10-16,voluntary_churn,Small,21,1-50,partner,Charlotte Evans,2023-10-07T09:16:00,2025-12-01T15:45:00
+co_0178,Edinburgh Library Service,Library,East of England,2026-05-14,active,Bespoke,1097,1001+,direct_sales,George Bennett,2026-05-11T08:29:00,2026-05-31T18:09:00
+co_0179,Cardiff Community Library,Library,West Midlands,2025-03-24,trial,Medium,473,101-500,inbound,Jacob Turner,2025-03-16T18:55:00,2025-08-31T11:57:00
+co_0180,Chiltern Training,Training Provider,London,2024-05-02,active,Medium,449,101-500,direct_sales,Amelia Clarke,2024-05-04T10:24:00,2025-06-26T09:27:00
+co_0181,Exeter Knowledge Hub,Library,South West,2024-11-04,trial,Medium,354,101-500,public_sector_framework,Amelia Clarke,2024-11-04T10:52:00,2025-08-04T08:01:00
+co_0182,Eastgate Training,Private Education,Scotland,2024-08-13,active,Medium,230,101-500,self_serve,,2024-08-12T13:59:00,2026-05-02T15:01:00
+co_0183,Norwich Library Service,Library,North West,2025-03-08,active,Medium,124,101-500,self_serve,Imogen Davies,2025-02-27T16:10:00,2025-06-19T18:40:00
+co_0184,Belfast Higher Education Centre,University,North West,2024-05-20,active,Bespoke,1298,1001+,self_serve,Hannah Roberts,2024-05-22T11:42:00,2026-02-15T15:32:00
+co_0185,Summit Grammar School Trust,School,Scotland,2024-01-15,active,Medium,113,101-500,public_sector_framework,Imogen Davies,2024-01-05T08:04:00,2025-11-07T11:00:00
+co_0186,Victoria School,School,East of England,2024-09-17,active,Medium,109,101-500,inbound,Jacob Turner,2024-09-14T09:46:00,2025-11-04T18:33:00
+co_0187,Lakeside Grammar School,School,East Midlands,2023-11-05,active,Small,54,51-100,partner,Daniel Hughes,2023-11-03T18:56:00,2025-07-23T18:05:00
+co_0188,Reading Higher Education Centre Central,University,Yorkshire and the Humber,2023-12-09,active,Medium,232,101-500,inbound,Jacob Turner,2023-11-29T18:47:00,2025-12-17T09:13:00
+co_0189,Lakeside Grammar School South,School,Ireland,2025-07-21,trial,Medium,314,101-500,direct_sales,Charlotte Evans,2025-07-12T09:06:00,2026-03-16T08:28:00
+co_0190,Northbridge Training,Training Provider,London,2026-04-14,trial,Small,96,51-100,self_serve,,2026-04-06T11:45:00,2026-05-17T08:39:00
+co_0191,Cardiff Library Service,Library,South East,2024-02-10,trial,Small,95,51-100,direct_sales,Ben Whitmore,2024-02-07T18:12:00,2026-01-09T16:54:00
+co_0192,Riverside College South,School,South West,2024-07-06,active,Medium,255,101-500,inbound,Jacob Turner,2024-07-01T16:13:00,2026-06-01T17:14:00
+co_0193,Lakeside Education Services,Private Education,North East,2023-10-25,trial,Small,44,1-50,direct_sales,Imogen Davies,2023-10-16T09:30:00,2025-12-12T14:25:00
+co_0194,Cardiff Community Library Central,Library,London,2024-03-01,voluntary_churn,Small,43,1-50,direct_sales,George Bennett,2024-03-02T09:54:00,2026-01-24T18:43:00
+co_0195,Eastgate School Trust,School,North West,2024-01-12,trial,Small,70,51-100,direct_sales,Farah Malik,2024-01-06T16:56:00,2026-04-13T13:15:00
+co_0196,Belfast Library Service Central,Library,North West,2024-09-22,active,Small,75,51-100,inbound,,2024-09-20T18:40:00,2026-02-02T13:00:00
+co_0197,Hillcrest School South,School,Yorkshire and the Humber,2023-09-25,active,Medium,135,101-500,partner,Charlotte Evans,2023-09-16T14:12:00,2025-06-30T14:11:00
+co_0198,Greenwich Learning Trust,School,Scotland,2025-10-27,trial,Medium,101,101-500,self_serve,Daniel Hughes,2025-10-22T18:26:00,2025-12-02T08:47:00
+co_0199,Oxford University,University,Yorkshire and the Humber,2025-09-20,trial,Medium,430,101-500,direct_sales,Ben Whitmore,2025-09-19T14:20:00,2026-05-14T15:57:00
+co_0200,Edinburgh University,University,East Midlands,2025-12-08,active,Medium,433,101-500,direct_sales,George Bennett,2025-12-01T13:11:00,2026-04-03T17:10:00
+co_0201,Belfast Higher Education Centre North,University,South West,2023-12-26,active,Large ,635,501-1000,direct_sales,Ben Whitmore,2023-12-16T13:19:00,2026-02-02T12:23:00
+co_0202,Rowan Education Partnership,Other,South East,2024-08-03,active,Medium,116,101-500,direct_sales,Amelia Clarke,2024-08-03T12:17:00,2025-07-01T16:20:00
+co_0203,Greenwich Learning Group,Private Education,Northern Ireland,2025-08-09,active,Small,66,51-100,self_serve,,2025-08-07T16:42:00,2025-11-29T18:30:00
+co_0204,Parkside Learning Trust North,School,,2025-09-22,active,Medium,111,101-500,public_sector_framework,Ben Whitmore,2025-09-12T18:57:00,2026-02-28T17:59:00
+co_0205,Westfield School North,School,South West,2024-06-20,active,SMALL,38,1-50,direct_sales,George Bennett,2024-06-11T16:12:00,2025-12-27T13:23:00
+co_0206,Parkside Education Services,Private Education,Scotland,2025-08-23,trial,Small,85,51-100,inbound,Ella Thompson,2025-08-24T12:03:00,2026-04-09T16:01:00
+co_0207,Riverside Grammar School Trust,School,Yorkshire and the Humber,2025-05-19,active,Small,42,1-50,public_sector_framework,Jacob Turner,2025-05-11T13:06:00,2025-12-31T09:35:00
+co_0208,Kingfisher Grammar School,School,Yorkshire and the Humber,2024-05-13,active,Medium,109,101-500,direct_sales,Hannah Roberts,2024-05-03T12:32:00,2026-06-26T13:19:00
+co_0209,Kingfisher Education Services,Private Education,East Midlands,2024-04-26,active,Small,31,1-50,partner,George Bennett,2024-04-22T10:49:00,2025-12-13T15:41:00
+co_0210,Maple Skills Centre,Private Education,East Midlands,2024-03-11,trial,Small,88,51-100,partner,Farah Malik,2024-03-01T14:12:00,2025-11-26T08:01:00
+co_0211,Exeter Further Education College,Further Education,North West,2024-01-13,active,Medium,242,101-500,public_sector_framework,Jacob Turner,2024-01-12T15:48:00,2025-09-02T16:56:00
+co_0212,Queensway Grammar School South,School,South East,2023-10-25,trial,Small,91,51-100,self_serve,Ben Whitmore,2023-10-22T11:12:00,2025-08-03T11:14:00
+co_0213,Victoria Academy,School,London,2025-03-22,trial,Medium,220,101-500,public_sector_framework,Ben Whitmore,2025-03-18T13:12:00,2025-07-16T17:41:00
+co_0214,Belfast University Trust,University,South East,2025-10-31,active,Medium,481,101-500,direct_sales,George Bennett,2025-10-29T08:41:00,2026-05-01T17:26:00
+co_0215,York Knowledge Hub,Library,North West,2026-03-23,active,Medium,440,101-500,self_serve,Jacob Turner,2026-03-18T16:15:00,2026-06-26T14:59:00
+co_0216,Bristol Learning Trust Central,School,Northern Ireland,2025-12-05,active,Medium,491,101-500,partner,Farah Malik,2025-11-30T15:05:00,2025-12-17T16:25:00
+co_0217,Bristol Skills Centre Trust,Private Education,London,2025-09-26,active,Medium,111,101-500,inbound,Charlotte Evans,2025-09-20T15:33:00,2026-01-10T08:59:00
+co_0218,Riverside Skills Centre,Training Provider,Yorkshire and the Humber,2024-11-08,active,Medium,111,101-500,direct_sales,Imogen Davies,2024-11-06T16:11:00,2026-01-03T12:22:00
+co_0219,Cambridge Community Library,Library,East of England,2024-11-25,trial,Medium,161,101-500,partner,Amelia Clarke,2024-11-27T09:44:00,2025-08-24T13:07:00
+co_0220,Bristol School,School,London,2024-05-28,active,Medium,160,101-500,direct_sales,Jacob Turner,2024-05-20T11:49:00,2025-09-14T17:35:00
+co_0221,Camden College,School,Ireland,2026-03-17,trial,Small,58,51-100,partner,,2026-03-10T17:17:00,2026-06-19T11:32:00
+co_0222,Victoria College,School,Northern Ireland,2025-11-11,active,Small,81,51-100,direct_sales,George Bennett,2025-11-07T18:22:00,2025-12-17T12:11:00
+co_0223,Oaklands College,School,East Midlands,2025-12-19,active,Small,82,51-100,public_sector_framework,George Bennett,2025-12-21T09:57:00,2026-05-09T10:20:00
+co_0224,Queensway Academy,School,Scotland,2024-10-07,active,Medium,242,101-500,direct_sales,Imogen Davies,2024-10-01T10:24:00,2026-02-17T10:25:00
+co_0225,Dales College,School,Northern Ireland,2024-01-16,active,Medium,240,101-500,direct_sales,Charlotte Evans,2024-01-17T17:06:00,2026-01-14T13:15:00
+co_0226,Lancaster Community Library North,Library,East Midlands,2024-07-27,active,Medium,104,101-500,direct_sales,Jacob Turner,2024-07-20T08:15:00,2026-06-16T11:55:00
+co_0227,Cotswold School,School,South East,2023-12-01,active,Small,82,51-100,self_serve,,2023-12-01T12:57:00,2026-05-05T12:40:00
+co_0228,Beechwood Training North,Private Education,South East,2023-08-30,past_due,Small,24,1-50,direct_sales,,2023-08-20T18:59:00,2026-03-14T08:38:00
+co_0229,Lakeside Skills Centre South,private education,Yorkshire and the Humber,2023-11-13,active,Medium,105,101-500,partner,Jacob Turner,2023-11-06T08:52:00,2026-04-14T08:21:00
+co_0230,Willow Grammar School,School,West Midlands,2024-09-11,trial,Medium,159,101-500,partner,Ella Thompson,2024-09-02T12:59:00,2025-12-24T09:53:00
+co_0231,Cambridge Further Education College Trust North,Further Education,Scotland,2024-08-30,active,Medium,244,101-500,inbound,Ella Thompson,2024-08-22T15:04:00,2025-11-21T17:51:00
+co_0232,Elmfield College North,School,Ireland,2026-02-16,trial,Medium,140,101-500,self_serve,Hannah Roberts,2026-02-16T08:55:00,2026-03-30T18:33:00
+co_0233,Maple School South,School,South West,2025-06-14,active,Small,47,1-50,direct_sales,Ella Thompson,2025-06-10T17:27:00,2026-04-21T15:19:00
+co_0234,Reading Library Service North,Library,North West,2024-02-01,active,Medium,337,101-500,public_sector_framework,Ben Whitmore,2024-01-26T15:56:00,2026-03-14T18:10:00
+co_0235,Camden Learning Trust,School,North West,2025-12-28,active,Small,50,1-50,inbound,Ella Thompson,2025-12-24T08:24:00,2026-04-05T09:16:00
+co_0236,Parkside Learning Trust Central,School,Scotland,2025-03-01,active,Small,72,51-100,self_serve,Hannah Roberts,2025-03-03T08:49:00,2025-09-15T17:37:00
+co_0237,Exeter University,University,East Midlands,2023-08-18,active,Medium,293,101-500,inbound,Farah Malik,2023-08-10T08:54:00,2026-05-28T08:57:00
+co_0238,Lakeside Learning Trust South,School,Northern Ireland,2025-12-30,active,Medium,156,101-500,direct_sales,George Bennett,2025-12-30T12:19:00,2026-01-31T10:36:00
+co_0239,Tudor Training South,Training Provider,West Midlands,2023-11-17,trial,Large,870,501-1000,self_serve,Jacob Turner,2023-11-09T11:54:00,2026-06-02T11:28:00
+co_0240,Hillcrest Grammar School,School,North East,2025-06-28,active,Medium,138,101-500,inbound,Imogen Davies,2025-06-26T14:20:00,2026-06-22T13:13:00
+co_0241,Fairfield Learning Trust South,School,Yorkshire and the Humber,2024-03-07,active,Small,95,51-100,direct_sales,Ella Thompson,2024-03-03T09:20:00,2026-01-09T16:47:00
+co_0242,Ashford College,School,London,2024-10-28,active,Medium,133,101-500,inbound,Ella Thompson,2024-10-24T18:53:00,2026-05-08T10:15:00
+co_0243,Dales Training,Private Education,South West,2023-12-10,active,Small,81,51-100,partner,George Bennett,2023-12-12T09:16:00,2025-12-06T10:01:00
+co_0244,Abbey Learning Trust,School,Yorkshire and the Humber,2026-04-07,active,Medium,219,101-500,partner,Charlotte Evans,2026-04-06T13:34:00,2026-06-27T18:53:00
+co_0245,Harbour College South,School,West Midlands,2024-01-24,trial,Small,58,51-100,direct_sales,Farah Malik,2024-01-21T08:07:00,2025-08-27T11:19:00
+co_0246,Cedar School,School,South East,2025-09-25,active,Small,74,51-100,inbound,Amelia Clarke,2025-09-18T14:14:00,2026-01-16T17:19:00
+co_0247,Dales Grammar School,School,West Midlands,2026-04-08,trial,Small,29,1-50,direct_sales,Ben Whitmore,2026-04-10T09:35:00,2026-05-13T15:38:00
+co_0248,Reading Community Library,Library,East of England,2025-02-27,active,Medium,289,101-500,direct_sales,Hannah Roberts,2025-02-19T18:06:00,2025-08-07T09:47:00
+co_0249,Eastgate Learning Trust,School,London,2024-03-07,active,Small,59,51-100,inbound,Daniel Hughes,2024-03-02T09:23:00,2025-11-08T12:41:00
+co_0250,Beechwood College South,School,South East,2024-06-27,active,Small,44,1-50,direct_sales,Daniel Hughes,2024-06-22T17:44:00,2026-04-28T18:53:00
+co_0251,Victoria Education Services,Private Education,Scotland,2025-10-22,active,Small,72,51-100,partner,Daniel Hughes,2025-10-17T17:12:00,2026-06-25T09:50:00
+co_0252,Summit Learning Group,Private Education,London,2025-03-20,trial,Medium,104,101-500,direct_sales,Farah Malik,2025-03-22T17:14:00,2026-03-21T18:13:00
+co_0253,Hillcrest School Central,School,West Midlands,2023-10-20,active,Medium,215,101-500,inbound,Charlotte Evans,2023-10-18T09:41:00,2026-06-19T13:08:00
+co_0254,Tudor School Central,School,London,2026-01-01,active,Medium,200,101-500,direct_sales,Amelia Clarke,2025-12-22T16:10:00,2026-04-13T10:08:00
+co_0255,Victoria Learning Trust,School,Ireland,2023-12-23,active,Medium,140,101-500,partner,Jacob Turner,2023-12-19T09:49:00,2025-10-28T09:18:00
+co_0256,Willow Grammar School Central,School,West Midlands,2023-08-01,trial,Small,35,1-50,self_serve,Jacob Turner,2023-07-30T08:21:00,2026-02-05T09:50:00
+co_0257,Queensway Academy South,School,West Midlands,2024-05-28,trial,Small,77,51-100,direct_sales,Amelia Clarke,2024-05-21T15:44:00,2026-04-04T18:49:00
+co_0258,Riverside Grammar School North South,School,London,2025-04-10,trial,Medium,167,101-500,partner,Ben Whitmore,2025-04-06T15:51:00,2025-08-15T16:58:00
+co_0259,Stamford College,School,West Midlands,2025-10-20,trial,Small,71,51-100,public_sector_framework,Ben Whitmore,2025-10-10T14:55:00,2026-04-18T09:24:00
+co_0260,Parkside College North,School,,2025-03-31,active,Medium,146,101-500,partner,,2025-03-23T18:14:00,2026-05-06T08:40:00
+co_0261,Fairfield Grammar School South,School,South East,2024-05-20,active,Small,51,51-100,public_sector_framework,Amelia Clarke,2024-05-16T16:55:00,2025-06-30T10:06:00
+co_0262,Birmingham Institute,university,South East,2025-10-03,trial,Bespoke,2429,1001+,self_serve,Jacob Turner,2025-10-03T08:07:00,2026-06-24T14:17:00
+co_0263,Hadley College,School,East of England,2025-10-15,trial,Small,68,51-100,self_serve,,2025-10-05T11:15:00,2026-02-25T08:13:00
+co_0264,Queensway Learning Group,Private Education,Scotland,2025-11-08,active,Small,68,51-100,partner,Ella Thompson,2025-11-05T08:15:00,2026-04-04T16:43:00
+co_0265,Manchester Further Education College Trust,Further Education,East Midlands,2023-08-16,active,Medium,153,101-500,inbound,Hannah Roberts,2023-08-10T14:18:00,2025-06-20T16:07:00
+co_0266,Westfield Learning Group,Private Education,South West,2024-03-28,trial,Medium,146,101-500,direct_sales,George Bennett,2024-03-30T10:00:00,2026-02-14T18:45:00
+co_0267,Fairfield School,School,North West,2025-09-17,trial,Small,57,51-100,partner,Imogen Davies,2025-09-17T17:25:00,2026-02-23T18:19:00
+co_0268,Northbridge School North,School,Scotland,2025-09-20,active,Medium,140,101-500,direct_sales,Daniel Hughes,2025-09-10T09:28:00,2026-06-27T09:59:00
+co_0269,Birmingham Further Education College Central,Further Education,London,2026-03-12,active,Medium,225,101-500,direct_sales,Daniel Hughes,2026-03-14T09:27:00,2026-06-03T16:18:00
+co_0270,Dales Training Central,Private Education,Scotland,2026-06-13,active,Medium,145,101-500,direct_sales,Amelia Clarke,2026-06-04T14:22:00,2026-06-17T12:51:00
+co_0271,Willow Learning Trust,School,Wales,2024-01-31,active,Medium,106,101-500,self_serve,Farah Malik,2024-01-31T18:51:00,2026-04-13T17:05:00
+co_0272,Summit Grammar School Trust South,School,South East,2023-09-03,active,Small,77,51-100,direct_sales,Ella Thompson,2023-08-30T11:39:00,2025-11-17T08:39:00
+co_0273,Exeter Further Education College Central,FURTHER EDUCATION,South East,2023-07-31,voluntary_churn,Large,704,501-1000,partner,Charlotte Evans,2023-07-24T18:11:00,2026-06-10T14:56:00
+co_0274,Manchester Community Library,Library,Yorkshire and the Humber,2024-07-01,active,Medium,279,101-500,partner,Ben Whitmore,2024-06-21T11:31:00,2025-12-15T12:49:00
+co_0275,Parkside Academy,school,East Midlands,2026-03-28,active,Medium,133,101-500,direct_sales,Charlotte Evans,2026-03-29T10:06:00,2026-05-22T17:50:00
+co_0276,Bridgewater College,School,South West,2024-09-18,trial,Small,78,51-100,partner,Charlotte Evans,2024-09-16T11:51:00,2025-10-30T12:17:00
+co_0277,Summit Grammar School North,School,Wales,2025-12-24,active,Small,56,51-100,inbound,George Bennett,2025-12-22T13:26:00,2026-04-09T15:21:00
+co_0278,Riverside Grammar School Trust Central,School,South East,2024-05-02,trial,Medium,139,101-500,direct_sales,Ella Thompson,2024-05-03T18:19:00,2025-10-18T15:09:00
+co_0279,Edinburgh Libraries,Library,Yorkshire and the Humber,2023-11-24,trial,Small,53,51-100,self_serve,Charlotte Evans,2023-11-20T09:14:00,2026-03-11T14:47:00
+co_0280,Fairfield Education Services,Training Provider,Yorkshire and the Humber,2023-08-18,trial,Small,52,51-100,self_serve,,2023-08-19T09:21:00,2025-09-08T18:11:00
+co_0281,Norwich Further Education College South,Further Education,North West,2024-03-31,active,Large,689,501-1000,direct_sales,Jacob Turner,2024-03-22T16:04:00,2026-06-25T14:08:00
+co_0282,Riverside Grammar School North North,School,London,2025-07-13,trial,Small,91,51-100,inbound,Ben Whitmore,2025-07-11T13:55:00,2026-01-10T11:17:00
+co_0283,Hillcrest Learning Group,Private Education,Wales,2024-08-10,trial,Medium,107,101-500,partner,Ella Thompson,2024-08-08T09:22:00,2026-01-13T17:24:00
+co_0284,Oxford Higher Education Centre Central,University,Yorkshire and the Humber,2025-11-30,active,Medium,170,101-500,direct_sales,Daniel Hughes,2025-11-27T09:54:00,2026-06-20T18:45:00
+co_0285,Parkside Academy North,School,North East,2026-05-29,trial,Medium,169,101-500,direct_sales,Charlotte Evans,2026-05-22T08:22:00,2026-06-12T13:05:00
+co_0286,Elmfield Learning Group,Private Education,North East,2024-08-22,trial,Small,64,51-100,inbound,,2024-08-21T08:44:00,2026-03-21T08:02:00
+co_0287,Lakeside Learning Trust Trust,School,London,2023-12-04,active,Small,80,51-100,direct_sales,Farah Malik,2023-12-03T15:45:00,2026-01-14T09:12:00
+co_0288,Edinburgh Higher Education Centre,University,South East,2025-11-24,trial,Bespoke,1179,1001+,partner,Hannah Roberts,2025-11-14T11:14:00,2026-02-06T12:10:00
+co_0289,Harbour Academy,School,East Midlands,2025-07-09,active,Medium,119,101-500,self_serve,Charlotte Evans,2025-07-06T09:37:00,2026-06-15T14:03:00
+co_0290,Swansea Knowledge Hub,Library,South East,2024-08-29,active,Small,52,51-100,direct_sales,Imogen Davies,2024-08-28T16:27:00,2026-01-13T16:20:00
+co_0291,Stamford Learning Group,Private Education,Northern Ireland,2024-04-14,trial,Medium,118,101-500,inbound,Hannah Roberts,2024-04-09T09:26:00,2026-04-30T08:00:00
+co_0292,Stamford Academy South,School,South East,2023-12-23,active,Medium,150,101-500,direct_sales,Farah Malik,2023-12-22T13:57:00,2026-02-24T11:04:00
+co_0293,Beechwood Skills Centre,Training Provider,Ireland,2025-11-13,active,Medium,336,101-500,partner,Farah Malik,2025-11-13T11:08:00,2026-05-06T16:53:00
+co_0294,Kingfisher Learning Group,Private Education,Scotland,2025-05-25,active,Small,87,51-100,partner,Imogen Davies,2025-05-18T10:46:00,2026-05-09T12:43:00
+co_0295,Oxford Further Education College,Further education,Scotland,2025-07-01,past_due,Medium,349,101-500,partner,Charlotte Evans,2025-06-26T15:09:00,2026-02-09T15:10:00
+co_0296,Exeter Institute,University,West Midlands,2026-01-01,past_due,Large,611,501-1000,self_serve,Farah Malik,2026-01-01T18:02:00,2026-01-30T17:43:00
+co_0297,Cotswold Grammar School,School,North East,2024-06-01,voluntary_churn,Large,507,501-1000,direct_sales,Daniel Hughes,2024-05-26T10:22:00,2025-08-09T14:51:00
+co_0298,Hillcrest Learning Trust Central,School,North West,2024-02-12,trial,Small,96,51-100,partner,Ella Thompson,2024-02-04T15:31:00,2026-04-26T17:54:00
+co_0299,Cotswold Academy,School,North East,2025-05-20,active,Medium,177,101-500,partner,Ella Thompson,2025-05-12T13:25:00,2026-03-22T11:34:00
+co_0300,Hastings Higher Education Centre,University,East Midlands,2024-05-11,active,Large,821,501-1000,self_serve,Amelia Clarke,2024-05-10T13:49:00,2026-02-25T17:36:00
+co_0301,Northbridge Training South,Private Education,Yorkshire and the Humber,2023-10-12,trial,Small,29,1-50,direct_sales,Jacob Turner,2023-10-10T10:35:00,2025-07-03T18:22:00
+co_0302,Hillcrest Skills Centre,Private Education,West Midlands,2025-10-09,active,Small,18,1-50,public_sector_framework,Charlotte Evans,2025-09-30T08:15:00,2026-03-04T17:43:00
+co_0303,Dundee Community Library,Library,South East,2023-09-03,active,Large,699,501-1000,direct_sales,Charlotte Evans,2023-09-03T11:52:00,2026-01-08T10:58:00
+co_0304,Willow Learning Trust South,School,Yorkshire and the Humber,2025-03-14,trial,Small,22,1-50,inbound,Amelia Clarke,2025-03-09T10:00:00,2025-08-21T17:25:00
+co_0305,Eastgate School Central,School,West Midlands,2025-09-07,active,Small,42,1-50,partner,Charlotte Evans,2025-08-28T11:03:00,2025-11-30T11:59:00
+co_0306,Lakeside Training,Training Provider,South West,2025-05-06,active,Medium,268,101-500,self_serve,Jacob Turner,2025-05-07T17:25:00,2025-10-05T18:07:00
+co_0307,Bridgewater Grammar School,School,West Midlands,2023-09-24,active,Medium,229,101-500,self_serve,Hannah Roberts,2023-09-14T17:09:00,2025-07-17T10:01:00
+co_0308,Hillcrest Skills Centre Central,Private Education,East of England,2023-10-23,trial,Small,93,51-100,direct_sales,Hannah Roberts,2023-10-15T09:11:00,2025-08-29T16:43:00
+co_0309,Northbridge Grammar School,School,North West,2024-04-19,paused,Medium,224,101-500,self_serve,Imogen Davies,2024-04-14T14:03:00,2025-10-22T12:05:00
+co_0310,Beechwood Grammar School,School,North West,2025-04-27,active,Small,20,1-50,self_serve,Daniel Hughes,2025-04-21T13:58:00,2025-10-14T10:55:00
+co_0311,Parkside Learning Trust South,School,Scotland,2025-11-08,active,Medium,207,101-500,direct_sales,,2025-11-02T17:11:00,2026-03-16T09:02:00
+co_0312,Willow Education Partnership,Other,London,2023-07-27,active,Small,49,1-50,self_serve,Charlotte Evans,2023-07-28T18:19:00,2025-06-19T11:10:00
+co_0313,Swansea Further Education College North,Further Education,Northern Ireland,2025-10-30,active,Medium,238,101-500,inbound,Imogen Davies,2025-10-25T09:34:00,2026-02-25T18:54:00
+co_0314,Eastgate School South,School,Northern Ireland,2025-03-30,trial,Medium,123,101-500,direct_sales,Ben Whitmore,2025-03-24T11:33:00,2026-05-23T13:50:00
+co_0315,Camden Education Services,Private Education,London,2025-01-15,trial,Medium,139,101-500,public_sector_framework,Ben Whitmore,2025-01-08T14:35:00,2025-08-17T08:32:00
+co_0316,Camden Academy Trust,School,North West,2024-05-29,active,Small,68,51-100,inbound,Jacob Turner,2024-05-29T16:44:00,2025-07-05T11:03:00
+co_0317,Chiltern Learning Trust,School,South East,2025-04-27,trial,Small,100,51-100,partner,Hannah Roberts,2025-04-23T15:54:00,2025-12-31T14:40:00
+co_0318,Norwich Institute Central,University,London,2026-03-09,active,Medium,162,101-500,self_serve,Daniel Hughes,2026-02-28T17:15:00,2026-03-06T14:21:00
+co_0319,Willow Academy Central,School,East of England,2023-09-20,trial,Small,71,51-100,direct_sales,Daniel Hughes,2023-09-20T15:20:00,2026-01-05T15:34:00
+co_0320,Lakeside School,School,West Midlands,2025-11-17,active,Medium,163,101-500,partner,Hannah Roberts,2025-11-16T15:49:00,2026-04-17T08:15:00
+co_0321,Maple Learning Group,Training Provider,North West,2024-11-17,active,Medium,155,101-500,inbound,Jacob Turner,2024-11-09T10:36:00,2025-07-05T18:15:00
+co_0322,Meadowbrook Skills Centre Central,Training Provider,Wales,2024-03-22,trial,Medium,142,101-500,self_serve,Hannah Roberts,2024-03-12T13:31:00,2026-05-25T10:54:00
+co_0323,Beechwood Education Services,Training Provider,London,2025-08-28,trial,Medium,168,101-500,direct_sales,Daniel Hughes,2025-08-19T09:00:00,2025-09-28T17:32:00
+co_0324,Northbridge Grammar School North,School,North East,2025-01-21,active,Small,87,51-100,self_serve,Farah Malik,2025-01-20T08:13:00,2025-06-26T12:26:00
+co_0325,Cambridge Libraries,Library,London,2024-01-11,active,Medium,411,101-500,public_sector_framework,,2024-01-07T14:28:00,2026-02-18T10:49:00
+co_0326,Bridgewater Grammar School Central,School,Yorkshire and the Humber,2023-11-02,active,Medium,120,101-500,direct_sales,Ben Whitmore,2023-10-27T11:01:00,2025-09-26T08:23:00
+co_0327,Harbour Education Services,Training Provider,South West,2023-10-29,active,Medium,161,101-500,self_serve,Farah Malik,2023-10-28T08:48:00,2026-06-02T08:22:00
+co_0328,Elmfield Grammar School,School,East Midlands,2026-04-11,active,Medium,137,101-500,direct_sales,,2026-04-11T16:24:00,2026-06-17T12:58:00
+co_0329,Norwich Community Library,Library,North West,2025-07-09,active,Small,55,51-100,self_serve,Daniel Hughes,2025-07-07T14:32:00,2026-01-13T09:47:00
+co_0330,Victoria Learning Trust North,School,East of England,2023-07-24,trial,Medium,152,101-500,partner,Charlotte Evans,2023-07-16T10:34:00,2026-03-12T17:07:00
+co_0331,Meadowbrook College,School,East Midlands,2024-04-02,active,Medium,137,101-500,direct_sales,,2024-04-04T14:14:00,2025-08-25T14:43:00
+co_0332,Tudor Learning Trust Trust,school,West Midlands,2024-11-16,trial,Medium,178,101-500,self_serve,Ella Thompson,2024-11-10T16:36:00,2026-01-02T12:05:00
+co_0333,Westfield Learning Group North,Training Provider,South East,2024-03-31,active,Small,19,1-50,partner,George Bennett,2024-04-02T08:28:00,2026-06-07T12:28:00
+co_0334,Ashford Academy,School,North West,2025-08-31,active,Medium,138,101-500,partner,,2025-08-28T13:10:00,2025-12-15T09:40:00
+co_0335,Queensway School,School,Northern Ireland,2024-08-10,trial,Small,59,51-100,self_serve,Amelia Clarke,2024-08-01T08:13:00,2025-10-12T14:49:00
+co_0336,Manchester Community Library Central,Library,Yorkshire and the Humber,2024-05-30,paused,Medium,212,101-500,direct_sales,Farah Malik,2024-06-01T17:00:00,2025-06-05T16:52:00
+co_0337,Queensway Skills Centre,Private Education,South West,2025-08-17,active,Small,56,51-100,self_serve,Jacob Turner,2025-08-11T12:45:00,2026-04-09T09:56:00
+co_0338,Summit Learning Trust,School,Scotland,2023-12-19,trial,Small,61,51-100,public_sector_framework,Imogen Davies,2023-12-13T12:08:00,2026-06-18T15:54:00
+co_0339,Exeter Further Education College South,Further Education,North East,2024-09-27,active,Medium,462,101-500,direct_sales,Ben Whitmore,2024-09-18T18:24:00,2025-07-26T08:46:00
+co_0340,Oxford Higher Education Centre North,University,East Midlands,2026-05-22,trial,Large,642,501-1000,partner,George Bennett,2026-05-13T13:15:00,2026-05-27T14:10:00
+co_0341,Dundee Knowledge Hub South,Library,London,2025-07-23,past_due,Medium,446,101-500,inbound,,2025-07-13T16:26:00,2025-09-09T18:29:00
+co_0342,Hadley Education Services North,Private Education,South West,2024-09-01,trial,Small,56,51-100,partner,Ella Thompson,2024-08-22T10:54:00,2026-04-23T08:40:00
+co_0343,Parkside College Trust,School,London,2024-03-25,active,Medium,324,101-500,direct_sales,Ben Whitmore,2024-03-26T14:52:00,2026-03-04T15:48:00
+co_0344,Dales Skills Centre,Training Provider,Scotland,2024-04-04,active,Medium,117,101-500,self_serve,,2024-04-04T17:22:00,2025-07-26T15:52:00
+co_0345,Greenwich School,School,South East,2023-10-16,active,Small,64,51-100,direct_sales,Amelia Clarke,2023-10-14T16:53:00,2025-10-21T15:42:00
+co_0346,Parkside College North North,School,South West,2025-01-09,active,Medium,122,101-500,direct_sales,Imogen Davies,2024-12-30T11:16:00,2025-07-13T16:51:00
+co_0347,Cedar Learning Trust,School,Scotland,2025-04-18,active,Medium,167,101-500,direct_sales,Charlotte Evans,2025-04-12T18:43:00,2025-06-01T16:46:00
+co_0348,Dundee Higher Education Centre,University,South East,2023-09-28,trial,Medium,453,101-500,partner,Charlotte Evans,2023-09-24T18:13:00,2026-05-12T17:35:00
+co_0349,Exeter Institute Trust,University,London,2026-03-04,trial,Large,971,501-1000,self_serve,Daniel Hughes,2026-03-06T09:54:00,2026-05-15T16:49:00
+co_0350,Bridgewater School,School,Yorkshire and the Humber,2026-05-31,active,Small,48,1-50,direct_sales,Hannah Roberts,2026-05-22T17:56:00,2026-05-25T16:02:00
+co_0351,Fairfield Grammar School South North,School,South East,2023-12-08,active,Medium,168,101-500,public_sector_framework,Ben Whitmore,2023-12-02T12:05:00,2025-05-26T08:45:00
+co_0352,Beechwood Learning Group,Training Provider,North West,2026-05-07,active,Small,67,51-100,direct_sales,Farah Malik,2026-04-27T12:46:00,2026-05-01T15:02:00
+co_0353,Manchester Library Service,Library,South West,2025-03-31,trial,Small,91,51-100,partner,Farah Malik,2025-03-26T09:01:00,2025-10-01T17:06:00
+co_0354,Reading Knowledge Hub,Library,East of England,2024-01-07,active,Small,48,1-50,partner,Amelia Clarke,2023-12-29T10:25:00,2026-01-23T13:14:00
+co_0355,York Further Education College,Further Education,South West,2023-11-26,active,Medium,164,101-500,self_serve,Charlotte Evans,2023-11-28T08:42:00,2025-11-01T17:38:00
+co_0356,Westfield College,School,East Midlands,2024-10-29,active,Large,969,501-1000,public_sector_framework,George Bennett,2024-10-29T18:08:00,2025-11-17T08:32:00
+co_0357,Greenwich Education Partnership Central,Other,London,2024-06-30,trial,Small,95,51-100,direct_sales,Ella Thompson,2024-07-01T16:17:00,2026-02-28T14:58:00
+co_0358,Beechwood Learning Group South,Training Provider,South East,2025-02-04,active,Small,70,51-100,direct_sales,Jacob Turner,2025-02-05T15:52:00,2025-07-02T09:48:00
+co_0359,Exeter Further Education College Trust,Further Education,North West,2026-06-05,trial,Medium,215,101-500,partner,Imogen Davies,2026-05-27T16:15:00,2026-06-19T14:57:00
+co_0360,Edinburgh Libraries Trust,Library,Ireland,2026-04-17,paused,Medium,153,101-500,self_serve,Imogen Davies,2026-04-10T14:08:00,2026-06-20T12:08:00
+co_0361,Queensway Learning Trust,School,London,2026-03-03,active,Small,47,1-50,direct_sales,Charlotte Evans,2026-02-23T08:48:00,2026-06-15T18:43:00
+co_0362,Hillcrest Skills Centre Trust,Private Education,London,2025-07-18,active,Small,53,51-100,direct_sales,Charlotte Evans,2025-07-10T17:30:00,2026-02-07T08:06:00
+co_0363,Belfast Knowledge Hub Trust,Library,South East,2024-11-05,active,LARGE,619,501-1000,direct_sales,Amelia Clarke,2024-10-29T15:02:00,2026-06-16T15:07:00
+co_0364,Cedar Academy,School,London,2024-05-07,past_due,Small,62,51-100,self_serve,Ella Thompson,2024-04-27T15:36:00,2025-12-08T11:47:00
+co_0365,Cardiff Community Library South,Library,London,2024-06-05,active,Small,93,51-100,partner,Imogen Davies,2024-05-29T13:05:00,2025-05-26T16:07:00
+co_0366,Riverside Training,Private Education,Scotland,2024-02-29,trial,Medium,314,101-500,self_serve,Farah Malik,2024-02-23T09:49:00,2025-06-05T12:18:00
+co_0367,Fairfield College,School,North West,2025-03-22,voluntary_churn,Small,47,1-50,direct_sales,Hannah Roberts,2025-03-23T14:20:00,2025-05-31T14:40:00
+co_0368,Riverside Skills Centre Central,Private Education,Wales,2025-07-20,trial,Small,57,51-100,public_sector_framework,Ben Whitmore,2025-07-20T17:09:00,2025-11-26T18:17:00
+co_0369,Chiltern Skills Centre,Training Provider,East of England,2025-10-22,trial,Small,49,1-50,inbound,Farah Malik,2025-10-14T16:11:00,2026-04-15T14:21:00
+co_0370,Northbridge School North North,School,West Midlands,2024-06-22,active,Medium,104,101-500,direct_sales,Ben Whitmore,2024-06-20T11:25:00,2025-07-12T15:54:00
+co_0371,Oxford Institute,University,East of England,2025-11-18,trial,Medium,235,101-500,inbound,,2025-11-10T17:07:00,2026-05-21T11:45:00
+co_0372,Abbey Skills Centre,Private Education,South East,2025-02-05,trial,Medium,200,101-500,partner,,2025-02-07T14:55:00,2025-07-13T14:39:00
+co_0373,York Knowledge Hub Central,Library,East Midlands,2025-06-14,active,Medium,200,101-500,inbound,Jacob Turner,2025-06-16T12:32:00,2026-04-18T11:06:00
+co_0374,Eastgate School Central North,School,North West,2024-12-23,trial,Medium,176,101-500,self_serve,,2024-12-20T10:39:00,2025-10-19T18:56:00
+co_0375,Cambridge University,University,South East,2024-02-03,trial,Medium,427,101-500,self_serve,Hannah Roberts,2024-01-27T12:06:00,2026-01-18T13:56:00
+co_0376,Riverside School,School,Scotland,2023-11-11,active,Medium,102,101-500,direct_sales,Farah Malik,2023-11-09T14:55:00,2025-12-23T10:40:00
+co_0377,Cardiff Higher Education Centre,University,Scotland,2025-12-28,past_due,Large,756,501-1000,self_serve,Ben Whitmore,2025-12-19T12:44:00,2026-06-24T15:14:00
+co_0378,Camden Learning Trust Trust,School,South East,2025-02-03,active,Small,64,51-100,public_sector_framework,Ben Whitmore,2025-02-05T14:31:00,2025-11-07T08:26:00
+co_0379,Hadley Skills Centre,Private Education,London,2024-02-11,active,Small,94,51-100,public_sector_framework,Ella Thompson,2024-02-09T18:26:00,2025-07-01T14:48:00
+co_0380,Eastgate Training South,Private Education,East Midlands,2024-04-20,active,Small,94,51-100,direct_sales,Amelia Clarke,2024-04-22T09:08:00,2026-06-10T17:33:00
+co_0381,Victoria Education Services South,Training Provider,West Midlands,2024-05-14,active,Small,73,51-100,direct_sales,Ben Whitmore,2024-05-16T18:19:00,2025-12-21T10:52:00
+co_0382,Harbour School Central,School,Wales,2023-08-18,active,Small,47,1-50,public_sector_framework,Charlotte Evans,2023-08-11T11:18:00,2026-04-01T13:06:00
+co_0383,Fairfield Learning Trust North,School,East Midlands,2025-05-07,trial,Small,35,1-50,direct_sales,Daniel Hughes,2025-05-01T11:24:00,2026-02-14T10:43:00
+co_0384,Summit Skills Centre,Private Education,East of England,2023-11-18,active,Medium,114,101-500,inbound,Jacob Turner,2023-11-11T15:46:00,2026-06-13T11:59:00
+co_0385,Oxford University Central,University,North West,2026-02-10,active,Medium,185,101-500,direct_sales,Farah Malik,2026-02-08T14:27:00,2026-05-10T15:35:00
+co_0386,Hillcrest Academy,School,London,2025-11-26,active,Small,75,51-100,self_serve,Ella Thompson,2025-11-23T13:12:00,2026-02-21T11:13:00
+co_0387,Parkside College Trust Trust,School,West Midlands,2024-03-18,active,Medium,179,101-500,partner,Ben Whitmore,2024-03-18T11:03:00,2026-04-06T10:17:00
+co_0388,Camden Education Partnership,Other,North West,2026-05-25,active,Small,47,1-50,self_serve,Jacob Turner,2026-05-22T14:29:00,2026-05-24T09:45:00
+co_0389,York Community Library,Library,London,2025-09-09,active,Medium,284,101-500,inbound,Imogen Davies,2025-09-03T17:03:00,2025-10-23T08:34:00
+co_0390,Dales Grammar School Central,School,London,2024-10-09,trial,Small,77,51-100,self_serve,,2024-10-03T17:48:00,2026-03-20T12:02:00
+co_0391,Victoria Education Services North,private education,Wales,2023-07-15,trial,Small,63,51-100,self_serve,George Bennett,2023-07-12T08:10:00,2025-11-22T15:55:00
+co_0392,Queensway Learning Trust Trust,School,South East,2026-03-31,active,Medium,207,101-500,partner,Ella Thompson,2026-03-30T14:26:00,2026-04-14T16:09:00
+co_0393,Hadley Grammar School,School,Wales,2024-05-21,active,Medium,130,101-500,partner,Charlotte Evans,2024-05-20T17:32:00,2025-10-26T11:02:00
+co_0394,Exeter University Central,University,London,2025-09-03,active,Medium,165,101-500,partner,Farah Malik,2025-08-30T17:59:00,2025-09-07T14:58:00
+co_0395,Northbridge Education Services,Training Provider,London,2023-10-29,active,Medium,111,101-500,inbound,Charlotte Evans,2023-10-23T11:45:00,2025-11-25T16:54:00
+co_0396,Eastgate College,School,East of England,2025-10-24,active,Medium,139,101-500,partner,Amelia Clarke,2025-10-24T14:28:00,2025-12-15T08:14:00
+co_0397,Hastings University Trust,University,Yorkshire and the Humber,2025-07-09,trial,Medium,425,101-500,direct_sales,Daniel Hughes,2025-07-03T09:58:00,2025-10-10T15:29:00
+co_0398,Beechwood Skills Centre Central,Private Education,South West,2025-07-25,trial,Small,61,51-100,public_sector_framework,Imogen Davies,2025-07-19T08:47:00,2025-09-17T16:14:00
+co_0399,Swansea Library Service South,Library,South East,2023-12-31,active,Small,90,51-100,self_serve,Ella Thompson,2023-12-30T18:53:00,2025-11-30T11:38:00
+co_0400,Hillcrest Training,Private Education,London,2025-10-05,active,Small,64,51-100,self_serve,,2025-10-05T14:06:00,2026-01-08T09:10:00
+co_0401,Chiltern Academy,School,South East,2023-09-30,active,Medium,111,101-500,inbound,Charlotte Evans,2023-09-21T14:20:00,2025-08-15T08:47:00
+co_0402,Queensway Skills Centre North,Private Education,Wales,2024-02-22,active,Small,96,51-100,partner,Farah Malik,2024-02-21T10:24:00,2025-10-13T08:09:00
+co_0403,Cardiff University,University,London,2024-11-21,active,Medium,415,101-500,self_serve,,2024-11-14T10:44:00,2026-06-12T13:48:00
+co_0404,Eastgate School South South,School,South East,2024-03-25,trial,Medium,186,101-500,self_serve,Farah Malik,2024-03-23T18:28:00,2026-02-11T18:23:00
+co_0405,Elmfield Learning Trust,School,Northern Ireland,2024-05-09,active,Medium,108,101-500,direct_sales,Jacob Turner,2024-05-10T16:05:00,2025-11-19T17:16:00
+co_0406,Dundee University North,University,West Midlands,2024-03-26,active,Large,507,501-1000,partner,Hannah Roberts,2024-03-26T16:16:00,2026-05-18T12:25:00
+co_0407,Beechwood College Central,School,Wales,2025-08-10,active,Medium,172,101-500,direct_sales,,2025-07-31T09:45:00,2025-11-16T09:03:00
+co_0408,Cambridge Further Education College North,Further Education,South East,2026-03-16,active,Medium,409,101-500,self_serve,Ella Thompson,2026-03-10T08:35:00,2026-06-25T15:19:00
+co_0409,Oaklands Skills Centre Trust,Training Provider,Ireland,2025-09-29,trial,Small,80,51-100,direct_sales,Hannah Roberts,2025-09-25T10:59:00,2026-05-04T11:21:00
+co_0410,Bristol Skills Centre North,Private Education,North West,2026-05-03,active,Small,52,51-100,self_serve,Ella Thompson,2026-05-02T16:28:00,2026-06-09T14:27:00
+co_0411,Fairfield Skills Centre North,Training Provider,London,2025-11-28,active,Small,92,51-100,direct_sales,Charlotte Evans,2025-11-28T16:15:00,2026-02-16T18:52:00
+co_0412,Swansea Further Education College North Trust,Further Education,West Midlands,2024-03-31,active,Medium,169,101-500,direct_sales,Ben Whitmore,2024-03-26T14:18:00,2026-03-15T17:32:00
+co_0413,Edinburgh University Trust,University,Yorkshire and the Humber,2023-08-30,active,Medium,181,101-500,direct_sales,Imogen Davies,2023-08-26T15:21:00,2025-12-11T11:47:00
+co_0414,Fairfield Learning Group Central,Private Education,London,2024-03-06,trial,Small,50,1-50,partner,Imogen Davies,2024-02-25T17:53:00,2025-11-16T16:52:00
+co_0415,Cotswold Learning Group Central,Training Provider,Yorkshire and the Humber,2025-11-28,active,Small,33,1-50,direct_sales,Farah Malik,2025-11-26T16:21:00,2025-12-09T12:38:00
+co_0416,Tudor Learning Group North,Training Provider,South East,2023-10-17,active,Medium,137,101-500,partner,Jacob Turner,2023-10-11T13:13:00,2026-03-27T13:52:00
+co_0417,Summit Training North,Training Provider,London,2024-06-16,active,Medium,122,101-500,direct_sales,Hannah Roberts,2024-06-14T13:24:00,2026-04-27T13:28:00
+co_0418,Northbridge Learning Trust,School,Wales,2023-11-10,active,Medium,229,101-500,partner,Farah Malik,2023-10-31T18:06:00,2025-10-13T18:37:00
+co_0419,Belfast Libraries,Library,Scotland,2025-10-12,active,Medium,157,101-500,direct_sales,Imogen Davies,2025-10-09T12:17:00,2026-04-14T11:41:00
+co_0420,Hadley Learning Trust,School,Wales,2024-07-19,active,Medium,285,101-500,self_serve,Farah Malik,2024-07-12T13:06:00,2026-04-01T09:07:00
+co_0421,Exeter University South,University,West Midlands,2025-12-04,active,Large,893,501-1000,inbound,Charlotte Evans,2025-11-26T17:19:00,2025-11-27T09:01:00
+co_0422,Ashford Learning Group South Trust,Private Education,South East,2025-12-30,trial,Medium,161,101-500,partner,Amelia Clarke,2025-12-26T18:08:00,2026-01-29T17:56:00
+co_0423,Norwich Institute Central North,University,South West,2024-07-13,active,Medium,166,101-500,direct_sales,Imogen Davies,2024-07-05T14:22:00,2026-05-20T11:07:00
+co_0424,Riverside Academy South,School,West Midlands,2024-08-25,active,SMALL,68,51-100,direct_sales,Ella Thompson,2024-08-22T17:21:00,2025-10-17T14:05:00
+co_0425,Kingfisher Education Partnership,Other,North East,2024-09-28,trial,Small,61,51-100,partner,George Bennett,2024-09-22T13:59:00,2025-08-05T14:54:00
+co_0426,Cedar Academy South,School,London,2025-12-07,active,Small,78,51-100,partner,George Bennett,2025-12-07T15:19:00,2026-03-27T12:53:00
+co_0427,Rowan Learning Group,Private Education,London,2025-05-04,trial,Small,79,51-100,self_serve,Amelia Clarke,2025-04-29T14:32:00,2025-09-06T15:16:00
+co_0428,Hadley Academy,School,South West,2026-06-17,active,Medium,126,101-500,inbound,Jacob Turner,2026-06-07T10:54:00,2026-06-23T09:21:00
+co_0429,Parkside College Central,School,London,2025-04-26,trial,Small,29,1-50,self_serve,Daniel Hughes,2025-04-17T16:07:00,2025-10-13T14:12:00
+co_0430,Beechwood College South North,School,London,2024-06-27,trial,Small ,36,1-50,self_serve,George Bennett,2024-06-28T10:49:00,2026-03-01T12:19:00
+co_0431,Belfast University Central,University,South East,2025-04-25,active,Medium,394,101-500,self_serve,Hannah Roberts,2025-04-18T11:48:00,2026-02-01T16:56:00
+co_0432,Harbour Skills Centre,Private Education,Scotland,2025-06-27,trial,Small,56,51-100,self_serve,Amelia Clarke,2025-06-24T15:12:00,2025-12-25T17:50:00
+co_0433,Victoria Skills Centre South,Private Education,Scotland,2025-03-06,active,Small,66,51-100,inbound,Hannah Roberts,2025-02-27T18:36:00,2026-03-08T13:41:00
+co_0434,Manchester Higher Education Centre,University,Scotland,2024-02-15,active,Large,734,501-1000,partner,Ben Whitmore,2024-02-15T11:33:00,2026-04-17T16:39:00
+co_0435,Maple Learning Group Trust,Private Education,South West,2023-10-31,active,Small,64,51-100,inbound,Hannah Roberts,2023-11-01T16:47:00,2025-11-22T08:52:00
+co_0436,Beechwood Learning Group North,Training Provider,East of England,2023-08-26,active,Medium,223,101-500,self_serve,Imogen Davies,2023-08-27T10:37:00,2026-06-01T18:55:00
+co_0437,Kingfisher Education Services South,Private Education,Yorkshire and the Humber,2025-06-24,active,Small,62,51-100,direct_sales,Farah Malik,2025-06-26T10:20:00,2025-10-12T13:31:00
+co_0438,Maple Education Services Central,Private Education,London,2025-07-22,active,Small,100,51-100,direct_sales,Daniel Hughes,2025-07-24T09:48:00,2026-03-10T12:59:00
+co_0439,Greenwich Learning Trust Central,School,North West,2024-12-03,active,Small,72,51-100,direct_sales,Ben Whitmore,2024-11-29T09:57:00,2025-06-07T14:15:00
+co_0440,Swansea Library Service Trust,Library,Yorkshire and the Humber,2025-07-18,active,Small,71,51-100,partner,,2025-07-19T14:02:00,2026-04-09T16:47:00
+co_0441,Dales Academy Central,School,South East,2026-01-01,active,Medium,338,101-500,partner,Hannah Roberts,2025-12-23T13:24:00,2026-03-23T10:00:00
+co_0442,Westfield Learning Group Central,Private Education,London,2026-05-29,trial,Medium,223,101-500,self_serve,Farah Malik,2026-05-22T10:19:00,2026-06-28T09:27:00
+co_0443,Ashford Education Services,Private Education,London,2023-12-24,trial,Small,33,1-50,self_serve,Daniel Hughes,2023-12-17T16:22:00,2026-02-07T17:42:00
+co_0444,Queensway Training,Private Education,West Midlands,2026-02-20,trial,Small,74,51-100,self_serve,Jacob Turner,2026-02-15T11:55:00,2026-04-25T10:50:00
+co_0445,Cambridge Further Education College Trust North South,Further Education,Yorkshire and the Humber,2025-07-28,active,Small,35,1-50,direct_sales,Amelia Clarke,2025-07-22T14:46:00,2025-10-18T09:00:00
+co_0446,Rowan School North,School,East Midlands,2024-10-24,active,Medium,266,101-500,direct_sales,Charlotte Evans,2024-10-14T11:17:00,2026-02-10T11:22:00
+co_0447,Northbridge School Central,School,West Midlands,2023-12-15,active,Small,88,51-100,direct_sales,Ben Whitmore,2023-12-08T09:11:00,2026-06-16T17:08:00
+co_0448,Maple College,School,North East,2026-04-07,active,Small,54,51-100,direct_sales,Farah Malik,2026-04-09T17:56:00,2026-06-02T11:10:00
+co_0449,Dales College Trust,School,East Midlands,2024-11-02,active,Medium,106,101-500,direct_sales,Farah Malik,2024-10-26T14:39:00,2026-05-11T16:51:00
+co_0450,Elmfield Learning Trust South,School,South West,2024-10-18,active,Medium,144,101-500,direct_sales,Hannah Roberts,2024-10-13T16:45:00,2025-07-12T12:17:00
+co_0451,Hillcrest School North Trust,School,West Midlands,2023-12-18,past_due,Small,73,51-100,direct_sales,Hannah Roberts,2023-12-12T11:54:00,2025-12-07T10:48:00
+co_0452,Kingfisher Skills Centre North,Private Education,Scotland,2026-05-12,trial,Small,60,51-100,partner,Ben Whitmore,2026-05-09T08:52:00,2026-06-02T10:17:00
+co_0453,Kingfisher Learning Trust,School,London,2024-04-21,active,Small,39,1-50,direct_sales,Jacob Turner,2024-04-13T10:12:00,2026-03-25T16:59:00
+co_0454,Leeds Higher Education Centre,University,South East,2024-10-10,voluntary_churn,Medium,357,101-500,self_serve,Imogen Davies,2024-10-02T09:38:00,2026-02-02T08:31:00
+co_0455,Camden Grammar School,School,North West,2023-12-25,active,Medium,244,101-500,inbound,,2023-12-17T11:45:00,2026-04-28T17:09:00
+co_0456,Hadley School Trust,School,South East,2023-12-22,active,Medium,123,101-500,direct_sales,Jacob Turner,2023-12-12T14:39:00,2025-07-30T10:54:00
+co_0457,Oaklands Grammar School,School,Wales,2024-07-23,active,Small,40,1-50,self_serve,Amelia Clarke,2024-07-22T08:37:00,2025-09-19T12:15:00
+co_0458,Fairfield Training Trust,Private Education,Scotland,2025-09-03,active,Small,83,51-100,direct_sales,Amelia Clarke,2025-08-27T13:41:00,2026-02-09T15:38:00
+co_0459,Manchester Further Education College Central,Further Education,Yorkshire and the Humber,2026-01-16,active,Medium,427,101-500,partner,,2026-01-12T16:12:00,2026-04-17T12:24:00
+co_0460,Bridgewater Education Services Trust,Private Education,Scotland,2024-08-26,active,Small,23,1-50,public_sector_framework,Ben Whitmore,2024-08-17T17:00:00,2026-02-14T10:44:00
+co_0461,Meadowbrook Learning Group,Private Education,Ireland,2025-04-07,trial,Small,35,1-50,partner,Ben Whitmore,2025-04-02T14:01:00,2026-03-11T15:40:00
+co_0462,Oxford Further Education College North,Further Education,London,2024-10-10,voluntary_churn,Medium,111,101-500,direct_sales,George Bennett,2024-10-03T16:55:00,2025-10-02T12:36:00
+co_0463,Victoria School North,School,Northern Ireland,2026-05-01,active,Medium,214,101-500,public_sector_framework,Amelia Clarke,2026-04-23T12:03:00,2026-06-03T16:30:00
+co_0464,Reading Further Education College Central,Further Education,North West,2023-10-22,trial,Medium,213,101-500,partner,Ella Thompson,2023-10-18T15:53:00,2025-08-01T18:47:00
+co_0465,Lancaster Knowledge Hub,Library,London,2023-12-25,active,Medium,106,101-500,inbound,Imogen Davies,2023-12-24T13:42:00,2026-04-19T12:15:00
+co_0466,Lakeside School Trust,School,North West,2023-07-18,active,Medium,176,101-500,direct_sales,Hannah Roberts,2023-07-14T08:48:00,2025-10-09T11:02:00
+co_0467,Swansea Institute,University,Scotland,2026-04-07,trial,Medium,172,101-500,direct_sales,Farah Malik,2026-04-02T10:21:00,2026-05-02T18:18:00
+co_0468,Harbour College South North,School,North West,2025-05-11,active,Medium,146,101-500,inbound,Ben Whitmore,2025-05-01T12:04:00,2025-07-23T13:07:00
+co_0469,Rowan Training,Training Provider,South West,2026-04-29,trial,Small,50,1-50,self_serve,Ben Whitmore,2026-04-25T08:02:00,2026-04-28T08:34:00
+co_0470,Tudor Learning Group Trust Central,Training Provider,South East,2025-08-08,active,SMALL,73,51-100,direct_sales,Jacob Turner,2025-08-05T10:16:00,2026-06-29T15:15:00
+co_0471,Fairfield Skills Centre South,Private Education,London,2025-09-17,active,Medium,159,101-500,direct_sales,Ella Thompson,2025-09-13T16:09:00,2026-01-16T17:54:00
+co_0472,Elmfield Academy,School,,2024-11-04,trial,Small,85,51-100,self_serve,George Bennett,2024-11-03T12:21:00,2025-10-14T08:47:00
+co_0473,Camden Learning Trust Central,School,South East,2025-06-27,active,Medium ,365,101-500,public_sector_framework,Ben Whitmore,2025-06-27T11:15:00,2026-05-05T09:42:00
+co_0474,Exeter Institute South,University,North West,2026-01-05,active,Medium,131,101-500,self_serve,,2026-01-02T16:00:00,2026-04-22T11:22:00
+co_0475,Abbey Grammar School,School,West Midlands,2023-09-08,active,Small,87,51-100,self_serve,Amelia Clarke,2023-09-03T18:27:00,2025-07-12T18:40:00
+co_0476,Abbey Education Partnership,Other,North West,2025-11-16,active,Small,20,1-50,self_serve,Jacob Turner,2025-11-15T11:19:00,2025-11-20T16:56:00
+co_0477,Camden Learning Trust South,School,South East,2024-03-30,active,Medium,158,101-500,inbound,Amelia Clarke,2024-03-31T11:31:00,2025-09-27T09:24:00
+co_0478,Rowan Education Services Central Central,Private Education,London,2023-08-17,trial,Small,26,1-50,direct_sales,,2023-08-15T13:27:00,2026-04-09T14:35:00
+co_0479,Hastings Further Education College North,Further Education,North East,2025-06-21,active,Medium,218,101-500,inbound,Ben Whitmore,2025-06-13T09:46:00,2025-07-10T10:14:00
+co_0480,Oaklands Learning Group South,Training Provider,Yorkshire and the Humber,2025-06-17,trial,Medium,307,101-500,self_serve,Amelia Clarke,2025-06-12T10:25:00,2025-09-09T17:45:00
+co_0481,Manchester Libraries,Library,East of England,2025-11-17,active,Medium,167,101-500,inbound,,2025-11-13T14:24:00,2026-04-13T10:16:00
+co_0482,Dundee Community Library South,Library,South West,2025-02-16,trial,Small,28,1-50,partner,,2025-02-15T09:47:00,2025-10-02T08:48:00
+co_0483,Rowan Academy Trust,School,East Midlands,2026-06-11,trial,Medium,132,101-500,inbound,,2026-06-05T15:55:00,2026-06-12T10:21:00
+co_0484,Camden Learning Group Trust,Private Education,South West,2025-09-19,past_due,Small,38,1-50,direct_sales,Amelia Clarke,2025-09-12T15:39:00,2026-01-18T14:06:00
+co_0485,Cotswold College,School,Wales,2024-10-14,trial,Medium,268,101-500,direct_sales,Ella Thompson,2024-10-14T12:59:00,2025-07-31T08:07:00
+co_0486,Leeds Libraries Trust,Library,South West,2026-01-06,active,Medium,203,101-500,direct_sales,George Bennett,2025-12-30T13:06:00,2026-04-30T10:51:00
+co_0487,Kingfisher Training Central,Private Education,South East,2023-11-11,trial,Medium,135,101-500,direct_sales,Hannah Roberts,2023-11-06T15:36:00,2026-03-05T14:13:00
+co_0488,Rowan Training Central,Private Education,London,2024-08-17,trial,Small,45,1-50,self_serve,Imogen Davies,2024-08-13T17:11:00,2026-03-23T09:42:00
+co_0489,Fairfield Grammar School South Central,School,Scotland,2023-07-27,active,Medium,123,101-500,self_serve,Charlotte Evans,2023-07-19T16:17:00,2025-11-05T11:46:00
+co_0490,Bristol Education Services,Private Education,East of England,2024-07-11,active,Small,65,51-100,self_serve,,2024-07-08T18:34:00,2025-07-23T13:09:00
+co_0491,Leeds Knowledge Hub,LIBRARY,South West,2024-03-22,voluntary_churn,Medium,213,101-500,partner,Imogen Davies,2024-03-17T13:15:00,2026-02-05T13:29:00
+co_0492,Cambridge Institute Central,University,North West,2025-12-17,trial,Large,968,501-1000,self_serve,,2025-12-16T16:40:00,2026-06-09T14:17:00
+co_0493,Eastgate School Trust Trust,School,East Midlands,2025-08-29,trial,Medium,179,101-500,partner,Daniel Hughes,2025-08-30T16:11:00,2025-10-18T16:51:00
+co_0494,Bridgewater College Central,School,South East,2026-05-19,active,Medium,142,101-500,direct_sales,Farah Malik,2026-05-13T11:14:00,2026-05-29T10:26:00
+co_0495,Ashford Learning Trust,School,South East,2024-06-20,active,Small,98,51-100,inbound,Daniel Hughes,2024-06-17T12:27:00,2025-12-04T11:06:00
+co_0496,Summit School,School,East Midlands,2024-05-29,active,Small,65,51-100,direct_sales,Amelia Clarke,2024-05-19T14:50:00,2025-09-02T14:19:00
+co_0497,Leeds Further Education College Trust,Further Education,North West,2025-02-08,active,Medium,166,101-500,partner,Charlotte Evans,2025-01-30T16:30:00,2025-09-13T18:37:00
+co_0498,Eastgate Academy,School,South East,2023-12-28,active,Medium,292,101-500,inbound,Hannah Roberts,2023-12-27T12:42:00,2026-04-07T18:04:00
+co_0499,Maple Learning Trust Central,School,East of England,2024-11-07,voluntary_churn,Medium,103,101-500,self_serve,Ben Whitmore,2024-10-30T15:41:00,2025-11-10T15:26:00
+co_0500,Northbridge Education Services Central,Private Education,North East,2026-03-04,active,Medium,169,101-500,inbound,Daniel Hughes,2026-03-01T13:19:00,2026-05-23T16:53:00
+co_0501,Kingfisher Education Partnership South,Other,Ireland,2026-03-24,active,Small,87,51-100,direct_sales,,2026-03-22T12:38:00,2026-03-29T09:52:00
+co_0502,Hillcrest College,school,Wales,2025-02-02,active,Medium,114,101-500,self_serve,,2025-01-30T12:02:00,2025-11-16T09:33:00
+co_0503,York Further Education College Central,Further Education,West Midlands,2025-09-14,active,Medium,135,101-500,direct_sales,George Bennett,2025-09-12T11:43:00,2026-03-30T12:35:00
+co_0504,Summit Grammar School Trust North,School,Scotland,2025-07-07,trial,Medium,117,101-500,partner,Daniel Hughes,2025-07-01T09:17:00,2026-04-02T14:19:00
+co_0505,Cambridge University Trust,University,North West,2025-02-03,active,Large,511,501-1000,direct_sales,Charlotte Evans,2025-01-28T14:54:00,2026-04-04T16:44:00
+co_0506,Camden Academy South,School,North East,2024-12-10,active,Medium,133,101-500,direct_sales,Jacob Turner,2024-12-04T08:31:00,2025-06-14T17:26:00
+co_0507,Lakeside Skills Centre South Trust,PRIVATE EDUCATION,Yorkshire and the Humber,2024-10-18,active,Medium,239,101-500,self_serve,,2024-10-18T17:48:00,2026-06-04T14:10:00
+co_0508,Cardiff Further Education College North,Further Education,West Midlands,2024-05-17,active,Large,582,501-1000,direct_sales,Imogen Davies,2024-05-19T12:56:00,2025-09-16T16:34:00
+co_0509,Norwich University,University,South East,2024-09-06,active,Bespoke,2600,1001+,inbound,Hannah Roberts,2024-08-27T18:58:00,2025-12-15T09:05:00
+co_0510,Parkside Grammar School,School,South West,2026-05-02,active,Small,69,51-100,inbound,Imogen Davies,2026-05-01T18:40:00,2026-06-01T09:04:00
+co_0511,Exeter Further Education College South Central,Further Education,North West,2023-09-03,active,Small,89,51-100,direct_sales,Ben Whitmore,2023-08-30T12:07:00,2025-12-20T08:13:00
+co_0512,Dundee Library Service,Library,North West,2025-11-24,trial,Small,69,51-100,self_serve,,2025-11-25T13:26:00,2026-01-14T16:35:00
+co_0513,Hadley College South,School,West Midlands,2023-08-29,paused,Small,83,51-100,public_sector_framework,Farah Malik,2023-08-29T08:21:00,2026-02-03T09:53:00
+co_0514,Tudor Learning Group South,Training Provider,London,2024-05-12,trial,Medium,433,101-500,partner,Jacob Turner,2024-05-04T16:47:00,2025-08-02T09:48:00
+co_0515,York Library Service,Library,East Midlands,2023-11-13,active,Large,715,501-1000,partner,Jacob Turner,2023-11-06T13:02:00,2025-08-16T15:37:00
+co_0516,Summit Learning Group North,Training Provider,East of England,2026-01-29,active,Small,55,51-100,self_serve,Ben Whitmore,2026-01-22T14:46:00,2026-05-31T08:45:00
+co_0517,Fairfield Academy Central,School,London,2024-01-19,active,Medium,399,101-500,direct_sales,Ella Thompson,2024-01-16T18:09:00,2025-05-27T15:12:00
+co_0518,Lakeside Skills Centre Central,Training Provider,West Midlands,2024-01-10,active,Medium,160,101-500,direct_sales,Ben Whitmore,2024-01-07T18:49:00,2025-12-13T15:44:00
+co_0519,Cotswold Education Services,Private Education,Wales,2026-05-01,trial,Small,64,51-100,partner,,2026-04-30T17:47:00,2026-05-03T11:57:00
+co_0520,Manchester Library Service Trust,Library,London,2024-01-03,voluntary_churn,Small,60,51-100,direct_sales,Charlotte Evans,2023-12-28T17:20:00,2026-06-27T14:24:00
+co_0521,Kingfisher Grammar School South,School,East Midlands,2026-02-28,trial,Small,87,51-100,partner,George Bennett,2026-02-25T10:13:00,2026-06-29T15:08:00
+co_0522,Westfield School Central,School,West Midlands,2025-07-08,active,Medium,172,101-500,direct_sales,Farah Malik,2025-06-30T13:20:00,2025-08-21T16:30:00
+co_0523,Westfield Learning Group Central South,Private Education,Yorkshire and the Humber,2023-07-19,active,Medium,129,101-500,inbound,Daniel Hughes,2023-07-20T13:29:00,2025-09-13T11:17:00
+co_0524,Camden College Trust,School,East Midlands,2026-03-04,active,Small,28,1-50,direct_sales,Jacob Turner,2026-03-05T14:28:00,2026-04-29T18:28:00
+co_0525,Ashford School,School,West Midlands,2023-08-27,active,Medium,151,101-500,partner,Charlotte Evans,2023-08-29T13:08:00,2025-09-17T17:10:00
+co_0526,Camden Academy Trust North,School,South West,2025-07-18,trial,Medium,102,101-500,partner,Imogen Davies,2025-07-18T13:30:00,2026-06-13T18:29:00
+co_0527,Hadley School South,School,South East,2024-02-18,active,Small,97,51-100,partner,George Bennett,2024-02-12T15:04:00,2026-06-15T17:11:00
+co_0528,Lakeside Skills Centre Trust,Training Provider,North West,2024-06-06,trial,Medium,170,101-500,public_sector_framework,Amelia Clarke,2024-05-30T11:51:00,2025-10-15T15:51:00
+co_0529,Dundee Further Education College,FURTHER EDUCATION,Scotland,2023-11-03,active,Medium,282,101-500,partner,Imogen Davies,2023-11-03T12:19:00,2025-09-26T08:56:00
+co_0530,Lancaster Further Education College,Further Education,South East,2024-10-22,active,medium,140,101-500,direct_sales,Daniel Hughes,2024-10-15T12:22:00,2025-09-26T13:28:00
+co_0531,Meadowbrook Skills Centre Central North,Private Education,East of England,2024-01-10,active,Small,36,1-50,public_sector_framework,,2024-01-11T18:51:00,2025-07-19T11:31:00
+co_0532,Meadowbrook Training,Private Education,Scotland,2024-05-03,active,Small,41,1-50,direct_sales,George Bennett,2024-05-02T17:07:00,2025-10-12T16:29:00
+co_0533,Rowan School North North,School,West Midlands,2024-03-20,active,Medium,133,101-500,self_serve,Ella Thompson,2024-03-22T10:41:00,2026-06-17T15:08:00
+co_0534,Westfield Education Services Trust,Training Provider,South East,2024-07-15,active,Medium,372,101-500,partner,Charlotte Evans,2024-07-06T09:25:00,2025-12-11T11:16:00
+co_0535,York Further Education College South,Further Education,West Midlands,2025-03-13,active,Medium,372,101-500,direct_sales,Jacob Turner,2025-03-15T13:25:00,2026-05-21T11:12:00
+co_0536,Exeter Knowledge Hub North,Library,London,2024-06-29,active,Medium ,197,101-500,inbound,Ella Thompson,2024-06-23T16:46:00,2026-06-29T10:49:00
+co_0537,Belfast Institute,University,West Midlands,2025-06-26,active,Medium,341,101-500,partner,Farah Malik,2025-06-21T10:50:00,2025-08-11T17:11:00
+co_0538,Eastgate Learning Trust Trust,School,South West,2024-12-15,active,Small,90,51-100,self_serve,Ben Whitmore,2024-12-08T13:05:00,2025-10-12T12:39:00
+co_0539,Belfast Institute South,University,West Midlands,2024-06-25,active,Bespoke,1663,1001+,public_sector_framework,Farah Malik,2024-06-23T14:20:00,2026-01-31T10:13:00
+co_0540,Willow Education Partnership South,Other,Scotland,2024-08-16,active,Medium,196,101-500,self_serve,,2024-08-17T08:51:00,2026-06-05T12:42:00
+co_0541,Hillcrest Academy South,School,North West,2026-05-11,trial,Small,98,51-100,partner,Daniel Hughes,2026-05-09T08:43:00,2026-06-15T10:15:00
+co_0542,Fairfield Learning Group Trust,Private Education,Ireland,2024-12-27,active,Small,86,51-100,partner,Jacob Turner,2024-12-24T17:44:00,2026-01-04T12:16:00
+co_0543,Willow Learning Trust North,School,Northern Ireland,2025-06-02,trial,Small,94,51-100,direct_sales,Daniel Hughes,2025-05-23T15:43:00,2025-07-07T17:09:00
+co_0544,Cotswold Training Trust,Training Provider,South East,2025-10-27,paused,Small,60,51-100,partner,,2025-10-23T17:30:00,2026-03-21T12:46:00
+co_0545,Maple Academy,School,London,2024-07-05,active,Small,98,51-100,inbound,Imogen Davies,2024-07-03T11:15:00,2025-09-10T17:12:00
+co_0546,Dales Learning Trust South,School,Yorkshire and the Humber,2025-08-15,trial,Medium,132,101-500,self_serve,,2025-08-16T15:20:00,2026-02-02T12:26:00
+co_0547,Lancaster Libraries,Library,Yorkshire and the Humber,2024-11-03,active,Medium,258,101-500,inbound,Amelia Clarke,2024-10-28T09:30:00,2025-08-11T08:27:00
+co_0548,Hastings Higher Education Centre North,University,West Midlands,2026-03-14,trial,Large,615,501-1000,direct_sales,Jacob Turner,2026-03-15T18:37:00,2026-05-17T12:37:00
+co_0549,Northbridge Academy South,School,East of England,2023-10-24,active,Small,73,51-100,inbound,Imogen Davies,2023-10-22T10:40:00,2025-06-20T18:56:00
+co_0550,Westfield School Central Central,School,Scotland,2024-03-02,delinquent_churn,Medium,173,101-500,partner,Farah Malik,2024-02-28T11:38:00,2025-06-30T11:27:00
+co_0551,Stamford Academy Trust,school,East of England,2024-12-17,active,Medium,169,101-500,direct_sales,Daniel Hughes,2024-12-09T08:32:00,2025-09-01T16:19:00
+co_0552,York Libraries,Library,London,2025-07-25,active,Medium,143,101-500,inbound,Charlotte Evans,2025-07-19T14:45:00,2026-02-04T15:08:00
+co_0553,Parkside School,School,South West,2024-07-19,active,Small,69,51-100,inbound,Ella Thompson,2024-07-13T10:37:00,2025-12-26T11:42:00
+co_0554,Cedar Skills Centre Central,Training Provider,Yorkshire and the Humber,2025-03-01,trial,Medium,243,101-500,direct_sales,Ella Thompson,2025-02-27T14:36:00,2025-09-07T16:09:00
+co_0555,Fairfield Learning Trust Trust,School,London,2025-03-01,active,Small,41,1-50,inbound,Daniel Hughes,2025-02-28T11:06:00,2025-09-13T11:25:00
+co_0556,Belfast Library Service North,Library,London,2023-10-06,active,Medium,273,101-500,partner,Charlotte Evans,2023-10-04T13:22:00,2025-08-17T11:45:00
+co_0557,Parkside Skills Centre,Training Provider,London,2025-09-27,active,Small,88,51-100,direct_sales,,2025-09-22T12:56:00,2026-02-23T11:19:00
+co_0558,Willow Academy North,school,South West,2026-05-15,active,Medium,104,101-500,direct_sales,Hannah Roberts,2026-05-10T09:49:00,2026-05-17T16:14:00
+co_0559,Beechwood College North,School,East Midlands,2026-01-15,active,Small,96,51-100,partner,Amelia Clarke,2026-01-10T17:36:00,2026-03-04T09:55:00
+co_0560,Cedar Skills Centre Central North,Private Education,South East,2024-12-16,active,Small,40,1-50,direct_sales,George Bennett,2024-12-07T14:36:00,2026-01-26T16:11:00
+co_0561,Birmingham Institute Trust,University,East Midlands,2024-04-21,active,Medium,443,101-500,direct_sales,Ella Thompson,2024-04-16T17:31:00,2025-06-15T12:16:00
+co_0562,Harbour School Central Central,School,South West,2023-08-05,trial,Small,91,51-100,direct_sales,Hannah Roberts,2023-08-03T17:28:00,2025-11-13T09:25:00
+co_0563,Summit Skills Centre Central,Training Provider,North West,2024-06-24,active,Medium,256,101-500,inbound,George Bennett,2024-06-21T15:18:00,2025-10-31T18:08:00
+co_0564,Stamford College Central,School,West Midlands,2025-08-03,active,Medium,181,101-500,direct_sales,Imogen Davies,2025-07-28T18:21:00,2025-10-31T17:13:00
+co_0565,Elmfield Academy South,School,London,2026-01-06,past_due,Small,81,51-100,direct_sales,Charlotte Evans,2026-01-06T09:49:00,2026-03-24T08:36:00
+co_0566,Victoria Education Partnership Trust,Other,East Midlands,2023-10-06,active,Medium,396,101-500,partner,Jacob Turner,2023-10-06T09:39:00,2026-03-13T16:37:00
+co_0567,Victoria Learning Group North Trust,Training Provider,West Midlands,2024-10-23,active,Medium,239,101-500,direct_sales,Farah Malik,2024-10-23T17:32:00,2025-05-31T16:58:00
+co_0568,Cedar Learning Trust South,School,South East,2025-03-24,active,Small,64,51-100,public_sector_framework,Imogen Davies,2025-03-18T15:48:00,2025-06-01T16:01:00
+co_0569,Elmfield College Trust,School,South West,2024-05-21,active,Medium,161,101-500,inbound,,2024-05-21T08:02:00,2025-11-16T10:11:00
+co_0570,Lancaster Further Education College Trust,Further Education,Scotland,2025-10-13,trial,Medium,183,101-500,direct_sales,George Bennett,2025-10-13T14:21:00,2026-01-04T16:48:00
+co_0571,Oxford Community Library,Library,East Midlands,2025-08-31,trial,Medium,204,101-500,partner,Daniel Hughes,2025-08-21T11:06:00,2025-10-06T10:07:00
+co_0572,Stamford Education Partnership,Other,Scotland,2024-01-22,past_due,Small,70,51-100,direct_sales,George Bennett,2024-01-12T18:54:00,2025-09-23T08:48:00
+co_0573,Abbey Training,Private Education,North East,2024-03-25,active,Medium,225,101-500,direct_sales,Charlotte Evans,2024-03-24T10:47:00,2026-02-13T14:20:00
+co_0574,Riverside Academy Central,School,South East,2023-11-29,trial,Medium ,217,101-500,direct_sales,,2023-11-26T16:00:00,2025-09-03T10:40:00
+co_0575,Chiltern Learning Trust South,School,Scotland,2025-03-27,trial,medium,126,101-500,inbound,Farah Malik,2025-03-26T18:22:00,2026-01-28T12:14:00
+co_0576,Harbour School Trust,School,South West,2024-08-31,active,Medium,117,101-500,self_serve,Amelia Clarke,2024-09-01T13:50:00,2025-10-14T13:49:00
+co_0577,Birmingham Further Education College North,Further Education,North West,2024-10-14,trial,Medium,211,101-500,partner,George Bennett,2024-10-16T15:51:00,2025-11-23T17:58:00
+co_0578,Riverside College Trust,School,North West,2025-07-18,delinquent_churn,Small,50,1-50,direct_sales,Jacob Turner,2025-07-12T17:12:00,2026-01-12T15:44:00
+co_0579,Reading Further Education College South South,Further Education,London,2024-06-25,active,Medium,213,101-500,direct_sales,Ella Thompson,2024-06-21T12:12:00,2025-10-25T14:58:00
+co_0580,Hillcrest Skills Centre Trust Trust,Training Provider,South East,2023-10-20,active,Medium,245,101-500,partner,Imogen Davies,2023-10-15T12:31:00,2026-05-25T15:46:00
+co_0581,Ashford Academy North,School,South West,2024-05-05,trial,Medium,124,101-500,self_serve,Daniel Hughes,2024-04-30T09:21:00,2025-12-02T10:36:00
+co_0582,Northbridge Learning Group North,Training Provider,West Midlands,2025-08-25,active,Small,76,51-100,direct_sales,George Bennett,2025-08-26T10:17:00,2026-04-25T15:55:00
+co_0583,Cardiff Community Library Central Trust,Library,East Midlands,2024-08-22,active,Medium,126,101-500,direct_sales,Hannah Roberts,2024-08-17T15:51:00,2026-01-22T16:33:00
+co_0584,Chiltern Learning Group,Private Education,London,2024-06-14,active,Small,76,51-100,inbound,Ella Thompson,2024-06-08T14:55:00,2025-08-14T11:24:00
+co_0585,Leeds University Trust,University,South East,2026-03-29,paused,Medium,193,101-500,partner,Farah Malik,2026-03-31T15:12:00,2026-04-27T17:53:00
+co_0586,Dales Academy North,School,South East,2025-08-20,trial,Large,511,501-1000,self_serve,Amelia Clarke,2025-08-13T10:10:00,2025-10-28T11:29:00
+co_0587,Westfield School South,School,Ireland,2024-06-08,active,Medium,155,101-500,partner,Daniel Hughes,2024-06-10T10:46:00,2026-05-19T18:16:00
+co_0588,Camden Education Services Trust,Training Provider,London,2025-09-02,active,Small,87,51-100,inbound,Amelia Clarke,2025-08-28T09:24:00,2025-12-02T09:26:00
+co_0589,Belfast Higher Education Centre South,University,West Midlands,2024-12-02,active,Large,654,501-1000,public_sector_framework,Daniel Hughes,2024-11-24T15:43:00,2026-02-24T13:45:00
+co_0590,Eastgate Grammar School,School,South West,2025-09-01,active,Medium,310,101-500,inbound,Hannah Roberts,2025-08-24T13:01:00,2025-09-12T18:06:00
+co_0591,Maple School Central,School,North West,2024-11-04,trial,Small,28,1-50,partner,Amelia Clarke,2024-11-04T13:43:00,2025-12-13T12:54:00
+co_0592,Leeds Further Education College North,Further Education,North West,2024-09-27,trial,Medium,129,101-500,direct_sales,,2024-09-25T11:39:00,2025-10-06T17:36:00
+co_0593,Fairfield School North,School,London,2024-07-26,trial,Small,80,51-100,direct_sales,Imogen Davies,2024-07-20T10:15:00,2025-11-07T13:36:00
+co_0594,Oaklands Education Services,Training Provider,London,2025-03-15,trial,Medium,128,101-500,direct_sales,Jacob Turner,2025-03-06T12:15:00,2026-05-23T09:58:00
+co_0595,Fairfield Education Partnership,Other,London,2026-04-18,active,Small,44,1-50,partner,Jacob Turner,2026-04-08T18:44:00,2026-04-08T16:55:00
+co_0596,Queensway Learning Trust North,school,Ireland,2025-11-08,active,Medium,128,101-500,self_serve,George Bennett,2025-11-01T11:55:00,2026-04-08T15:42:00
+co_0597,Bristol School Trust,School,South East,2023-10-10,active,Small,75,51-100,self_serve,Farah Malik,2023-10-05T17:24:00,2026-01-18T14:51:00
+co_0598,Willow Learning Group,Private Education,East Midlands,2026-06-13,trial,Medium,123,101-500,partner,Imogen Davies,2026-06-05T08:17:00,2026-06-08T18:47:00
+co_0599,Fairfield Academy South,School,North East,2026-04-15,active,Small,62,51-100,public_sector_framework,Charlotte Evans,2026-04-11T14:12:00,2026-04-22T17:08:00
+co_0600,Beechwood Education Services Trust,Private Education,London,2025-04-20,trial,Medium,134,101-500,self_serve,Ella Thompson,2025-04-21T15:42:00,2025-12-24T18:58:00
+co_0601,Bristol Learning Trust Trust,School,South East,2025-02-25,past_due,Small,84,51-100,inbound,Ella Thompson,2025-02-21T09:50:00,2025-10-12T13:04:00
+co_0602,Cotswold Academy South,School,South West,2026-03-14,trial,Medium,217,101-500,self_serve,Jacob Turner,2026-03-07T10:36:00,2026-05-16T13:28:00
+co_0603,Fairfield Training South,Training Provider,South East,2024-07-07,active,Medium,107,101-500,public_sector_framework,Charlotte Evans,2024-06-30T14:45:00,2026-05-09T11:08:00
+co_0604,Rowan Academy South,School,London,2023-11-22,active,Small,93,51-100,partner,Daniel Hughes,2023-11-14T10:23:00,2025-08-01T08:42:00
+co_0605,Bridgewater Learning Trust,School,Scotland,2024-10-21,active,Small,93,51-100,direct_sales,Daniel Hughes,2024-10-22T11:16:00,2025-06-04T10:27:00
+co_0606,Rowan Academy South Central,School,South East,2026-03-25,trial,Medium,188,101-500,direct_sales,Amelia Clarke,2026-03-24T09:30:00,2026-05-21T14:04:00
+co_0607,Eastgate College South,School,London,2024-10-23,active,medium,124,101-500,direct_sales,Daniel Hughes,2024-10-13T15:55:00,2025-07-12T16:07:00
+co_0608,York Further Education College North,Further Education,South East,2023-12-31,active,Medium,260,101-500,self_serve,Ben Whitmore,2023-12-29T16:09:00,2026-01-08T12:22:00
+co_0609,Summit Learning Trust North,School,London,2025-06-30,active,Medium,108,101-500,self_serve,,2025-06-26T15:31:00,2026-01-04T08:53:00
+co_0610,Willow Education Services,Private Education,South East,2024-01-22,active,Small,46,1-50,partner,Jacob Turner,2024-01-12T13:25:00,2025-10-23T08:27:00
+co_0611,Rowan School North South,School,Scotland,2025-03-11,trial,Medium,146,101-500,self_serve,Daniel Hughes,2025-03-03T08:57:00,2025-09-03T15:47:00
+co_0612,Lakeside Education Partnership Central,Other,South East,2024-09-06,voluntary_churn,Small,48,1-50,self_serve,Daniel Hughes,2024-08-27T15:13:00,2025-12-11T10:51:00
+co_0613,Cotswold Skills Centre Trust,Private Education,London,2025-04-09,trial,Small,24,1-50,public_sector_framework,Jacob Turner,2025-04-10T13:08:00,2026-04-14T12:01:00
+co_0614,Hadley School Central,School,North West,2024-12-12,active,Medium,169,101-500,partner,Jacob Turner,2024-12-13T16:36:00,2025-08-04T09:50:00
+co_0615,Norwich Community Library Trust,Library,North East,2024-11-01,trial,Small,18,1-50,self_serve,,2024-10-22T10:44:00,2026-01-11T18:02:00
+co_0616,Edinburgh Further Education College Central,Further Education,West Midlands,2023-09-07,active,Large,723,501-1000,direct_sales,George Bennett,2023-09-09T13:31:00,2025-07-27T09:52:00
+co_0617,Northbridge Grammar School South,School,North West,2024-05-31,active,Medium,113,101-500,inbound,Ben Whitmore,2024-05-22T13:26:00,2025-11-06T09:44:00
+co_0618,Victoria Learning Group South,private education,Scotland,2024-04-03,trial,Small,38,1-50,self_serve,,2024-04-05T15:17:00,2026-06-27T13:51:00
+co_0619,Rowan Education Partnership Central,Other,East of England,2024-09-15,trial,Small,55,51-100,partner,,2024-09-09T10:12:00,2026-05-29T08:05:00
+co_0620,Oxford Further Education College Trust,Further Education,North West,2025-08-20,trial,Medium,133,101-500,partner,Farah Malik,2025-08-10T15:58:00,2026-03-12T13:34:00
+co_0621,Birmingham University,University,London,2026-03-04,trial,Medium,265,101-500,self_serve,George Bennett,2026-03-01T11:04:00,2026-04-21T11:06:00
+co_0622,Willow Skills Centre,Private Education,North East,2025-05-19,active,Medium,157,101-500,direct_sales,,2025-05-13T17:06:00,2025-12-23T16:58:00
+co_0623,Hastings Knowledge Hub,Library,Scotland,2026-01-09,active,Small,57,51-100,partner,Daniel Hughes,2026-01-05T16:38:00,2026-06-04T12:40:00
+co_0624,Riverside Skills Centre Trust,Private Education,South West,2026-05-13,active,Small,89,51-100,inbound,Jacob Turner,2026-05-04T17:50:00,2026-05-24T11:47:00
+co_0625,Exeter Higher Education Centre North,University,South East,2025-02-08,trial,Small,66,51-100,partner,Charlotte Evans,2025-02-01T10:30:00,2025-06-14T15:21:00
+co_0626,Parkside Education Services Central,Private Education,East Midlands,2024-09-23,active,Small,82,51-100,self_serve,Amelia Clarke,2024-09-22T17:46:00,2025-10-27T08:26:00
+co_0627,Cedar Skills Centre South South,Private Education,Yorkshire and the Humber,2024-06-20,voluntary_churn,Small,99,51-100,partner,Hannah Roberts,2024-06-11T17:57:00,2025-10-30T18:03:00
+co_0628,Hadley Academy South,School,East of England,2023-12-03,active,Medium,171,101-500,direct_sales,George Bennett,2023-11-28T08:09:00,2026-03-11T14:12:00
+co_0629,Rowan College Central,School,Wales,2023-08-15,active,Medium,195,101-500,self_serve,,2023-08-05T09:23:00,2026-01-29T09:50:00
+co_0630,Oxford Libraries Central,Library,East of England,2025-03-18,trial,Small,47,1-50,partner,Hannah Roberts,2025-03-20T08:45:00,2025-12-13T08:18:00
+co_0631,Eastgate College Trust,School,Northern Ireland,2023-07-19,trial,Medium,265,101-500,direct_sales,Farah Malik,2023-07-10T14:39:00,2025-06-20T12:10:00
+co_0632,Dundee Further Education College North,Further Education,West Midlands,2025-11-20,active,Medium,289,101-500,direct_sales,Amelia Clarke,2025-11-18T13:50:00,2026-05-03T16:03:00
+co_0633,Rowan Skills Centre,Private Education,East of England,2024-10-13,active,Medium,144,101-500,direct_sales,Imogen Davies,2024-10-08T11:08:00,2025-12-07T12:43:00
+co_0634,Tudor Learning Trust North,School,East of England,2025-03-29,trial,Medium,119,101-500,self_serve,Ella Thompson,2025-03-31T14:09:00,2026-01-27T18:20:00
+co_0635,Parkside Education Services North,Training Provider,North East,2024-05-28,active,Medium,154,101-500,direct_sales,Hannah Roberts,2024-05-19T08:44:00,2025-06-10T12:55:00
+co_0636,Summit Education Services Trust,Private Education,South West,2025-07-04,active,Small,47,1-50,public_sector_framework,Ben Whitmore,2025-07-04T17:15:00,2026-06-20T12:34:00
+co_0637,Beechwood College North Trust,School,South West,2025-01-31,active,Small,38,1-50,partner,Charlotte Evans,2025-01-28T08:54:00,2025-07-23T15:57:00
+co_0638,York Higher Education Centre,University,East Midlands,2023-08-11,trial,Medium,217,101-500,partner,Farah Malik,2023-08-05T14:35:00,2025-08-31T15:07:00
+co_0639,Swansea Libraries Central,Library,Northern Ireland,2026-02-04,trial,Medium,341,101-500,self_serve,,2026-01-30T08:26:00,2026-02-18T18:19:00
+co_0640,Belfast University North,University,Wales,2023-11-10,active,Medium,181,101-500,partner,George Bennett,2023-11-10T14:45:00,2026-01-05T12:37:00
+co_0641,Northbridge Academy North,School,Yorkshire and the Humber,2024-11-27,active,Medium,345,101-500,direct_sales,Imogen Davies,2024-11-23T15:08:00,2025-12-10T17:51:00
+co_0642,Ashford Skills Centre,Private Education,East of England,2023-09-12,active,Small,28,1-50,self_serve,,2023-09-08T17:19:00,2026-02-10T09:51:00
+co_0643,Exeter Community Library,Library,London,2025-06-24,active,Medium,153,101-500,public_sector_framework,Charlotte Evans,2025-06-21T12:34:00,2026-02-20T14:49:00
+co_0644,Norwich Community Library Trust Central,Library,Wales,2025-05-05,voluntary_churn,Small,59,51-100,inbound,Jacob Turner,2025-05-07T15:56:00,2025-09-26T13:58:00
+co_0645,Victoria College Trust,School,South West,2024-08-20,trial,Small,78,51-100,self_serve,Amelia Clarke,2024-08-17T09:20:00,2026-04-02T18:52:00
+co_0646,Dales Education Services,Private Education,North East,2023-07-05,active,Medium,212,101-500,direct_sales,Charlotte Evans,2023-07-07T09:14:00,2025-10-28T14:16:00
+co_0647,Queensway Academy North,School,Scotland,2024-05-31,active,Small,99,51-100,direct_sales,Amelia Clarke,2024-05-29T18:19:00,2025-05-26T11:04:00
+co_0648,Summit School South,School,East Midlands,2023-10-02,active,Medium,114,101-500,inbound,George Bennett,2023-09-27T11:45:00,2025-09-29T16:10:00
+co_0649,Reading Library Service North South,Library,Ireland,2025-10-02,trial,Medium,107,101-500,direct_sales,Hannah Roberts,2025-10-01T10:31:00,2025-11-13T14:24:00
+co_0650,Cambridge Further Education College North South,Further Education,London,2025-11-25,active,Medium,144,101-500,partner,Jacob Turner,2025-11-26T11:48:00,2026-04-14T16:11:00
+co_0651,Lancaster Knowledge Hub South,Library,East of England,2024-08-05,delinquent_churn,Small,20,1-50,direct_sales,Ben Whitmore,2024-07-29T15:25:00,2025-07-26T15:09:00
+co_0652,York Further Education College North Trust,Further Education,West Midlands,2024-12-29,trial,Medium,234,101-500,inbound,Ella Thompson,2024-12-23T17:25:00,2025-12-07T08:31:00
+co_0653,Abbey Academy North,School,Northern Ireland,2025-01-09,active,Small,89,51-100,inbound,Imogen Davies,2025-01-10T13:58:00,2025-07-25T08:49:00
+co_0654,Eastgate Education Partnership,Other,London,2026-06-02,trial,Small,43,1-50,self_serve,Daniel Hughes,2026-05-29T14:34:00,2026-06-23T17:58:00
+co_0655,Dales Learning Trust Central,School,Scotland,2024-09-23,trial,Small,38,1-50,public_sector_framework,Charlotte Evans,2024-09-19T14:35:00,2026-04-09T18:20:00
+co_0656,Abbey College,School,Scotland,2025-02-23,past_due,Small,74,51-100,direct_sales,Amelia Clarke,2025-02-23T15:41:00,2025-07-29T18:20:00
+co_0657,Eastgate Education Partnership Trust,Other,Scotland,2024-04-07,active,Medium,197,101-500,direct_sales,Amelia Clarke,2024-04-01T10:20:00,2026-05-30T14:35:00
+co_0658,Oxford Institute Central,University,East Midlands,2023-11-26,trial,Large,781,501-1000,self_serve,Hannah Roberts,2023-11-25T10:51:00,2025-09-09T11:34:00
+co_0659,Dales Learning Trust North,School,West Midlands,2025-10-04,active,Medium,130,101-500,direct_sales,Jacob Turner,2025-09-29T08:23:00,2026-05-18T11:05:00
+co_0660,Manchester Further Education College Central Trust,Further Education,Yorkshire and the Humber,2023-10-02,past_due,Medium,371,101-500,direct_sales,Jacob Turner,2023-10-03T15:24:00,2025-08-19T08:28:00
+co_0661,Abbey Grammar School Trust,School,Scotland,2024-01-15,active,Medium,310,101-500,direct_sales,Hannah Roberts,2024-01-15T11:17:00,2026-02-09T16:51:00
+co_0662,Beechwood Learning Group North South,Private Education,London,2025-05-06,active,Small,42,1-50,self_serve,,2025-04-30T13:56:00,2025-09-16T13:29:00
+co_0663,Hillcrest Grammar School South,School,West Midlands,2025-10-02,trial,Small,70,51-100,partner,Jacob Turner,2025-10-01T08:30:00,2026-06-03T16:49:00
+co_0664,Maple Grammar School,School,London,2025-06-09,active,Small,40,1-50,direct_sales,Charlotte Evans,2025-06-11T12:43:00,2025-07-25T14:12:00
+co_0665,Beechwood Skills Centre Central South,Private Education,South East,2024-10-13,active,Small,77,51-100,inbound,Jacob Turner,2024-10-13T10:44:00,2025-06-13T12:27:00
+co_0666,Willow Learning Trust North South,School,Ireland,2026-02-23,trial,Small,59,51-100,inbound,Ben Whitmore,2026-02-20T11:07:00,2026-04-04T11:03:00
+co_0667,Northbridge Learning Group Trust,Private Education,North West,2024-10-10,active,Small,56,51-100,direct_sales,Amelia Clarke,2024-10-12T11:44:00,2026-05-01T08:05:00
+co_0668,Harbour College Central,School,North East,2025-09-12,active,Small,76,51-100,direct_sales,Ben Whitmore,2025-09-06T09:16:00,2026-01-07T10:04:00
+co_0669,Meadowbrook Grammar School North,school,West Midlands,2025-11-05,active,Medium,234,101-500,direct_sales,Hannah Roberts,2025-11-07T10:04:00,2025-11-22T10:46:00
+co_0670,Kingfisher Skills Centre Trust,PRIVATE EDUCATION,East of England,2024-04-23,delinquent_churn,Small,41,1-50,self_serve,Ben Whitmore,2024-04-19T08:25:00,2025-06-08T09:25:00
+co_0671,Parkside College Trust North,School,Ireland,2024-11-30,active,Small,41,1-50,public_sector_framework,Hannah Roberts,2024-11-26T17:06:00,2025-08-05T11:48:00
+co_0672,Northbridge Grammar School Trust,School,South East,2025-03-28,active,Small,62,51-100,partner,Farah Malik,2025-03-21T14:35:00,2025-09-07T13:39:00
+co_0673,Hadley Grammar School North,School,Scotland,2026-02-24,trial,Small,68,51-100,inbound,Farah Malik,2026-02-25T15:39:00,2026-03-10T14:06:00
+co_0674,Riverside Training North,Training Provider,South East,2023-09-04,active,Small,61,51-100,self_serve,Jacob Turner,2023-08-25T17:34:00,2026-03-08T13:07:00
+co_0675,Cambridge Libraries North,Library,London,2024-07-11,active,Medium,193,101-500,self_serve,Ben Whitmore,2024-07-01T18:38:00,2025-07-16T11:28:00
+co_0676,Manchester Institute South,University,South East,2025-04-01,active,Large,733,501-1000,public_sector_framework,Hannah Roberts,2025-03-25T17:15:00,2026-05-17T11:58:00
+co_0677,Swansea Knowledge Hub North,Library,West Midlands,2025-11-22,trial,Medium,233,101-500,inbound,George Bennett,2025-11-15T16:30:00,2026-02-15T14:51:00
+co_0678,Birmingham Institute Trust North,University,South East,2024-12-04,trial,Bespoke,1309,1001+,direct_sales,Daniel Hughes,2024-11-26T14:10:00,2025-08-31T11:15:00
+co_0679,Northbridge College,School,North West,2025-12-29,active,Small,78,51-100,direct_sales,Ella Thompson,2025-12-19T13:15:00,2026-03-08T11:15:00
+co_0680,Harbour Education Partnership,Other,East of England,2025-09-01,active,Medium,184,101-500,direct_sales,George Bennett,2025-08-28T11:49:00,2025-09-21T09:02:00
+co_0681,Bridgewater Training South,Training Provider,North East,2025-09-23,voluntary_churn,Small,82,51-100,direct_sales,Ben Whitmore,2025-09-21T13:36:00,2025-12-04T09:25:00
+co_0682,Parkside Skills Centre North,Private Education,North West,2024-11-16,trial,Medium,102,101-500,direct_sales,Amelia Clarke,2024-11-09T13:52:00,2025-07-14T18:22:00
+co_0683,Beechwood Learning Trust,School,East of England,2025-11-03,active,medium,113,101-500,direct_sales,Ella Thompson,2025-11-02T12:42:00,2026-06-16T14:43:00
+co_0684,Oaklands Academy South,School,London,2026-04-27,active,Small,99,51-100,inbound,Jacob Turner,2026-04-19T13:47:00,2026-06-09T17:06:00
+co_0685,Rowan Learning Trust,School,North West,2025-12-26,active,Medium,132,101-500,partner,Ben Whitmore,2025-12-24T18:39:00,2026-06-16T16:39:00
+co_0686,Cedar Education Partnership,Other,South West,2024-08-25,trial,Medium,107,101-500,direct_sales,Farah Malik,2024-08-27T16:51:00,2025-10-15T12:03:00
+co_0687,Cotswold College Trust,School,South East,2025-10-04,trial,Medium,165,101-500,direct_sales,,2025-10-05T18:05:00,2026-02-12T08:58:00
+co_0688,Cardiff Community Library Trust,Library,East Midlands,2026-01-05,active,Medium,260,101-500,partner,Hannah Roberts,2025-12-27T10:02:00,2025-12-27T13:18:00
+co_0689,Kingfisher Academy,School,Wales,2024-06-27,active,Medium,104,101-500,inbound,Ella Thompson,2024-06-28T08:37:00,2025-10-27T17:15:00
+co_0690,Cardiff Higher Education Centre South,University,,2023-10-26,active,Medium,351,101-500,direct_sales,Ben Whitmore,2023-10-23T12:01:00,2025-06-20T11:50:00
+co_0691,Northbridge Grammar School North Central,School,London,2025-02-04,active,Small,74,51-100,inbound,Charlotte Evans,2025-01-29T14:20:00,2026-04-14T13:31:00
+co_0692,Greenwich College North,School,Wales,2023-11-11,active,Small,95,51-100,inbound,Hannah Roberts,2023-11-06T18:00:00,2025-11-18T17:11:00
+co_0693,Manchester Further Education College North Central,Further Education,Northern Ireland,2026-03-05,trial,Medium,121,101-500,direct_sales,Hannah Roberts,2026-03-05T16:17:00,2026-03-14T13:49:00
+co_0694,Rowan Learning Trust South,School,North West,2024-08-08,delinquent_churn,Small,92,51-100,direct_sales,Farah Malik,2024-08-09T09:17:00,2025-08-11T17:46:00
+co_0695,Cedar Learning Trust Trust,School,London,2026-02-01,active,Large,823,501-1000,direct_sales,Imogen Davies,2026-01-30T10:49:00,2026-05-08T09:03:00
+co_0696,Abbey Education Services,Private Education,North West,2025-01-29,active,Small,42,1-50,direct_sales,Jacob Turner,2025-01-26T12:45:00,2026-01-22T09:29:00
+co_0697,Bristol Grammar School,School,East Midlands,2026-05-06,active,Small,52,51-100,self_serve,Amelia Clarke,2026-04-30T15:23:00,2026-06-24T12:20:00
+co_0698,Bridgewater School Central,School,South West,2023-08-26,active,Medium,135,101-500,partner,George Bennett,2023-08-24T15:26:00,2025-05-28T18:08:00
+co_0699,Riverside Learning Group South,Training Provider,London,2023-11-17,active,Small,92,51-100,self_serve,Farah Malik,2023-11-11T18:06:00,2025-11-04T09:12:00
+co_0700,Riverside Learning Trust,School,South East,2025-07-16,active,Small,49,1-50,self_serve,Ella Thompson,2025-07-13T13:52:00,2025-11-27T12:47:00
+co_0701,Rowan College Central Trust,School,London,2024-01-21,trial,Medium,130,101-500,inbound,Farah Malik,2024-01-18T15:12:00,2025-09-19T13:45:00
+co_0702,Queensway Learning Group Trust,Private Education,London,2026-05-15,trial,Medium,158,101-500,self_serve,Farah Malik,2026-05-07T17:28:00,2026-06-13T15:06:00
+co_0703,Greenwich College North Central,School,London,2025-11-15,active,Medium,288,101-500,public_sector_framework,Daniel Hughes,2025-11-14T12:46:00,2025-12-08T08:42:00
+co_0704,Norwich Further Education College Central,Further Education,Yorkshire and the Humber,2024-06-08,trial,Medium,299,101-500,direct_sales,,2024-05-31T15:49:00,2025-11-10T10:49:00
+co_0705,Tudor College,School,South West,2023-08-30,active,Medium,196,101-500,direct_sales,Farah Malik,2023-09-01T10:45:00,2026-05-13T13:21:00
+co_0706,Norwich Knowledge Hub,Library,London,2025-01-25,active,Medium,280,101-500,direct_sales,Daniel Hughes,2025-01-25T18:44:00,2025-08-14T11:37:00
+co_0707,Reading Knowledge Hub North,Library,,2024-06-07,active,Medium,111,101-500,partner,Farah Malik,2024-06-06T11:59:00,2025-09-12T08:05:00
+co_0708,Ashford Education Services North,Private Education,Yorkshire and the Humber,2023-08-02,trial,Medium,274,101-500,partner,Imogen Davies,2023-07-25T16:31:00,2025-10-05T10:52:00
+co_0709,Bristol Grammar School South,School,North West,2024-07-27,trial,Small,66,51-100,direct_sales,Ella Thompson,2024-07-28T10:44:00,2026-04-02T17:19:00
+co_0710,Birmingham Further Education College South,Further Education,West Midlands,2023-07-26,active,Medium,144,101-500,partner,Farah Malik,2023-07-16T17:45:00,2025-06-21T08:50:00
+co_0711,Oxford Further Education College Trust Trust,Further Education,Ireland,2026-01-17,active,Medium,396,101-500,direct_sales,Daniel Hughes,2026-01-08T15:57:00,2026-01-19T17:51:00
+co_0712,Lancaster Libraries Trust,Library,Yorkshire and the Humber,2023-12-15,active,Medium,330,101-500,self_serve,Imogen Davies,2023-12-10T08:41:00,2026-04-15T09:19:00
+co_0713,Kingfisher Skills Centre Central,Private Education,London,2023-11-11,trial,Medium,149,101-500,self_serve,,2023-11-04T10:26:00,2026-04-03T13:23:00
+co_0714,Camden College North,School,Ireland,2025-11-15,active,Medium,106,101-500,direct_sales,Hannah Roberts,2025-11-11T15:16:00,2026-05-26T10:23:00
+co_0715,Riverside School Central,School,East of England,2023-11-07,trial,Small,61,51-100,direct_sales,Ben Whitmore,2023-11-03T12:25:00,2026-04-11T16:34:00
+co_0716,Kingfisher Learning Trust Trust,School,West Midlands,2025-05-07,active,Medium,136,101-500,self_serve,,2025-04-29T15:30:00,2026-01-21T11:43:00
+co_0717,Reading Higher Education Centre North,University,South East,2025-07-21,active,Large,520,501-1000,inbound,George Bennett,2025-07-18T12:04:00,2025-09-07T18:10:00
+co_0718,Oxford Further Education College North North,Further Education,South West,2023-12-24,active,Small ,82,51-100,direct_sales,Ben Whitmore,2023-12-18T16:22:00,2026-05-04T18:54:00
+co_0719,Abbey Grammar School Central,School,West Midlands,2023-11-21,active,Medium,268,101-500,inbound,Imogen Davies,2023-11-20T08:32:00,2025-06-20T12:33:00
+co_0720,Parkside Academy Trust,School,South West,2024-01-18,active,Small,70,51-100,partner,Ella Thompson,2024-01-12T18:26:00,2026-06-08T11:05:00
+co_0721,Victoria Academy North,School,Scotland,2024-12-19,voluntary_churn,Small,88,51-100,self_serve,,2024-12-19T14:15:00,2025-09-29T15:49:00
+co_0722,Swansea Libraries Central North,Library,South East,2023-11-29,paused,Medium,197,101-500,partner,Amelia Clarke,2023-11-27T13:19:00,2025-09-19T09:31:00
+co_0723,Tudor College Central,School,West Midlands,2024-09-19,active,Medium,180,101-500,self_serve,Farah Malik,2024-09-14T14:30:00,2026-02-05T13:00:00
+co_0724,Dales Learning Trust Trust,School,East of England,2026-03-27,trial,Medium,289,101-500,self_serve,Charlotte Evans,2026-03-22T18:34:00,2026-06-25T17:38:00
+co_0725,Cambridge Libraries Central,Library,Yorkshire and the Humber,2024-03-16,voluntary_churn,Small,66,51-100,partner,George Bennett,2024-03-18T18:43:00,2025-07-11T18:08:00
+co_0726,Hadley School Central Trust,School,North West,2024-10-17,trial,Small,99,51-100,direct_sales,Charlotte Evans,2024-10-13T18:52:00,2025-08-11T15:59:00
+co_0727,York University North Central,University,North East,2025-08-20,active,Large,520,501-1000,self_serve,,2025-08-12T09:20:00,2026-05-12T17:43:00
+co_0728,Tudor College South,School,North East,2024-06-07,trial,Large,526,501-1000,inbound,George Bennett,2024-06-04T15:05:00,2025-08-07T08:14:00
+co_0729,Hastings Library Service,Library,London,2024-10-06,active,Medium,112,101-500,inbound,Amelia Clarke,2024-10-03T08:39:00,2025-12-05T18:58:00
+co_0730,Stamford Learning Trust,School,North West,2024-06-10,active,Medium,123,101-500,direct_sales,Ella Thompson,2024-06-07T09:29:00,2026-06-12T17:07:00
+co_0731,Beechwood Skills Centre Central North,Private Education,North West,2025-10-09,active,Small,88,51-100,partner,Farah Malik,2025-10-04T11:42:00,2026-01-24T11:24:00
+co_0732,Lakeside Grammar School Trust,School,Northern Ireland,2023-09-06,active,Medium,114,101-500,inbound,Amelia Clarke,2023-08-28T13:29:00,2026-03-10T10:18:00
+co_0733,Hastings Further Education College North North,Further Education,Scotland,2025-04-03,active,Medium,377,101-500,inbound,Amelia Clarke,2025-03-26T09:51:00,2026-01-14T09:50:00
+co_0734,Riverside School Trust,School,London,2026-02-28,trial,Small,65,51-100,direct_sales,Daniel Hughes,2026-02-18T16:45:00,2026-05-11T10:06:00
+co_0735,Queensway Academy South Trust,School,South West,2025-12-13,trial,Small,93,51-100,direct_sales,,2025-12-07T09:32:00,2026-05-15T12:06:00
+co_0736,Harbour School Central North,School,Northern Ireland,2025-10-05,active,Small,61,51-100,inbound,Farah Malik,2025-10-07T10:36:00,2026-05-20T13:11:00
+co_0737,Hadley Academy Central,School,Ireland,2024-03-03,active,Small,42,1-50,self_serve,,2024-03-02T13:03:00,2025-10-17T10:28:00
+co_0738,Fairfield Academy South Trust,School,Northern Ireland,2025-12-01,trial,Small,96,51-100,direct_sales,Amelia Clarke,2025-11-28T11:58:00,2026-01-12T08:09:00
+co_0739,Victoria Learning Group Central,Private Education,Wales,2023-12-30,active,Medium,200,101-500,partner,Imogen Davies,2023-12-23T15:01:00,2025-06-22T11:03:00
+co_0740,Harbour Skills Centre Central,Training Provider,North West,2024-10-27,trial,Small,68,51-100,direct_sales,,2024-10-20T09:57:00,2025-12-11T16:40:00
+co_0741,Reading Knowledge Hub Central,Library,Scotland,2024-03-16,active,Medium,203,101-500,partner,Charlotte Evans,2024-03-10T17:21:00,2025-12-27T12:02:00
+co_0742,Oxford Further Education College South,Further Education,South East,2023-07-25,trial,Medium,220,101-500,self_serve,Hannah Roberts,2023-07-17T15:53:00,2026-03-09T09:31:00
+co_0743,Bristol College,School,East of England,2026-01-29,active,Medium,222,101-500,self_serve,,2026-01-27T16:02:00,2026-05-30T08:52:00
+co_0744,Birmingham Further Education College South Trust,Further Education,Scotland,2025-07-07,trial,Medium,193,101-500,self_serve,Ella Thompson,2025-07-01T18:18:00,2026-06-13T13:38:00
+co_0745,Harbour Learning Trust South,School,East of England,2023-07-21,trial,Medium,133,101-500,partner,Farah Malik,2023-07-11T18:13:00,2025-09-14T14:59:00
+co_0746,Eastgate School Trust Trust South,School,West Midlands,2025-06-02,trial,Medium,168,101-500,direct_sales,Hannah Roberts,2025-06-01T10:30:00,2025-10-29T18:34:00
+co_0747,Maple Education Partnership Central,Other,Yorkshire and the Humber,2023-11-14,trial,Small,28,1-50,inbound,Hannah Roberts,2023-11-07T09:11:00,2026-05-31T13:33:00
+co_0748,Kingfisher Learning Trust South,School,South East,2024-05-23,active,Medium,113,101-500,inbound,Farah Malik,2024-05-17T14:25:00,2025-08-09T11:42:00
+co_0749,Eastgate College Trust South,School,East of England,2025-07-17,active,Medium,107,101-500,partner,Hannah Roberts,2025-07-11T16:01:00,2026-03-18T10:32:00
+co_0750,Birmingham Further Education College South Central,Further Education,London,2024-02-28,active,Large,930,501-1000,direct_sales,Charlotte Evans,2024-02-20T14:52:00,2026-05-16T10:30:00
+co_0751,Hillcrest Grammar School North,School,South East,2023-12-16,active,Medium,208,101-500,direct_sales,Imogen Davies,2023-12-17T11:55:00,2026-04-24T10:05:00
+co_0752,Hastings Institute South,University,West Midlands,2023-07-28,active,Bespoke,1415,1001+,partner,Charlotte Evans,2023-07-21T18:23:00,2025-12-28T09:30:00
+co_0753,Queensway Academy Central,School,North West,2025-06-18,active,Medium,200,101-500,direct_sales,Imogen Davies,2025-06-09T17:39:00,2025-11-26T16:57:00
+co_0754,Camden College Central,School,Northern Ireland,2025-05-23,trial,Medium,188,101-500,partner,,2025-05-23T16:09:00,2025-08-28T15:20:00
+co_0755,Rowan College South,School,Scotland,2024-08-24,active,Small,78,51-100,inbound,George Bennett,2024-08-18T11:25:00,2025-06-08T12:31:00
+co_0756,Harbour College Trust,School,West Midlands,2024-11-03,active,Small,58,51-100,self_serve,Ella Thompson,2024-11-01T14:01:00,2025-07-09T08:58:00
+co_0757,Lancaster Institute,University,North West,2026-04-23,trial,Medium,255,101-500,direct_sales,Jacob Turner,2026-04-25T14:11:00,2026-05-29T15:48:00
+co_0758,Dales Learning Trust North North,School,Northern Ireland,2023-12-18,voluntary_churn,Small,61,51-100,self_serve,,2023-12-12T15:00:00,2025-09-10T18:44:00
+co_0759,Reading Knowledge Hub North North,Library,Yorkshire and the Humber,2025-09-28,trial,Medium,125,101-500,self_serve,Ella Thompson,2025-09-22T08:58:00,2026-01-26T11:23:00
+co_0760,Camden School Trust,School,East Midlands,2026-06-12,active,Small,59,51-100,direct_sales,Ben Whitmore,2026-06-02T08:31:00,2026-06-05T10:03:00
+co_0761,Reading University Trust,University,London,2025-10-20,active,Medium,240,101-500,direct_sales,Amelia Clarke,2025-10-15T08:00:00,2026-06-14T11:58:00
+co_0762,Belfast Community Library,Library,South West,2024-03-07,voluntary_churn,Small,60,51-100,inbound,Ben Whitmore,2024-03-04T16:17:00,2026-05-31T09:10:00
+co_0763,Parkside Skills Centre South,Private Education,Yorkshire and the Humber,2025-05-20,trial,Small,23,1-50,direct_sales,Imogen Davies,2025-05-17T12:57:00,2025-05-26T14:38:00
+co_0764,Manchester Further Education College Trust South,Further Education,West Midlands,2024-05-10,trial,Medium,149,101-500,direct_sales,Hannah Roberts,2024-05-10T17:50:00,2025-09-03T08:44:00
+co_0765,Harbour Learning Group South,Training Provider,North East,2023-09-21,active,Small,74,51-100,direct_sales,Imogen Davies,2023-09-16T17:21:00,2025-05-30T12:19:00
+co_0766,Stamford School,School,,2026-05-11,trial,Medium,137,101-500,direct_sales,George Bennett,2026-05-02T14:57:00,2026-06-01T17:01:00
+co_0767,Rowan College North,School,Northern Ireland,2023-11-22,trial,Medium,131,101-500,direct_sales,Farah Malik,2023-11-19T08:42:00,2026-03-27T11:15:00
+co_0768,Parkside Grammar School North,School,Ireland,2023-07-31,trial,Medium,190,101-500,self_serve,Imogen Davies,2023-08-01T12:37:00,2025-12-15T16:33:00
+co_0769,Lakeside Education Partnership South,Other,North West,2024-07-11,active,Medium,214,101-500,self_serve,,2024-07-11T12:11:00,2025-12-28T18:44:00
+co_0770,Hillcrest Education Partnership,Other,East of England,2024-03-10,trial,Small,50,1-50,public_sector_framework,Jacob Turner,2024-03-05T14:37:00,2025-06-04T09:14:00
+co_0771,Edinburgh Libraries Trust Central,Library,North West,2026-04-13,trial,Large,550,501-1000,inbound,Farah Malik,2026-04-10T14:39:00,2026-04-30T12:04:00
+co_0772,Riverside Learning Group North,Private Education,North East,2026-05-04,paused,Small,87,51-100,partner,Daniel Hughes,2026-04-28T09:06:00,2026-05-20T17:56:00
+co_0773,Oaklands College South,School,East Midlands,2026-03-12,active,Medium,146,101-500,direct_sales,Charlotte Evans,2026-03-02T18:24:00,2026-03-14T15:14:00
+co_0774,Ashford Education Partnership,Other,North West,2023-12-18,trial,Small,45,1-50,inbound,,2023-12-13T08:55:00,2026-01-06T14:11:00
+co_0775,Fairfield Academy South Trust North,School,London,2023-09-13,active,Small,70,51-100,inbound,,2023-09-07T08:48:00,2026-05-01T15:33:00
+co_0776,Cotswold Grammar School Trust,School,Ireland,2025-03-02,active,Medium,102,101-500,partner,Jacob Turner,2025-03-04T13:25:00,2026-05-17T10:42:00
+co_0777,Greater Northshire Library Consortium,Library,West Midlands,2023-09-04,active,Bespoke,8200,1001+,direct_sales,Jacob Turner,2023-08-21T08:56:00,2025-12-01T13:09:00
+co_0778,Queensway Grammar School South North,School,East of England,2025-02-16,active,Medium,113,101-500,direct_sales,Farah Malik,2025-02-11T18:39:00,2025-12-28T17:44:00
+co_0779,York Further Education College South South,Further Education,Yorkshire and the Humber,2024-07-14,active,Small,97,51-100,inbound,Ben Whitmore,2024-07-05T14:30:00,2025-07-06T15:54:00
+co_0780,Tudor Education Partnership,Other,North West,2025-02-23,trial,Small,100,51-100,self_serve,Ben Whitmore,2025-02-25T10:19:00,2025-06-10T12:13:00
+co_0781,Leeds Community Library,Library,East of England,2023-09-21,active,Small,89,51-100,direct_sales,Jacob Turner,2023-09-18T15:23:00,2026-06-16T12:45:00
+co_0782,Harbour Academy South,School,London,2024-12-30,trial,Medium,187,101-500,direct_sales,Amelia Clarke,2024-12-22T11:54:00,2026-04-16T15:31:00
+co_0783,Chiltern Academy South,School,Yorkshire and the Humber,2026-06-16,active,Small,68,51-100,partner,Farah Malik,2026-06-06T10:43:00,2026-06-06T11:25:00
+co_0784,Maple Education Partnership Central North,Other,East Midlands,2025-03-09,trial,Small,67,51-100,partner,Imogen Davies,2025-03-07T08:06:00,2025-10-30T12:52:00
+co_0785,Maple Education Partnership Central Central,Other,Yorkshire and the Humber,2024-05-30,active,Small,40,1-50,self_serve,Charlotte Evans,2024-05-29T08:02:00,2025-07-13T08:52:00
+co_0786,Cedar Grammar School Trust,School,East Midlands,2024-01-18,voluntary_churn,Small,71,51-100,direct_sales,Ella Thompson,2024-01-16T11:04:00,2026-05-06T12:22:00
+co_0787,Rowan Academy North,School,South East,2024-07-20,active,Medium,218,101-500,direct_sales,Farah Malik,2024-07-18T10:15:00,2026-05-12T11:09:00
+co_0788,Cambridge Higher Education Centre,University,Wales,2024-01-24,active,Large,534,501-1000,direct_sales,Daniel Hughes,2024-01-21T10:18:00,2025-11-28T14:05:00
+co_0789,Oxford Further Education College Central,Further Education,North West,2024-04-12,active,Medium,261,101-500,inbound,Farah Malik,2024-04-13T11:50:00,2025-05-30T12:03:00
+co_0790,Chiltern School,School,North West,2026-04-04,active,Medium,125,101-500,direct_sales,Ben Whitmore,2026-04-01T12:39:00,2026-05-09T14:57:00
+co_0791,Rowan Education Services Central Central Central,Private Education,London,2026-04-08,active,Small,46,1-50,partner,George Bennett,2026-03-31T17:38:00,2026-06-25T16:44:00
+co_0792,Meadowbrook Education Services,Training Provider,North West,2025-01-02,active,Medium,107,101-500,self_serve,,2025-01-03T11:56:00,2026-01-22T13:09:00
+co_0793,Meadowbrook Skills Centre South,Training Provider,London,2025-04-07,active,Medium ,119,101-500,partner,George Bennett,2025-03-28T14:32:00,2026-01-18T09:23:00
+co_0794,Fairfield Learning Group North,Training Provider,Scotland,2025-06-17,active,Medium,262,101-500,partner,George Bennett,2025-06-12T08:42:00,2026-04-27T15:44:00
+co_0795,Greenwich Grammar School,School,South West,2025-04-17,active,Medium,156,101-500,direct_sales,George Bennett,2025-04-08T15:04:00,2026-02-19T08:20:00
+co_0796,Camden Learning Group Trust South,Private Education,Northern Ireland,2025-10-12,active,Small,64,51-100,inbound,Jacob Turner,2025-10-14T15:41:00,2026-02-11T09:59:00
+co_0797,Cardiff Higher Education Centre Trust,University,Wales,2024-06-29,voluntary_churn,Medium,281,101-500,public_sector_framework,Jacob Turner,2024-06-29T09:07:00,2026-04-16T18:35:00
+co_0798,Maple College South,School,South West,2025-04-10,trial,Small,63,51-100,self_serve,Farah Malik,2025-04-11T13:21:00,2025-06-08T09:47:00
+co_0799,York Library Service Trust,Library,North West,2024-08-17,active,Small,91,51-100,direct_sales,Amelia Clarke,2024-08-10T13:53:00,2026-01-10T16:10:00
+co_0800,Oaklands Grammar School Central,School,South West,2025-09-30,active,Small,43,1-50,direct_sales,Amelia Clarke,2025-09-24T15:42:00,2026-06-24T18:23:00
+co_0801,Oxford Further Education College South South,Further Education,South West,2023-08-22,active,Medium,193,101-500,public_sector_framework,Jacob Turner,2023-08-22T17:03:00,2025-12-26T18:42:00
+co_0802,Ashford College North,School,South East,2024-04-20,voluntary_churn,Small,71,51-100,direct_sales,Amelia Clarke,2024-04-21T17:07:00,2025-09-22T12:40:00
+co_0803,Cotswold Education Services South,Training Provider,North West,2023-08-03,active,Medium,136,101-500,direct_sales,Imogen Davies,2023-08-03T13:56:00,2025-08-05T17:46:00
+co_0804,Camden Education Partnership Trust,Other,North West,2024-02-07,active,Small,22,1-50,inbound,Ben Whitmore,2024-02-02T14:12:00,2025-08-09T13:45:00
+co_0805,Norwich Further Education College South Trust,Further Education,North East,2025-08-29,active,Large,718,501-1000,direct_sales,Ella Thompson,2025-08-19T18:09:00,2026-05-14T12:57:00
+co_0806,Meadowbrook Grammar School Trust South,School,Scotland,2024-04-16,trial,Medium,181,101-500,partner,Ella Thompson,2024-04-13T15:16:00,2026-01-07T17:44:00
+co_0807,Maple College North,School,West Midlands,2025-06-16,active,Small,21,1-50,inbound,Imogen Davies,2025-06-13T08:59:00,2025-09-19T18:53:00
+co_0808,Beechwood Learning Trust North,School,West Midlands,2024-09-14,active,Small,60,51-100,partner,Ben Whitmore,2024-09-12T18:54:00,2025-10-14T08:42:00
+co_0809,Belfast Further Education College North,Further Education,Scotland,2024-07-07,trial,Medium,169,101-500,self_serve,,2024-07-04T09:17:00,2026-05-07T10:09:00
+co_0810,Dales College South,School,South West,2024-02-22,trial,Medium,211,101-500,self_serve,Ben Whitmore,2024-02-18T12:27:00,2026-06-19T14:20:00
+co_0811,Hastings Community Library,Library,London,2025-01-12,active,Medium,119,101-500,self_serve,Amelia Clarke,2025-01-06T14:56:00,2025-10-30T10:21:00
+co_0812,Meadowbrook School South,School,London,2025-06-07,trial,Medium,134,101-500,self_serve,,2025-05-30T16:47:00,2025-06-12T11:22:00
+co_0813,Kingfisher Learning Group South,Private Education,London,2024-03-10,active,Medium,218,101-500,partner,George Bennett,2024-03-05T17:44:00,2026-02-28T11:29:00
+co_0814,Hillcrest Training South,Training Provider,Scotland,2024-01-28,active,Medium,261,101-500,public_sector_framework,Farah Malik,2024-01-24T13:28:00,2026-02-13T12:19:00
+co_0815,Riverside Learning Group Central,Private Education,South East,2024-06-16,trial,Small,46,1-50,inbound,,2024-06-10T17:42:00,2026-06-25T15:53:00
+co_0816,Westfield Education Services Trust North,Private Education,South West,2025-07-05,active,SMALL,18,1-50,partner,George Bennett,2025-06-26T16:33:00,2025-10-05T11:39:00
+co_0817,Oxford Further Education College Trust South,Further Education,North East,2024-09-07,active,Medium,183,101-500,inbound,Jacob Turner,2024-09-03T13:44:00,2026-05-04T08:52:00
+co_0818,Oaklands Training,Private Education,East Midlands,2024-09-30,trial,Small,51,51-100,direct_sales,Imogen Davies,2024-09-30T15:04:00,2026-06-03T13:07:00
+co_0819,York University Central,University,South East,2026-03-14,active,Medium,157,101-500,direct_sales,Amelia Clarke,2026-03-04T13:03:00,2026-04-12T13:00:00
+co_0820,Harbour Skills Centre Trust,Private Education,West Midlands,2025-05-19,active,Medium,104,101-500,partner,Jacob Turner,2025-05-09T17:33:00,2025-11-24T11:26:00
+co_0821,Bristol School Trust Trust,School,London,2025-11-20,active,Small,66,51-100,direct_sales,,2025-11-16T13:10:00,2026-02-22T15:49:00
+co_0822,Tudor Learning Trust North Trust,School,East of England,2025-01-07,active,Bespoke,1675,1001+,public_sector_framework,Daniel Hughes,2025-01-03T15:31:00,2026-06-22T13:36:00
+co_0823,Oaklands Learning Trust,School,North East,2026-02-02,active,Small,70,51-100,inbound,Farah Malik,2026-01-29T11:18:00,2026-04-30T10:18:00
+co_0824,Bridgewater Academy Central,School,South West,2024-09-09,active,Medium,127,101-500,self_serve,George Bennett,2024-09-03T18:21:00,2025-11-05T11:11:00
+co_0825,Camden Skills Centre,Private Education,London,2023-12-26,voluntary_churn,Small,52,51-100,direct_sales,Ella Thompson,2023-12-19T13:12:00,2025-06-09T08:54:00
+co_0826,Abbey Education Partnership South,Other,Scotland,2024-11-19,past_due,Medium,245,101-500,direct_sales,Amelia Clarke,2024-11-21T13:23:00,2026-06-04T17:34:00
+co_0827,Maple College North Trust,School,South West,2025-12-08,active,Small,44,1-50,direct_sales,Jacob Turner,2025-11-30T16:35:00,2025-12-12T17:56:00
+co_0828,Harbour School Trust Central,School,London,2023-07-13,trial,Small,97,51-100,self_serve,Hannah Roberts,2023-07-12T17:20:00,2026-02-25T11:57:00
+co_0829,Oaklands Grammar School South,School,West Midlands,2025-05-13,trial,Small,38,1-50,partner,Jacob Turner,2025-05-14T14:16:00,2026-05-02T14:42:00
+co_0830,Maple College North Trust Central,School,East Midlands,2025-02-08,active,Medium,207,101-500,inbound,Hannah Roberts,2025-02-01T08:57:00,2026-03-16T08:16:00
+co_0831,Birmingham Further Education College Trust,Further Education,North West,2023-12-30,trial,Medium,480,101-500,partner,Ben Whitmore,2023-12-31T13:54:00,2025-09-01T13:18:00
+co_0832,Beechwood Learning Trust South,School,East of England,2025-10-19,trial,Medium,280,101-500,self_serve,Imogen Davies,2025-10-11T10:02:00,2026-05-15T12:16:00
+co_0833,Cotswold College South,School,South East,2024-08-04,voluntary_churn,Medium,123,101-500,partner,Daniel Hughes,2024-07-28T18:31:00,2026-01-02T13:15:00
+co_0834,Hillcrest School North North,School,,2023-09-18,active,Small,53,51-100,inbound,Imogen Davies,2023-09-15T11:43:00,2026-03-12T13:32:00
+co_0835,Kingfisher College,School,South West,2024-03-25,delinquent_churn,Medium,211,101-500,direct_sales,,2024-03-17T18:47:00,2026-06-21T16:48:00
+co_0836,Northbridge Academy Central,School,North West,2024-08-24,active,Small,83,51-100,direct_sales,Ella Thompson,2024-08-18T15:23:00,2026-04-28T15:18:00
+co_0837,Swansea Further Education College Central,Further Education,London,2023-09-26,active,Small,62,51-100,inbound,Amelia Clarke,2023-09-16T17:00:00,2026-01-08T12:19:00
+co_0838,Hillcrest School Central Central,School,North West,2023-09-25,trial,Small,60,51-100,self_serve,Jacob Turner,2023-09-16T14:56:00,2026-02-16T16:52:00
+co_0839,Beechwood School,School,South East,2024-12-24,trial,Small,73,51-100,direct_sales,Imogen Davies,2024-12-25T16:56:00,2026-03-14T14:18:00
+co_0840,Lakeside Grammar School Trust North,School,North East,2025-01-26,active,Small,48,1-50,self_serve,,2025-01-22T12:08:00,2026-06-12T09:30:00
+co_0841,Rowan School Central,School,Yorkshire and the Humber,2024-08-15,trial,Small,90,51-100,self_serve,,2024-08-13T14:42:00,2025-07-05T17:00:00
+co_0842,Edinburgh University Trust South,University,Yorkshire and the Humber,2025-11-10,active,Medium,281,101-500,direct_sales,Farah Malik,2025-11-11T15:20:00,2025-12-25T17:01:00
+co_0843,Ashford Learning Group Central,Private Education,London,2024-05-02,active,Small,91,51-100,direct_sales,,2024-05-01T17:30:00,2026-02-06T18:42:00
+co_0844,Harbour Learning Trust South Central,School,East of England,2023-10-05,active,Small,52,51-100,direct_sales,Imogen Davies,2023-10-03T15:01:00,2025-12-10T16:29:00
+co_0845,Hadley School South Central,School,South East,2025-12-12,active,Small,74,51-100,self_serve,Ella Thompson,2025-12-10T13:37:00,2026-06-26T13:57:00
+co_0846,Riverside Learning Trust South,School,South East,2024-04-23,active,Small,100,51-100,partner,Charlotte Evans,2024-04-23T11:35:00,2025-06-19T10:21:00
+co_0847,Birmingham Further Education College South South,Further Education,Scotland,2024-12-29,trial,Medium,335,101-500,direct_sales,Ben Whitmore,2024-12-28T17:44:00,2026-06-01T14:30:00
+co_0848,Norwich Further Education College North,Further Education,Yorkshire and the Humber,2024-01-03,trial,Medium,306,101-500,self_serve,,2024-01-05T09:45:00,2025-07-16T08:50:00
+co_0849,Tudor Academy,School,Yorkshire and the Humber,2025-08-23,trial,Medium,175,101-500,inbound,George Bennett,2025-08-18T13:35:00,2026-05-27T16:46:00
+co_0850,Tudor Education Services North,Training Provider,North West,2026-05-02,past_due,Small,33,1-50,direct_sales,,2026-05-01T11:18:00,2026-05-23T15:23:00
+co_0851,Westfield Grammar School,School,London,2025-03-12,trial,Small,64,51-100,partner,Hannah Roberts,2025-03-10T18:57:00,2026-04-16T13:44:00
+co_0852,Cotswold Academy South Trust,School,London,2025-11-01,trial,Small,71,51-100,public_sector_framework,Amelia Clarke,2025-10-28T17:21:00,2026-06-07T12:48:00
+co_0853,Eastgate Skills Centre,Training Provider,South East,2023-10-19,trial,Small,61,51-100,inbound,Daniel Hughes,2023-10-20T12:38:00,2025-12-18T17:23:00
+co_0854,Harbour Learning Group South Central,Private Education,East Midlands,2023-12-05,trial,Small,59,51-100,public_sector_framework,Charlotte Evans,2023-11-26T16:39:00,2026-03-06T12:56:00
+co_0855,Queensway School Trust,School,East Midlands,2026-06-09,active,Medium,129,101-500,direct_sales,George Bennett,2026-06-08T18:54:00,2026-06-15T10:37:00
+co_0856,Summit Training Trust,Private Education,London,2024-03-31,active,Small,80,51-100,inbound,Ben Whitmore,2024-04-02T11:18:00,2026-02-07T16:40:00
+co_0857,Cardiff Institute,University,Ireland,2024-03-15,past_due,Medium,193,101-500,self_serve,,2024-03-16T08:12:00,2025-10-31T09:17:00
+co_0858,Hastings Higher Education Centre Trust,University,Yorkshire and the Humber,2024-11-23,paused,Medium,190,101-500,inbound,Hannah Roberts,2024-11-19T18:57:00,2026-05-15T13:18:00
+co_0859,Elmfield Skills Centre,Training Provider,North East,2024-07-15,active,Medium,212,101-500,inbound,,2024-07-07T12:51:00,2025-06-26T11:49:00
+co_0860,Fairfield College South,School,East of England,2024-11-23,trial,Small,70,51-100,inbound,Jacob Turner,2024-11-25T17:10:00,2025-09-27T10:13:00
+co_0861,Cardiff Further Education College South Trust,Further Education,North West,2025-04-18,trial,Medium,355,101-500,direct_sales,Jacob Turner,2025-04-20T09:22:00,2025-10-20T16:34:00
+co_0862,Bridgewater Academy Central Trust,School,South East,2025-08-09,active,Medium,174,101-500,partner,Farah Malik,2025-08-01T12:56:00,2025-08-19T16:05:00
+co_0863,Tudor Academy Central,School,Scotland,2025-03-04,trial,Medium,163,101-500,partner,,2025-03-04T14:40:00,2026-01-05T16:21:00
+co_0864,York Institute,University,London,2024-10-27,trial,bespoke,1106,1001+,inbound,Farah Malik,2024-10-19T17:35:00,2025-07-08T09:04:00
+co_0865,Cotswold Grammar School Trust North,School,London,2023-10-12,trial,Medium,252,101-500,self_serve,Ben Whitmore,2023-10-11T11:50:00,2025-12-20T13:51:00
+co_0866,Kingfisher Education Services Central,Training Provider,West Midlands,2025-04-26,active,Small,47,1-50,direct_sales,Ben Whitmore,2025-04-17T17:52:00,2026-04-11T18:02:00
+co_0867,Reading Institute,University,South East,2024-01-22,active,Medium,410,101-500,direct_sales,Daniel Hughes,2024-01-17T14:22:00,2025-11-26T14:12:00
+co_0868,Summit College,School,South East,2023-08-15,active,Medium,204,101-500,partner,Farah Malik,2023-08-08T13:16:00,2026-06-09T08:37:00
+co_0869,Ashford Grammar School South,School,South East,2025-10-21,trial,Medium,110,101-500,self_serve,Charlotte Evans,2025-10-11T18:50:00,2025-10-30T18:21:00
+co_0870,Cotswold Grammar School North,School,Ireland,2023-10-17,active,SMALL,87,51-100,direct_sales,Ella Thompson,2023-10-15T13:42:00,2025-07-07T14:58:00
+co_0871,Bristol Learning Group South,Private Education,London,2025-02-01,trial,Small,43,1-50,public_sector_framework,Amelia Clarke,2025-02-02T08:09:00,2025-08-31T13:10:00
+co_0872,Camden Skills Centre Central,Private Education,London,2025-12-04,active,Medium,324,101-500,self_serve,George Bennett,2025-12-03T08:20:00,2025-12-22T15:48:00
+co_0873,Chiltern College,School,London,2024-11-29,active,Medium,111,101-500,inbound,Imogen Davies,2024-11-25T17:10:00,2025-10-27T16:24:00
+co_0874,Lakeside Skills Centre Central Central,Private Education,,2024-06-27,voluntary_churn,Small,37,1-50,direct_sales,George Bennett,2024-06-25T09:11:00,2026-04-06T12:18:00
+co_0875,Fairfield Education Services South,Private education,West Midlands,2024-05-02,trial,Medium,175,101-500,inbound,Ben Whitmore,2024-04-22T14:42:00,2025-12-27T10:37:00
+co_0876,Stamford Learning Trust Central,School,East Midlands,2025-09-13,trial,Small,71,51-100,partner,Imogen Davies,2025-09-10T13:56:00,2026-01-29T13:59:00
+co_0877,Hadley Skills Centre Trust,Private Education,Northern Ireland,2025-10-31,active,Medium,105,101-500,partner,Hannah Roberts,2025-10-27T18:08:00,2026-06-02T09:50:00
+co_0878,Oaklands Education Partnership Central,Other,South West,2023-09-09,active,Small,41,1-50,public_sector_framework,,2023-08-31T10:55:00,2026-05-27T18:02:00
+co_0879,Edinburgh University North,University,South West,2026-03-07,active,Large,739,501-1000,direct_sales,Farah Malik,2026-03-05T08:53:00,2026-03-05T12:59:00
+co_0880,Rowan Education Services South,Private Education,South West,2024-08-15,active,Small,82,51-100,direct_sales,Jacob Turner,2024-08-13T09:14:00,2026-06-16T15:29:00
+co_0881,Ashford Learning Trust Trust,School,Northern Ireland,2025-05-12,trial,Medium,103,101-500,inbound,Hannah Roberts,2025-05-05T08:31:00,2026-05-18T14:49:00
+co_0882,Bristol School South,School,Scotland,2026-04-16,active,Medium,109,101-500,self_serve,Daniel Hughes,2026-04-07T17:46:00,2026-06-23T14:34:00
+co_0883,Stamford School Trust,School,Yorkshire and the Humber,2024-11-15,trial,Medium,125,101-500,inbound,Imogen Davies,2024-11-15T11:57:00,2025-06-02T09:27:00
+co_0884,Riverside Academy South Trust,School,East Midlands,2023-08-21,trial,Small,60,51-100,inbound,Jacob Turner,2023-08-18T09:56:00,2026-06-14T17:29:00
+co_0885,Chiltern School South,School,London,2023-11-07,active,Medium,258,101-500,direct_sales,Amelia Clarke,2023-11-01T08:36:00,2025-12-24T18:51:00
+co_0886,Birmingham Community Library,Library,Scotland,2024-10-14,active,Small,34,1-50,direct_sales,Hannah Roberts,2024-10-06T17:32:00,2025-08-24T08:53:00
+co_0887,Summit School North,School,East of England,2023-07-24,trial,Small,79,51-100,self_serve,Daniel Hughes,2023-07-25T10:51:00,2026-04-09T14:07:00
+co_0888,Edinburgh Libraries Central,Library,Wales,2025-01-10,trial,Medium,390,101-500,self_serve,Daniel Hughes,2025-01-10T12:57:00,2026-06-28T16:51:00
+co_0889,Rowan College Central Central,School,South West,2023-09-04,trial,Medium,131,101-500,self_serve,Charlotte Evans,2023-09-06T13:45:00,2025-08-06T09:46:00
+co_0890,Ashford Education Partnership Trust,Other,South West,2024-08-13,active,Small,68,51-100,self_serve,Charlotte Evans,2024-08-10T15:11:00,2025-06-24T14:36:00
+co_0891,Cedar Learning Group South,Private Education,West Midlands,2025-12-04,trial,Medium,119,101-500,partner,Ben Whitmore,2025-11-30T08:50:00,2026-05-17T09:36:00
+co_0892,York Further Education College North South,Further Education,West Midlands,2025-12-27,trial,Medium,230,101-500,partner,George Bennett,2025-12-18T10:32:00,2026-01-02T13:10:00
+co_0893,Tudor Grammar School,School,West Midlands,2023-07-21,active,Medium,122,101-500,inbound,Farah Malik,2023-07-12T14:51:00,2025-10-24T08:58:00
+co_0894,Manchester Institute Trust,University,South East,2026-05-08,trial,Medium,258,101-500,self_serve,George Bennett,2026-04-30T11:29:00,2026-05-05T12:51:00
+co_0895,York Higher Education Centre North,University,North West,2026-03-25,active,Large,710,501-1000,inbound,Ben Whitmore,2026-03-24T16:06:00,2026-06-11T18:13:00
+co_0896,Lancaster Libraries North,Library,London,2025-06-19,trial,Medium,196,101-500,inbound,Farah Malik,2025-06-10T17:45:00,2025-10-31T09:13:00
+co_0897,Riverside Education Partnership,Other,East of England,2026-03-16,active,Medium,184,101-500,inbound,,2026-03-10T17:50:00,2026-03-10T13:43:00
+co_0898,Westfield Learning Group Trust,Training Provider,South East,2024-09-17,active,Medium,106,101-500,self_serve,Daniel Hughes,2024-09-17T13:20:00,2025-11-11T09:22:00
+co_0899,Ashford Learning Trust North,School,Wales,2025-03-03,trial,Medium,137,101-500,public_sector_framework,Ella Thompson,2025-02-24T17:22:00,2025-10-29T10:58:00
+co_0900,Bristol College Trust,School,London,2023-12-31,paused,Small,88,51-100,direct_sales,Imogen Davies,2023-12-30T16:10:00,2026-02-19T15:11:00
+co_0901,Summit Grammar School South,School,North East,2024-07-19,trial,Medium,253,101-500,direct_sales,Imogen Davies,2024-07-09T08:29:00,2026-02-15T09:49:00
+co_0902,Bristol Training North,Training Provider,South West,2024-10-20,delinquent_churn,Small,72,51-100,partner,Hannah Roberts,2024-10-14T16:58:00,2026-05-20T11:04:00
+co_0903,Belfast Higher Education Centre Trust,University,London,2026-01-15,active,Medium,325,101-500,direct_sales,Hannah Roberts,2026-01-08T10:13:00,2026-05-08T14:57:00
+co_0904,Birmingham Further Education College Central Trust,Further Education,London,2023-08-14,active,Medium,101,101-500,public_sector_framework,Ben Whitmore,2023-08-04T13:23:00,2026-03-25T16:23:00
+co_0905,Cardiff Libraries North,Library,North West,2024-01-09,voluntary_churn,Medium,169,101-500,inbound,Hannah Roberts,2024-01-07T09:19:00,2025-12-08T10:26:00
+co_0906,Abbey Academy North South,School,Yorkshire and the Humber,2024-01-13,trial,Small,33,1-50,direct_sales,Imogen Davies,2024-01-05T12:07:00,2025-09-21T13:46:00
+co_0907,Hadley Skills Centre Central,Private Education,East Midlands,2024-02-05,active,Small,34,1-50,direct_sales,Hannah Roberts,2024-01-28T10:32:00,2025-10-06T17:12:00
+co_0908,Fairfield Learning Group North Trust,Private Education,North West,2026-04-16,active,Small,25,1-50,self_serve,,2026-04-09T15:12:00,2026-05-29T11:02:00
+co_0909,Fairfield Learning Group South,Private Education,West Midlands,2025-07-15,trial,Medium,489,101-500,partner,,2025-07-09T11:07:00,2026-04-23T08:12:00
+co_0910,Rowan School Central Central,School,London,2025-12-25,trial,Medium,155,101-500,self_serve,,2025-12-22T17:42:00,2026-06-11T16:18:00
+co_0911,Cedar School South,School,Scotland,2026-03-04,active,Medium,106,101-500,partner,Farah Malik,2026-02-27T12:11:00,2026-04-04T11:55:00
+co_0912,Lakeside College,School,Northern Ireland,2025-07-22,active,Medium,113,101-500,self_serve,Imogen Davies,2025-07-21T18:07:00,2026-04-12T08:59:00
+co_0913,Stamford Learning Trust South,School,North East,2023-07-30,active,Small,27,1-50,self_serve,,2023-08-01T08:37:00,2026-06-01T12:17:00
+co_0914,Greenwich Academy,School,South West,2025-09-30,voluntary_churn,Medium,182,101-500,self_serve,Daniel Hughes,2025-09-21T09:18:00,2026-01-13T16:12:00
+co_0915,Lakeside Grammar School South Trust,School,West Midlands,2025-07-24,active,Small,31,1-50,self_serve,Amelia Clarke,2025-07-14T14:04:00,2025-10-16T15:28:00
+co_0916,Victoria College North,School,London,2024-09-21,active,Small,77,51-100,direct_sales,Charlotte Evans,2024-09-19T14:06:00,2025-11-23T16:48:00
+co_0917,Victoria Training,Private Education,East of England,2025-11-15,active,Small,54,51-100,direct_sales,Ben Whitmore,2025-11-08T16:23:00,2025-12-02T08:46:00
+co_0918,Leeds Knowledge Hub North,Library,East of England,2025-07-10,trial,Small,77,51-100,partner,George Bennett,2025-07-11T08:03:00,2025-07-28T17:45:00
+co_0919,Westfield Education Partnership,Other,South West,2024-08-21,active,Medium,211,101-500,direct_sales,Amelia Clarke,2024-08-12T11:26:00,2025-07-09T12:15:00
+co_0920,Reading Higher Education Centre South,University,Scotland,2024-07-14,trial,Medium,229,101-500,direct_sales,George Bennett,2024-07-10T12:49:00,2025-08-04T08:19:00
+co_0921,Tudor Education Partnership Trust,Other,South East,2023-12-13,active,Small,25,1-50,partner,,2023-12-05T09:34:00,2025-06-20T11:11:00
+co_0922,Parkside Academy North North,School,Northern Ireland,2025-12-20,trial,Medium,154,101-500,direct_sales,Jacob Turner,2025-12-22T14:06:00,2026-01-18T12:02:00
+co_0923,Exeter Knowledge Hub Central,Library,West Midlands,2025-11-21,trial,Medium,220,101-500,direct_sales,Ben Whitmore,2025-11-19T11:37:00,2025-11-28T08:17:00
+co_0924,Belfast Further Education College Central,Further Education,London,2024-06-15,trial,Medium,103,101-500,self_serve,Jacob Turner,2024-06-12T10:07:00,2026-05-26T12:37:00
+co_0925,Northbridge School North Central,School,Wales,2024-07-17,trial,Medium,103,101-500,partner,Charlotte Evans,2024-07-11T13:20:00,2026-04-22T15:32:00
+co_0926,Exeter Libraries North,Library,East of England,2025-09-10,active,Medium,227,101-500,direct_sales,Amelia Clarke,2025-09-11T18:28:00,2025-12-22T11:13:00
+co_0927,Hillcrest Grammar School Trust,School,Scotland,2025-11-07,active,Small,95,51-100,self_serve,Daniel Hughes,2025-10-28T08:54:00,2025-11-20T13:19:00
+co_0928,Summit Skills Centre South,Training Provider,Yorkshire and the Humber,2026-05-13,trial,Medium,122,101-500,inbound,Ben Whitmore,2026-05-07T18:04:00,2026-06-15T17:00:00
+co_0929,Dundee Further Education College North Trust,Further Education,South East,2024-11-16,active,Medium,175,101-500,direct_sales,Daniel Hughes,2024-11-11T13:58:00,2025-07-03T10:37:00
+co_0930,Lakeside College Trust,School,Northern Ireland,2025-04-21,trial,Medium,104,101-500,self_serve,Farah Malik,2025-04-12T08:53:00,2025-08-05T12:13:00
+co_0931,Greenwich Skills Centre,Private Education,Scotland,2025-10-28,active,Small,32,1-50,direct_sales,Charlotte Evans,2025-10-24T08:53:00,2026-01-11T11:11:00
+co_0932,Swansea Higher Education Centre,University,South West,2024-12-18,trial,Large,760,501-1000,public_sector_framework,George Bennett,2024-12-13T11:44:00,2025-12-07T16:18:00
+co_0933,Bristol Skills Centre Central,Training Provider,South East,2024-08-29,trial,Medium,136,101-500,partner,Farah Malik,2024-08-27T15:49:00,2026-01-17T10:15:00
+co_0934,Cambridge Libraries Trust,Library,North West,2024-04-14,trial,Medium,117,101-500,partner,Ben Whitmore,2024-04-12T15:03:00,2025-09-27T08:23:00
+co_0935,Summit Learning Trust South,School,South West,2025-05-02,active,MEDIUM,138,101-500,inbound,,2025-05-04T17:48:00,2026-03-02T16:48:00
+co_0936,Norwich Libraries,Library,North West,2024-08-24,active,Medium,310,101-500,partner,Ben Whitmore,2024-08-17T09:34:00,2025-11-06T12:12:00
+co_0937,Elmfield College South,School,North East,2025-10-24,trial,Small,56,51-100,partner,Hannah Roberts,2025-10-15T10:10:00,2026-02-14T13:11:00
+co_0938,Victoria Education Services Central,Private Education,South West,2025-09-19,active,Medium,140,101-500,self_serve,,2025-09-10T18:51:00,2026-03-25T17:33:00
+co_0939,Abbey Training North,Private Education,South East,2024-10-25,active,Small,38,1-50,partner,Imogen Davies,2024-10-20T10:43:00,2026-06-29T14:15:00
+co_0940,Lancaster Libraries South,Library,South West,2026-02-13,active,Medium,232,101-500,direct_sales,Jacob Turner,2026-02-11T18:56:00,2026-05-16T18:34:00
+co_0941,Eastgate Learning Group Trust,Private Education,East Midlands,2026-03-08,active,Small,83,51-100,inbound,Daniel Hughes,2026-02-26T15:19:00,2026-04-22T08:46:00
+co_0942,Hadley Learning Group,Training Provider,South East,2025-06-05,active,Medium,110,101-500,self_serve,,2025-06-03T11:28:00,2026-01-15T09:45:00
+co_0943,Stamford Learning Trust South South,School,South West,2025-01-07,trial,Small,94,51-100,inbound,Farah Malik,2025-01-06T08:28:00,2025-12-18T10:02:00
+co_0944,Cardiff Higher Education Centre South South,University,South East,2024-07-24,trial,Small,61,51-100,self_serve,George Bennett,2024-07-20T09:42:00,2025-06-22T08:03:00
+co_0945,Lakeside Learning Group South,Training Provider,,2025-10-10,active,Medium,131,101-500,inbound,Daniel Hughes,2025-10-12T10:32:00,2025-12-18T10:05:00
+co_0946,Elmfield Academy Trust,School,South East,2025-09-28,active,Medium,236,101-500,self_serve,George Bennett,2025-09-23T17:08:00,2026-04-06T17:37:00
+co_0947,Eastgate Academy Central,School,Northern Ireland,2023-07-20,active,Small,32,1-50,partner,Daniel Hughes,2023-07-21T13:20:00,2025-12-11T14:58:00
+co_0948,Beechwood Academy,School,South East,2023-10-31,trial,Medium,134,101-500,direct_sales,George Bennett,2023-10-25T11:22:00,2026-04-28T09:52:00
+co_0949,Cedar Education Services Trust,Training Provider,Scotland,2023-11-17,active,Medium,123,101-500,direct_sales,Hannah Roberts,2023-11-14T12:55:00,2025-05-27T10:51:00
+co_0950,Edinburgh Further Education College South,Further Education,East of England,2023-10-26,active,Medium,179,101-500,direct_sales,Ella Thompson,2023-10-21T12:36:00,2025-10-22T17:32:00
+co_0951,Dundee Further Education College South,Further Education,North West,2024-08-22,active,Medium,498,101-500,public_sector_framework,Jacob Turner,2024-08-24T08:31:00,2026-01-07T08:07:00
+co_0952,Riverside Academy North,School,South West,2025-01-08,active,Medium,131,101-500,self_serve,Ben Whitmore,2024-12-30T12:32:00,2025-10-19T15:08:00
+co_0953,Cedar School Central,School,North East,2023-07-14,trial,Small,51,51-100,self_serve,Amelia Clarke,2023-07-05T14:25:00,2025-07-22T11:08:00
+co_0954,Stamford Education Services,Private Education,East of England,2024-11-27,trial,SMALL,26,1-50,inbound,Jacob Turner,2024-11-25T17:28:00,2025-09-27T16:44:00
+co_0955,Queensway Education Partnership Central,Other,North West,2026-03-18,active,Small,65,51-100,public_sector_framework,,2026-03-15T14:02:00,2026-05-21T16:42:00
+co_0956,Westfield Grammar School Trust,School,North West,2026-03-17,trial,Medium,132,101-500,self_serve,Ben Whitmore,2026-03-13T14:16:00,2026-05-20T12:54:00
+co_0957,Parkside Training,Private Education,North West,2023-07-15,active,Medium,130,101-500,direct_sales,George Bennett,2023-07-09T15:14:00,2025-10-19T13:15:00
+co_0958,Elmfield Learning Trust South North,School,London,2026-06-14,trial,Small,64,51-100,inbound,Ben Whitmore,2026-06-08T18:02:00,2026-06-29T09:13:00
+co_0959,Elmfield Academy Trust South,School,South East,2024-10-26,active,Medium,104,101-500,direct_sales,Daniel Hughes,2024-10-16T08:15:00,2025-11-08T09:29:00
+co_0960,Cedar Academy Trust,School,Yorkshire and the Humber,2025-10-20,trial,Small,21,1-50,direct_sales,Amelia Clarke,2025-10-21T15:46:00,2025-12-19T08:09:00
+co_0961,Cardiff University Central,University,Scotland,2025-08-06,trial,Small,96,51-100,direct_sales,Daniel Hughes,2025-08-06T12:35:00,2026-05-14T16:18:00
+co_0962,Beechwood Training North Central,Private Education,London,2025-11-24,active,Small,53,51-100,direct_sales,Ben Whitmore,2025-11-24T18:24:00,2026-05-26T09:43:00
+co_0963,Riverside Learning Group North South,Private Education,South East,2026-05-25,active,Medium,155,101-500,inbound,Ella Thompson,2026-05-24T10:48:00,2026-06-10T14:17:00
+co_0964,Bristol Skills Centre North Central,Private Education,London,2026-01-17,active,Medium,134,101-500,self_serve,,2026-01-11T11:25:00,2026-05-30T17:14:00
+co_0965,Bridgewater Education Services South,Private Education,Yorkshire and the Humber,2026-05-15,trial,Small,32,1-50,direct_sales,Daniel Hughes,2026-05-09T08:31:00,2026-06-05T10:00:00
+co_0966,Parkside Academy Central,School,West Midlands,2026-01-13,trial,Medium,116,101-500,partner,Imogen Davies,2026-01-15T08:01:00,2026-04-27T10:54:00
+co_0967,Meadowbrook Training Trust,Private Education,South East,2023-07-24,active,Small,87,51-100,partner,Jacob Turner,2023-07-14T18:00:00,2025-11-13T10:43:00
+co_0968,Dundee Further Education College Central,Further Education,South West,2026-03-07,active,Medium ,409,101-500,partner,Ella Thompson,2026-03-05T18:16:00,2026-04-18T15:16:00
+co_0969,Parkside Education Partnership Trust,Other,London,2024-11-20,active,Small,70,51-100,direct_sales,Farah Malik,2024-11-14T15:39:00,2026-01-01T08:58:00
+co_0970,Rowan Education Partnership Trust,Other,East of England,2025-11-10,active,Small,44,1-50,direct_sales,Amelia Clarke,2025-11-10T10:02:00,2025-11-15T12:12:00
+co_0971,Edinburgh Institute,University,Wales,2025-06-03,active,Large,858,501-1000,direct_sales,Imogen Davies,2025-05-28T17:47:00,2026-03-22T10:35:00
+co_0972,Birmingham Libraries North,Library,Wales,2025-03-03,active,Small,41,1-50,direct_sales,Farah Malik,2025-02-26T11:23:00,2025-10-17T14:20:00
+co_0973,Fairfield School Central,School,London,2023-07-14,active,Small,77,51-100,inbound,Farah Malik,2023-07-08T13:23:00,2026-02-06T15:44:00
+co_0974,Exeter Further Education College Trust Trust,Further Education,North West,2025-03-22,active,Medium,206,101-500,direct_sales,Charlotte Evans,2025-03-24T17:00:00,2025-07-29T09:52:00
+co_0975,Rowan Training Central South,Private Education,South East,2026-06-18,active,Small,23,1-50,partner,Hannah Roberts,2026-06-09T10:17:00,2026-06-13T12:26:00
+co_0976,Parkside Academy South,School,North West,2024-07-05,active,Small,78,51-100,self_serve,Amelia Clarke,2024-06-28T09:26:00,2025-07-19T09:27:00
+co_0977,Oaklands Learning Trust South,School,Scotland,2026-02-02,active,Medium,102,101-500,inbound,Daniel Hughes,2026-02-02T17:53:00,2026-02-02T17:14:00
+co_0978,Maple Skills Centre South,Private Education,North East,2024-03-02,active,Medium,162,101-500,self_serve,George Bennett,2024-02-22T08:44:00,2025-06-28T15:53:00
+co_0979,Ashford Education Partnership Central,Other,Yorkshire and the Humber,2025-12-31,active,Small,63,51-100,partner,Ben Whitmore,2025-12-25T14:54:00,2026-02-10T12:17:00
+co_0980,Cedar Academy North,School,South West,2025-01-17,active,Small,96,51-100,self_serve,Imogen Davies,2025-01-07T10:17:00,2025-11-18T13:06:00
+co_0981,Harbour Learning Trust South Trust,School,South West,2025-04-09,trial,Medium,400,101-500,self_serve,Daniel Hughes,2025-04-07T12:47:00,2026-02-12T11:22:00
+co_0982,Eastgate Academy North,School,North East,2025-03-06,active,Small,99,51-100,partner,Hannah Roberts,2025-03-05T16:22:00,2025-06-08T18:13:00
+co_0983,Queensway Grammar School North,School,North East,2025-11-04,active,Small,83,51-100,inbound,Imogen Davies,2025-11-03T11:07:00,2025-12-18T12:02:00
+co_0984,Cotswold Training South,Private Education,East of England,2024-09-21,active,Small,35,1-50,self_serve,Amelia Clarke,2024-09-21T16:58:00,2025-09-12T17:51:00
+co_0985,Lancaster Libraries South Central,Library,London,2024-08-20,active,Small,82,51-100,partner,Ella Thompson,2024-08-17T16:02:00,2025-05-25T11:50:00
+co_0986,Beechwood Academy Central,School,London,2025-10-18,active,Small,51,51-100,self_serve,Farah Malik,2025-10-14T18:24:00,2026-04-17T14:31:00
+co_0987,Cotswold Grammar School South,School,London,2024-03-01,active,Small,34,1-50,self_serve,Farah Malik,2024-02-24T18:32:00,2025-05-29T13:36:00
+co_0988,Cedar Skills Centre Central South,Training Provider,London,2024-10-01,active,Medium,142,101-500,direct_sales,Imogen Davies,2024-09-29T11:41:00,2026-02-14T09:15:00
+co_0989,Ashford Academy South,School,West Midlands,2025-08-10,active,Small,26,1-50,self_serve,Charlotte Evans,2025-08-12T10:02:00,2025-11-28T10:27:00
+co_0990,Reading Knowledge Hub South,Library,London,2025-11-19,active,Large,901,501-1000,direct_sales,Daniel Hughes,2025-11-20T10:00:00,2026-06-02T10:33:00
+co_0991,Norwich Higher Education Centre North,University,South East,2023-10-07,trial,Large,585,501-1000,self_serve,,2023-10-05T14:32:00,2025-12-16T09:12:00
+co_0992,Kingfisher Grammar School Trust,School,London,2025-02-22,active,Small,42,1-50,self_serve,Amelia Clarke,2025-02-18T15:18:00,2026-01-07T17:36:00
+co_0993,Parkside Education Services South,Private Education,East Midlands,2023-09-24,trial,Small,47,1-50,inbound,Ella Thompson,2023-09-18T14:34:00,2025-11-07T14:30:00
+co_0994,Beechwood Learning Trust Central,School,Wales,2024-11-29,active,Medium,199,101-500,partner,George Bennett,2024-11-22T12:55:00,2026-03-03T16:45:00
+co_0995,Belfast Further Education College Central North,Further Education,South West,2024-10-20,trial,Medium,171,101-500,self_serve,Imogen Davies,2024-10-16T14:05:00,2025-06-16T08:05:00
+co_0996,Birmingham Further Education College Trust North,Further Education,East Midlands,2025-08-16,trial,Large,504,501-1000,direct_sales,Farah Malik,2025-08-06T09:00:00,2026-04-14T12:59:00
+co_0997,Exeter Library Service,Library,East of England,2025-07-07,active,Bespoke,1165,1001+,direct_sales,Charlotte Evans,2025-06-29T15:05:00,2025-08-20T13:31:00
+co_0998,Stamford Grammar School Trust,School,Ireland,2024-07-11,active,Medium,153,101-500,partner,George Bennett,2024-07-01T15:01:00,2025-10-11T18:39:00
+co_0999,Hastings Library Service South,Library,Wales,2025-08-16,active,Medium,256,101-500,direct_sales,Ben Whitmore,2025-08-15T14:36:00,2026-05-18T11:53:00
+co_1000,Stamford Learning Trust South Central,School,Wales,2026-04-21,trial,Small,38,1-50,public_sector_framework,George Bennett,2026-04-15T18:05:00,2026-04-23T08:35:00

@@ -1,0 +1,67 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: Cleaned customer organisations. One row per company.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]
+      - name: industry
+        tests:
+          - accepted_values:
+              values: [School, Private Education, Library, University,
+                       Training Provider, Further Education, Other]
+      - name: subscription_status
+        tests:
+          - accepted_values:
+              values: [trial, active, past_due, paused, voluntary_churn, delinquent_churn]
+      - name: current_plan_name
+        tests:
+          - accepted_values:
+              values: [Small, Medium, Large, Bespoke]
+      - name: region
+        description: Nullable — 9 source rows arrive without a region.
+
+  - name: stg_subscription_events
+    description: Cleaned subscription lifecycle and payment events.
+    columns:
+      - name: subscription_event_id
+        tests: [unique, not_null]
+      - name: company_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: company_id
+      - name: event_type
+        tests:
+          - accepted_values:
+              values: [trial_start, converted, renewal, upgrade, downgrade,
+                       voluntary_churn, delinquent_churn, reactivation,
+                       payment_failed, payment_recovered, cancellation_scheduled]
+      - name: payment_delay_days
+        description: Days between effective start and payment; up to 21 in source.
+      - name: monthly_recurring_revenue_gbp
+        description: >
+          monthly_recurring_revenue normalised to GBP via the static
+          eur_gbp_rate var. Use this (not the raw currency-mixed column) for
+          any cross-customer MRR rollup.
+      - name: invoice_amount_gbp
+        description: invoice_amount normalised to GBP via the static eur_gbp_rate var.
+
+  - name: stg_usage_events
+    description: Cleaned usage events with duplicate flagging.
+    columns:
+      - name: usage_id
+        tests: [unique, not_null]
+      - name: company_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: company_id
+      - name: usage_category
+        tests:
+          - accepted_values:
+              values: [Cognitive, Theoretical, Technical]
+      - name: credit_amount

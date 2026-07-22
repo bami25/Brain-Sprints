@@ -1,0 +1,72 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: >
+      Customer dimension with lifecycle context: trial window, trial usage,
+      conversion, churn and current MRR. One row per company.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]
+      - name: current_mrr
+        tests: [not_null]
+      - name: days_to_convert
+        description: Days from trial start to first paid date (2–10 in source).
+
+  - name: fct_subscription_events
+    columns:
+      - name: subscription_event_id
+        tests: [unique, not_null]
+
+  - name: fct_usage_events
+    description: Deduplicated usage events with post-trial-unconverted flag.
+    columns:
+      - name: usage_id
+        tests: [unique, not_null]
+      - name: is_post_trial_unconverted_usage
+        description: >
+          TRUE where a never-converted customer records usage after trial end.
+          Product rules say this should never happen; ~120 source rows violate it.
+
+  - name: fct_mrr_monthly
+    description: Month-end MRR, active customers and ARPA.
+    columns:
+      - name: month_end
+        tests: [unique, not_null]
+      - name: mrr
+        tests: [not_null]
+
+  - name: rpt_customer_health
+    description: Active-account health and opportunity flags for CS and Sales.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]
+        
+  - name: rpt_trial_activation
+    description: >
+      Per-trial activation profile (Opportunity 1). One row per trial (1,000).
+      Activated = 4+ active days AND all 3 categories inside the trial window.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]
+
+  - name: rpt_churn_signals
+    description: >
+      Engagement vs churn (Opportunity 2). One row per ever-converted
+      customer (673). Post-conversion events per subscribed month, engagement
+      band, churn outcome, and the cancellation->churn window for the 32
+      voluntary churners.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]
+        
+  - name: rpt_expansion_candidates
+    description: >
+      Expansion readiness (Opportunity 3). One row per active converted
+      customer (635). Plan-capacity utilisation (seats vs plan cap: Small
+      100 / Medium 500 / Large 1000), last-30-day engagement, and
+      flag_expansion_ready = capacity >= 90% + recent engagement + no
+      prior upgrade. Bespoke is uncapped and never capacity-flagged.
+    columns:
+      - name: company_id
+        tests: [unique, not_null]

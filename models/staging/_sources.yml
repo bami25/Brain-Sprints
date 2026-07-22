@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: raw
+    description: >
+      Raw operational extracts delivered as CSV. In production these would be
+      replicated tables (e.g. Fivetran/Airbyte into BigQuery); for this exercise
+      DuckDB reads the CSVs directly via read_csv_auto in the staging layer.
+    schema: main
+    tables:
+      - name: customer_data
+        description: One row per customer organisation (current-state snapshot).
+        meta: {external_location: "read_csv_auto('data/customer_data.csv')"}
+      - name: subscription_events
+        description: One row per subscription lifecycle or payment event.
+        meta: {external_location: "read_csv_auto('data/subscription_events.csv')"}
+      - name: usage_data
+        description: One row per credit-consuming product usage event.
+        meta: {external_location: "read_csv_auto('data/usage_data.csv')"}

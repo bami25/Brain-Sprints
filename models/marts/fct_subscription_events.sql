@@ -1,0 +1,20 @@
+select
+    subscription_event_id,
+    company_id,
+    event_type,
+    plan_name,
+    previous_plan_name,
+    payment_date,
+    subscription_start_date,
+    sub_end_date,
+    trial_end_date,
+    billing_period,
+    seat_count,
+    monthly_recurring_revenue,
+    monthly_recurring_revenue_gbp,
+    invoice_amount,
+    invoice_amount_gbp,
+    currency,
+    payment_status,
+    created_at
+from {{ ref('stg_subscription_events') }}
