@@ -1,6 +1,6 @@
 # Brain Sprints Analytics
 
-A dbt analytics engineering project modelling three raw CSV extracts; customer organisations, subscription lifecycle/payment events, and product usage events — into a tested warehouse layer and a set of business-facing marts.
+A dbt analytics engineering project modelling three raw CSV extracts; customer organisations, subscription lifecycle/payment events, and product usage events into a tested warehouse layer and a set of business-facing marts.
 
 The project supports analysis across the customer lifecycle:
 
@@ -12,9 +12,9 @@ The final marts focus on trial activation, voluntary churn signals, behavioural 
 
 ## Tools
 
-- **dbt Core (1.10)** — transformation and testing framework
-- **DuckDB (`dbt-duckdb`)** — local warehouse; raw CSVs are read directly using `read_csv_auto`, with no separate load step
-- **MotherDuck** — used to share the built analytical warehouse
+- **dbt Core (1.10)**
+- **DuckDB (`dbt-duckdb`)**
+- **Hex**
 
 ```bash
 pip install dbt-duckdb
