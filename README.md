@@ -1,6 +1,6 @@
-# Brain Sprints Analytics — dbt Project
+# Brain Sprints Analytics
 
-A dbt analytics engineering project modelling three raw CSV extracts — customer organisations, subscription lifecycle/payment events, and product usage events — into a tested warehouse layer and a set of business-facing marts.
+A dbt analytics engineering project modelling three raw CSV extracts; customer organisations, subscription lifecycle/payment events, and product usage events — into a tested warehouse layer and a set of business-facing marts.
 
 The project supports analysis across the customer lifecycle:
 
@@ -350,7 +350,7 @@ In a production environment, actual licensed-seat and occupied-seat data would p
 
 ---
 
-## 4. Protect Revenue From Payment Failures and Delinquent Churn — *Protect & Optimise Revenue*
+## 4. Protect Revenue From Payment Failures and Delinquent Churn; *Protect & Optimise Revenue*
 
 The subscription event data provides a lifecycle trail across:
 
@@ -376,11 +376,11 @@ This creates an opportunity to protect revenue that has already been acquired ra
 
 ---
 
-## 5. Investigate Extreme Credit Consumption as a Revenue Opportunity and Concentration Risk — *Protect & Optimise Revenue*
+## 5. Investigate Extreme Credit Consumption as a Revenue Opportunity and Concentration Risk; *Protect & Optimise Revenue*
 
 Account-level product consumption is heavily right-skewed.
 
-A small number of customers — particularly on Bespoke plans — account for a disproportionate share of total credit consumption.
+A small number of customers particularly on Bespoke plans account for a disproportionate share of total credit consumption.
 
 One account, `co_0777`, is an extreme usage outlier at approximately **4.14 million lifetime credits**, substantially above the rest of the customer base.
 
