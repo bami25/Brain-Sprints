@@ -12,6 +12,7 @@ The final marts focus on trial activation, voluntary churn signals, behavioural 
 
 - **dbt Core (1.10)**
 - **DuckDB (`dbt-duckdb`)**
+**MotherDuck**
 - **Hex**
 
 ```bash
